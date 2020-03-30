@@ -9,6 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Home</title>
         <link rel="stylesheet" href="PRJ-style.css">
+        <script src="SDG-Data-JSON.json"></script>
 
     </head>
 
@@ -20,7 +21,6 @@
             <li class="link"> <a href="PRJ-landing.html">Home</a> </li>
             <li class="link"> <a href="PRJ-Info.html">Information On The Problem</a> </li>
             <li class="active"> <a href="PRJ-Data.html">Data For The Problem</a> </li>
-            <li class="link"> <a href="PRJ-Input.html">User Feedback And Possible Solutions</a> </li>
 
         </ul>
 
@@ -33,17 +33,103 @@
         <br>
         <br>
 
-        <div class="parllax"></div>
+        <div class="parallax1"></div>
 
         <div class="text">
 
             <br>
             <p>This is where all of the data on the problem stuff will go.</p>
-            <canvas class="data1"></canvas>
+            <canvas id ="data1"></canvas>
+            <input id="count1">
+            <input id="count2">
+            <input id="count3">
+            <select class="sel" id="sel">
+                <option></option>
+            </select>
+            <h3>Please Enter 3 Country Names Above And Select The Date</h3>
+            <button onclick="dat1()" class="submit">Click To submit</button>
             <p>International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant 2016 United States dollars)</p>
+            
 
         </div>
 
     </body>
+
+    <script>
+
+        String.prototype.capitalize = function() {
+            return this.charAt(0).toUpperCase() + this.slice(1);
+        }
+
+        function fetch() {
+
+            var sel1 = document.getElementById("count1").value
+            var cSel1 = sel1.capitalize()
+
+            var sel2 = document.getElementById("count2").value
+            var cSel2 = sel2.capitalize()
+
+            var sel3 = document.getElementById("count3").value
+            var cSel3 = sel3.capitalize()
+
+        }
+
+        function dat1() {
+        
+            fetch()
+
+            var c = document.getElementById("data1")
+            var ctx = c.getContext("2d")
+
+            ctx.font = "20px Ariel";
+
+            for(i=0; i < data.length; i++) {
+                if(data[i].GeoAreaName == sel1) {
+                    console.log(sel1);
+                }
+                else if(data[i].GeoAreaName == cSel1) {
+                    console.log(cSel1);
+                }
+                else {
+                    ctx.fillStyle = "Black";
+                    ctx.fillRect(0, 0, 1423, 500);
+                    ctx.fillStyle = "White";
+                    ctx.fillText("Country 1 Not Found", 250, 250, 50);
+                }
+            }
+
+            for(j=0; j < data.length; j++) {
+                if(data[j].GeoAreaName == sel2) {
+                    console.log(sel2);
+                }
+                else if(data[j].GeoAreaName == cSel2) {
+                    console.log(cSel2);
+                }
+                else {
+                    ctx.fillStyle = "Black";
+                    ctx.fillRect(0, 0, 1423, 500);
+                    ctx.fillStyle = "White";
+                    ctx.fillText("Country 2 Not Found", 250, 250, 50);
+                }
+            }
+
+            for(k=0; k < data.length; k++) {
+                if(data[k].GeoAreaName == sel3) {
+                    console.log(sel3);
+                }
+                else if(data[k].GeoAreaName == cSel3) {
+                    console.log(cSel3);
+                }
+                else {
+                    ctx.fillStyle = "Black";
+                    ctx.fillRect(0, 0, 1423, 500);
+                    ctx.fillStyle = "White";
+                    ctx.fillText("Country 3 Not Found", 250, 250, 50);
+                }
+            }
+
+        }
+
+    </script>
 
 </html>

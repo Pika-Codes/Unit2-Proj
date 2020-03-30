@@ -1,1633 +1,1633 @@
-GeoAreaCode,GeoAreaName,TimePeriod,Value,Time_Detail,Units
-1,World,2000,1351.51,2000,USD_Millions_2016_Value
-1,World,2001,1315.12,2001,USD_Millions_2016_Value
-1,World,2002,1188.27,2002,USD_Millions_2016_Value
-1,World,2003,2956.9,2003,USD_Millions_2016_Value
-1,World,2004,2096.28,2004,USD_Millions_2016_Value
-1,World,2005,1808.22,2005,USD_Millions_2016_Value
-1,World,2006,2901.65,2006,USD_Millions_2016_Value
-1,World,2007,3958.63,2007,USD_Millions_2016_Value
-1,World,2008,2391.7,2008,USD_Millions_2016_Value
-1,World,2009,3683.77,2009,USD_Millions_2016_Value
-1,World,2010,9899.97,2010,USD_Millions_2016_Value
-1,World,2011,10233.1,2011,USD_Millions_2016_Value
-1,World,2012,10174.86,2012,USD_Millions_2016_Value
-1,World,2013,12950.85,2013,USD_Millions_2016_Value
-1,World,2014,15444.14,2014,USD_Millions_2016_Value
-1,World,2015,14512.32,2015,USD_Millions_2016_Value
-1,World,2016,18592.15,2016,USD_Millions_2016_Value
-4,Afghanistan,2000,0.02,2000,USD_Millions_2016_Value
-4,Afghanistan,2001,0.12,2001,USD_Millions_2016_Value
-4,Afghanistan,2002,3.7,2002,USD_Millions_2016_Value
-4,Afghanistan,2003,24.88,2003,USD_Millions_2016_Value
-4,Afghanistan,2005,9.35,2005,USD_Millions_2016_Value
-4,Afghanistan,2006,10.16,2006,USD_Millions_2016_Value
-4,Afghanistan,2007,14.79,2007,USD_Millions_2016_Value
-4,Afghanistan,2008,15.19,2008,USD_Millions_2016_Value
-4,Afghanistan,2009,9.39,2009,USD_Millions_2016_Value
-4,Afghanistan,2010,34.8,2010,USD_Millions_2016_Value
-4,Afghanistan,2011,27.71,2011,USD_Millions_2016_Value
-4,Afghanistan,2012,59.9,2012,USD_Millions_2016_Value
-4,Afghanistan,2013,256.32,2013,USD_Millions_2016_Value
-4,Afghanistan,2014,6.59,2014,USD_Millions_2016_Value
-4,Afghanistan,2015,4.6,2015,USD_Millions_2016_Value
-4,Afghanistan,2016,0.84,2016,USD_Millions_2016_Value
-12,Algeria,2001,0.78,2001,USD_Millions_2016_Value
-12,Algeria,2002,0.29,2002,USD_Millions_2016_Value
-12,Algeria,2003,0.09,2003,USD_Millions_2016_Value
-12,Algeria,2004,0.13,2004,USD_Millions_2016_Value
-12,Algeria,2005,0.15,2005,USD_Millions_2016_Value
-12,Algeria,2009,2.07,2009,USD_Millions_2016_Value
-12,Algeria,2010,0.39,2010,USD_Millions_2016_Value
-12,Algeria,2011,0,2011,USD_Millions_2016_Value
-12,Algeria,2012,0.94,2012,USD_Millions_2016_Value
-12,Algeria,2013,0.94,2013,USD_Millions_2016_Value
-12,Algeria,2014,0.93,2014,USD_Millions_2016_Value
-12,Algeria,2015,0.88,2015,USD_Millions_2016_Value
-12,Algeria,2016,0.16,2016,USD_Millions_2016_Value
-24,Angola,2003,0.04,2003,USD_Millions_2016_Value
-24,Angola,2004,0.04,2004,USD_Millions_2016_Value
-24,Angola,2007,0.72,2007,USD_Millions_2016_Value
-24,Angola,2010,0.02,2010,USD_Millions_2016_Value
-24,Angola,2011,0.21,2011,USD_Millions_2016_Value
-24,Angola,2012,0.01,2012,USD_Millions_2016_Value
-24,Angola,2015,0.01,2015,USD_Millions_2016_Value
-24,Angola,2016,90.15,2016,USD_Millions_2016_Value
-28,Antigua and Barbuda,2013,2.48,2013,USD_Millions_2016_Value
-28,Antigua and Barbuda,2015,6.7,2015,USD_Millions_2016_Value
-31,Azerbaijan,2000,4.62,2000,USD_Millions_2016_Value
-31,Azerbaijan,2005,2.14,2005,USD_Millions_2016_Value
-31,Azerbaijan,2006,0.46,2006,USD_Millions_2016_Value
-31,Azerbaijan,2009,0.16,2009,USD_Millions_2016_Value
-31,Azerbaijan,2010,179.56,2010,USD_Millions_2016_Value
-31,Azerbaijan,2011,0.02,2011,USD_Millions_2016_Value
-31,Azerbaijan,2014,0.02,2014,USD_Millions_2016_Value
-31,Azerbaijan,2015,74.68,2015,USD_Millions_2016_Value
-31,Azerbaijan,2016,0.01,2016,USD_Millions_2016_Value
-32,Argentina,2001,3.72,2001,USD_Millions_2016_Value
-32,Argentina,2003,0.05,2003,USD_Millions_2016_Value
-32,Argentina,2004,39.28,2004,USD_Millions_2016_Value
-32,Argentina,2005,0.26,2005,USD_Millions_2016_Value
-32,Argentina,2006,0.41,2006,USD_Millions_2016_Value
-32,Argentina,2007,0.34,2007,USD_Millions_2016_Value
-32,Argentina,2008,21.97,2008,USD_Millions_2016_Value
-32,Argentina,2009,37.43,2009,USD_Millions_2016_Value
-32,Argentina,2010,0.98,2010,USD_Millions_2016_Value
-32,Argentina,2011,66.41,2011,USD_Millions_2016_Value
-32,Argentina,2012,243.57,2012,USD_Millions_2016_Value
-32,Argentina,2013,45.98,2013,USD_Millions_2016_Value
-32,Argentina,2014,4401.81,2014,USD_Millions_2016_Value
-32,Argentina,2015,589.08,2015,USD_Millions_2016_Value
-32,Argentina,2016,240.02,2016,USD_Millions_2016_Value
-50,Bangladesh,2000,2.83,2000,USD_Millions_2016_Value
-50,Bangladesh,2002,30.93,2002,USD_Millions_2016_Value
-50,Bangladesh,2003,44.82,2003,USD_Millions_2016_Value
-50,Bangladesh,2004,16.47,2004,USD_Millions_2016_Value
-50,Bangladesh,2005,37.28,2005,USD_Millions_2016_Value
-50,Bangladesh,2006,0.02,2006,USD_Millions_2016_Value
-50,Bangladesh,2007,47.81,2007,USD_Millions_2016_Value
-50,Bangladesh,2008,0.01,2008,USD_Millions_2016_Value
-50,Bangladesh,2009,26.5,2009,USD_Millions_2016_Value
-50,Bangladesh,2010,0.18,2010,USD_Millions_2016_Value
-50,Bangladesh,2011,226.99,2011,USD_Millions_2016_Value
-50,Bangladesh,2012,143.1,2012,USD_Millions_2016_Value
-50,Bangladesh,2013,112.61,2013,USD_Millions_2016_Value
-50,Bangladesh,2014,86.81,2014,USD_Millions_2016_Value
-50,Bangladesh,2015,7.25,2015,USD_Millions_2016_Value
-50,Bangladesh,2016,336.46,2016,USD_Millions_2016_Value
-51,Armenia,2001,7.19,2001,USD_Millions_2016_Value
-51,Armenia,2002,0.05,2002,USD_Millions_2016_Value
-51,Armenia,2003,2.67,2003,USD_Millions_2016_Value
-51,Armenia,2004,9.69,2004,USD_Millions_2016_Value
-51,Armenia,2005,2.93,2005,USD_Millions_2016_Value
-51,Armenia,2006,5.66,2006,USD_Millions_2016_Value
-51,Armenia,2007,1.48,2007,USD_Millions_2016_Value
-51,Armenia,2008,0.09,2008,USD_Millions_2016_Value
-51,Armenia,2009,0.43,2009,USD_Millions_2016_Value
-51,Armenia,2010,86.83,2010,USD_Millions_2016_Value
-51,Armenia,2011,0.92,2011,USD_Millions_2016_Value
-51,Armenia,2012,47.46,2012,USD_Millions_2016_Value
-51,Armenia,2013,24.86,2013,USD_Millions_2016_Value
-51,Armenia,2014,8.99,2014,USD_Millions_2016_Value
-51,Armenia,2015,22.36,2015,USD_Millions_2016_Value
-51,Armenia,2016,113.14,2016,USD_Millions_2016_Value
-52,Barbados,2015,0.07,2015,USD_Millions_2016_Value
-52,Barbados,2016,8.5,2016,USD_Millions_2016_Value
-62,Central and Southern Asia,2000,566.17,2000,USD_Millions_2016_Value
-62,Central and Southern Asia,2001,536.16,2001,USD_Millions_2016_Value
-62,Central and Southern Asia,2002,511.13,2002,USD_Millions_2016_Value
-62,Central and Southern Asia,2003,163.97,2003,USD_Millions_2016_Value
-62,Central and Southern Asia,2004,368.55,2004,USD_Millions_2016_Value
-62,Central and Southern Asia,2005,263.21,2005,USD_Millions_2016_Value
-62,Central and Southern Asia,2006,562.09,2006,USD_Millions_2016_Value
-62,Central and Southern Asia,2007,805.02,2007,USD_Millions_2016_Value
-62,Central and Southern Asia,2008,556.27,2008,USD_Millions_2016_Value
-62,Central and Southern Asia,2009,477.11,2009,USD_Millions_2016_Value
-62,Central and Southern Asia,2010,707.68,2010,USD_Millions_2016_Value
-62,Central and Southern Asia,2011,2505.15,2011,USD_Millions_2016_Value
-62,Central and Southern Asia,2012,3020.76,2012,USD_Millions_2016_Value
-62,Central and Southern Asia,2013,1873.29,2013,USD_Millions_2016_Value
-62,Central and Southern Asia,2014,1881.23,2014,USD_Millions_2016_Value
-62,Central and Southern Asia,2015,4970.42,2015,USD_Millions_2016_Value
-62,Central and Southern Asia,2016,3445.13,2016,USD_Millions_2016_Value
-64,Bhutan,2000,4.61,2000,USD_Millions_2016_Value
-64,Bhutan,2001,2.35,2001,USD_Millions_2016_Value
-64,Bhutan,2002,24.36,2002,USD_Millions_2016_Value
-64,Bhutan,2005,1.24,2005,USD_Millions_2016_Value
-64,Bhutan,2006,0.11,2006,USD_Millions_2016_Value
-64,Bhutan,2007,0.79,2007,USD_Millions_2016_Value
-64,Bhutan,2008,4.05,2008,USD_Millions_2016_Value
-64,Bhutan,2009,79.47,2009,USD_Millions_2016_Value
-64,Bhutan,2010,21.93,2010,USD_Millions_2016_Value
-64,Bhutan,2011,0.08,2011,USD_Millions_2016_Value
-64,Bhutan,2012,3.34,2012,USD_Millions_2016_Value
-64,Bhutan,2013,35.5,2013,USD_Millions_2016_Value
-64,Bhutan,2014,1.9,2014,USD_Millions_2016_Value
-64,Bhutan,2015,121.3,2015,USD_Millions_2016_Value
-64,Bhutan,2016,0.05,2016,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2000,0.08,2000,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2001,0.74,2001,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2002,0.07,2002,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2003,15.37,2003,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2004,0.04,2004,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2005,0.13,2005,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2006,0.41,2006,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2007,0.39,2007,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2008,0.8,2008,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2009,96.3,2009,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2010,5.26,2010,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2011,1.32,2011,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2012,4.69,2012,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2013,67.18,2013,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2014,37.71,2014,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2015,1.88,2015,USD_Millions_2016_Value
-68,Bolivia (Plurinational State of),2016,1150.27,2016,USD_Millions_2016_Value
-72,Botswana,2000,0.03,2000,USD_Millions_2016_Value
-72,Botswana,2004,0.04,2004,USD_Millions_2016_Value
-72,Botswana,2005,0.02,2005,USD_Millions_2016_Value
-72,Botswana,2006,0.06,2006,USD_Millions_2016_Value
-72,Botswana,2007,0.01,2007,USD_Millions_2016_Value
-72,Botswana,2009,6.46,2009,USD_Millions_2016_Value
-72,Botswana,2010,10.25,2010,USD_Millions_2016_Value
-72,Botswana,2011,0.08,2011,USD_Millions_2016_Value
-72,Botswana,2012,0.47,2012,USD_Millions_2016_Value
-72,Botswana,2014,2.45,2014,USD_Millions_2016_Value
-72,Botswana,2016,0.01,2016,USD_Millions_2016_Value
-76,Brazil,2000,121.83,2000,USD_Millions_2016_Value
-76,Brazil,2001,5,2001,USD_Millions_2016_Value
-76,Brazil,2002,32.02,2002,USD_Millions_2016_Value
-76,Brazil,2003,7.22,2003,USD_Millions_2016_Value
-76,Brazil,2004,1.07,2004,USD_Millions_2016_Value
-76,Brazil,2005,11.23,2005,USD_Millions_2016_Value
-76,Brazil,2006,1.14,2006,USD_Millions_2016_Value
-76,Brazil,2007,0.86,2007,USD_Millions_2016_Value
-76,Brazil,2008,18.36,2008,USD_Millions_2016_Value
-76,Brazil,2009,164.79,2009,USD_Millions_2016_Value
-76,Brazil,2010,135.86,2010,USD_Millions_2016_Value
-76,Brazil,2011,167.35,2011,USD_Millions_2016_Value
-76,Brazil,2012,232.65,2012,USD_Millions_2016_Value
-76,Brazil,2013,146.66,2013,USD_Millions_2016_Value
-76,Brazil,2014,463.58,2014,USD_Millions_2016_Value
-76,Brazil,2015,2.17,2015,USD_Millions_2016_Value
-76,Brazil,2016,154.17,2016,USD_Millions_2016_Value
-84,Belize,2009,4.66,2009,USD_Millions_2016_Value
-84,Belize,2015,0.02,2015,USD_Millions_2016_Value
-84,Belize,2016,1.6,2016,USD_Millions_2016_Value
-90,Solomon Islands,2008,0.08,2008,USD_Millions_2016_Value
-90,Solomon Islands,2009,0.08,2009,USD_Millions_2016_Value
-90,Solomon Islands,2011,0.01,2011,USD_Millions_2016_Value
-90,Solomon Islands,2012,1.06,2012,USD_Millions_2016_Value
-90,Solomon Islands,2013,0.01,2013,USD_Millions_2016_Value
-90,Solomon Islands,2014,12.6,2014,USD_Millions_2016_Value
-90,Solomon Islands,2015,6.64,2015,USD_Millions_2016_Value
-90,Solomon Islands,2016,6.65,2016,USD_Millions_2016_Value
-104,Myanmar,2002,5.35,2002,USD_Millions_2016_Value
-104,Myanmar,2003,413.46,2003,USD_Millions_2016_Value
-104,Myanmar,2004,0.07,2004,USD_Millions_2016_Value
-104,Myanmar,2010,0.09,2010,USD_Millions_2016_Value
-104,Myanmar,2012,0.01,2012,USD_Millions_2016_Value
-104,Myanmar,2013,64.01,2013,USD_Millions_2016_Value
-104,Myanmar,2014,10.57,2014,USD_Millions_2016_Value
-104,Myanmar,2015,55.67,2015,USD_Millions_2016_Value
-104,Myanmar,2016,3.73,2016,USD_Millions_2016_Value
-108,Burundi,2008,0.01,2008,USD_Millions_2016_Value
-108,Burundi,2009,0.08,2009,USD_Millions_2016_Value
-108,Burundi,2010,13,2010,USD_Millions_2016_Value
-108,Burundi,2011,0.01,2011,USD_Millions_2016_Value
-108,Burundi,2012,5.74,2012,USD_Millions_2016_Value
-108,Burundi,2013,92.93,2013,USD_Millions_2016_Value
-108,Burundi,2014,134.95,2014,USD_Millions_2016_Value
-108,Burundi,2015,2.39,2015,USD_Millions_2016_Value
-108,Burundi,2016,0.05,2016,USD_Millions_2016_Value
-116,Cambodia,2002,42.35,2002,USD_Millions_2016_Value
-116,Cambodia,2003,4.44,2003,USD_Millions_2016_Value
-116,Cambodia,2004,540.84,2004,USD_Millions_2016_Value
-116,Cambodia,2005,1.24,2005,USD_Millions_2016_Value
-116,Cambodia,2006,10.29,2006,USD_Millions_2016_Value
-116,Cambodia,2007,580.47,2007,USD_Millions_2016_Value
-116,Cambodia,2008,62.73,2008,USD_Millions_2016_Value
-116,Cambodia,2009,3.75,2009,USD_Millions_2016_Value
-116,Cambodia,2010,646.86,2010,USD_Millions_2016_Value
-116,Cambodia,2011,1.07,2011,USD_Millions_2016_Value
-116,Cambodia,2012,0.68,2012,USD_Millions_2016_Value
-116,Cambodia,2013,490.47,2013,USD_Millions_2016_Value
-116,Cambodia,2014,0.39,2014,USD_Millions_2016_Value
-116,Cambodia,2015,7.92,2015,USD_Millions_2016_Value
-116,Cambodia,2016,150.27,2016,USD_Millions_2016_Value
-120,Cameroon,2002,0.01,2002,USD_Millions_2016_Value
-120,Cameroon,2003,0.01,2003,USD_Millions_2016_Value
-120,Cameroon,2004,0.02,2004,USD_Millions_2016_Value
-120,Cameroon,2006,32.76,2006,USD_Millions_2016_Value
-120,Cameroon,2008,0.46,2008,USD_Millions_2016_Value
-120,Cameroon,2009,0.14,2009,USD_Millions_2016_Value
-120,Cameroon,2010,51.26,2010,USD_Millions_2016_Value
-120,Cameroon,2011,0.04,2011,USD_Millions_2016_Value
-120,Cameroon,2012,828.8,2012,USD_Millions_2016_Value
-120,Cameroon,2013,0.02,2013,USD_Millions_2016_Value
-120,Cameroon,2014,9.92,2014,USD_Millions_2016_Value
-120,Cameroon,2015,1.98,2015,USD_Millions_2016_Value
-120,Cameroon,2016,74.28,2016,USD_Millions_2016_Value
-132,Cabo Verde,2001,2.52,2001,USD_Millions_2016_Value
-132,Cabo Verde,2005,0.02,2005,USD_Millions_2016_Value
-132,Cabo Verde,2008,0.42,2008,USD_Millions_2016_Value
-132,Cabo Verde,2009,0.17,2009,USD_Millions_2016_Value
-132,Cabo Verde,2010,65.34,2010,USD_Millions_2016_Value
-132,Cabo Verde,2011,13.41,2011,USD_Millions_2016_Value
-132,Cabo Verde,2012,15.54,2012,USD_Millions_2016_Value
-132,Cabo Verde,2013,14.81,2013,USD_Millions_2016_Value
-132,Cabo Verde,2014,6.76,2014,USD_Millions_2016_Value
-132,Cabo Verde,2015,2.97,2015,USD_Millions_2016_Value
-132,Cabo Verde,2016,7.62,2016,USD_Millions_2016_Value
-140,Central African Republic,2006,0,2006,USD_Millions_2016_Value
-140,Central African Republic,2009,4.02,2009,USD_Millions_2016_Value
-140,Central African Republic,2014,0,2014,USD_Millions_2016_Value
-140,Central African Republic,2015,3.81,2015,USD_Millions_2016_Value
-140,Central African Republic,2016,0,2016,USD_Millions_2016_Value
-144,Sri Lanka,2000,1.53,2000,USD_Millions_2016_Value
-144,Sri Lanka,2001,3.75,2001,USD_Millions_2016_Value
-144,Sri Lanka,2002,383.91,2002,USD_Millions_2016_Value
-144,Sri Lanka,2003,0.04,2003,USD_Millions_2016_Value
-144,Sri Lanka,2004,0.13,2004,USD_Millions_2016_Value
-144,Sri Lanka,2005,23.74,2005,USD_Millions_2016_Value
-144,Sri Lanka,2006,0.09,2006,USD_Millions_2016_Value
-144,Sri Lanka,2007,36.61,2007,USD_Millions_2016_Value
-144,Sri Lanka,2008,0.11,2008,USD_Millions_2016_Value
-144,Sri Lanka,2009,11.66,2009,USD_Millions_2016_Value
-144,Sri Lanka,2010,44.43,2010,USD_Millions_2016_Value
-144,Sri Lanka,2011,6.8,2011,USD_Millions_2016_Value
-144,Sri Lanka,2012,214.17,2012,USD_Millions_2016_Value
-144,Sri Lanka,2013,2.26,2013,USD_Millions_2016_Value
-144,Sri Lanka,2014,115.14,2014,USD_Millions_2016_Value
-144,Sri Lanka,2015,0.43,2015,USD_Millions_2016_Value
-144,Sri Lanka,2016,58.76,2016,USD_Millions_2016_Value
-148,Chad,2001,5.55,2001,USD_Millions_2016_Value
-148,Chad,2007,24.47,2007,USD_Millions_2016_Value
-148,Chad,2011,0,2011,USD_Millions_2016_Value
-148,Chad,2013,0.03,2013,USD_Millions_2016_Value
-148,Chad,2014,0.02,2014,USD_Millions_2016_Value
-148,Chad,2015,0.02,2015,USD_Millions_2016_Value
-148,Chad,2016,39.65,2016,USD_Millions_2016_Value
-152,Chile,2000,0.43,2000,USD_Millions_2016_Value
-152,Chile,2001,0.14,2001,USD_Millions_2016_Value
-152,Chile,2002,0.03,2002,USD_Millions_2016_Value
-152,Chile,2003,0.07,2003,USD_Millions_2016_Value
-152,Chile,2004,2.67,2004,USD_Millions_2016_Value
-152,Chile,2005,0.18,2005,USD_Millions_2016_Value
-152,Chile,2006,0.1,2006,USD_Millions_2016_Value
-152,Chile,2007,9.55,2007,USD_Millions_2016_Value
-152,Chile,2008,61.37,2008,USD_Millions_2016_Value
-152,Chile,2009,52.98,2009,USD_Millions_2016_Value
-152,Chile,2010,3.06,2010,USD_Millions_2016_Value
-152,Chile,2011,64.85,2011,USD_Millions_2016_Value
-152,Chile,2012,953.33,2012,USD_Millions_2016_Value
-152,Chile,2013,1285.84,2013,USD_Millions_2016_Value
-152,Chile,2014,793.27,2014,USD_Millions_2016_Value
-152,Chile,2015,104.49,2015,USD_Millions_2016_Value
-152,Chile,2016,211.94,2016,USD_Millions_2016_Value
-156,China,2000,234.46,2000,USD_Millions_2016_Value
-156,China,2001,322.3,2001,USD_Millions_2016_Value
-156,China,2002,216.86,2002,USD_Millions_2016_Value
-156,China,2003,21.37,2003,USD_Millions_2016_Value
-156,China,2004,31.22,2004,USD_Millions_2016_Value
-156,China,2005,148.66,2005,USD_Millions_2016_Value
-156,China,2006,99.64,2006,USD_Millions_2016_Value
-156,China,2007,23.73,2007,USD_Millions_2016_Value
-156,China,2008,105.86,2008,USD_Millions_2016_Value
-156,China,2009,56.14,2009,USD_Millions_2016_Value
-156,China,2010,74.39,2010,USD_Millions_2016_Value
-156,China,2011,41.21,2011,USD_Millions_2016_Value
-156,China,2012,96.57,2012,USD_Millions_2016_Value
-156,China,2013,290.17,2013,USD_Millions_2016_Value
-156,China,2014,220.42,2014,USD_Millions_2016_Value
-156,China,2015,88.49,2015,USD_Millions_2016_Value
-156,China,2016,1213.8,2016,USD_Millions_2016_Value
-170,Colombia,2002,0.08,2002,USD_Millions_2016_Value
-170,Colombia,2003,0.01,2003,USD_Millions_2016_Value
-170,Colombia,2005,214.31,2005,USD_Millions_2016_Value
-170,Colombia,2006,1.84,2006,USD_Millions_2016_Value
-170,Colombia,2007,0.75,2007,USD_Millions_2016_Value
-170,Colombia,2008,1.07,2008,USD_Millions_2016_Value
-170,Colombia,2009,0.01,2009,USD_Millions_2016_Value
-170,Colombia,2010,3.32,2010,USD_Millions_2016_Value
-170,Colombia,2011,0.74,2011,USD_Millions_2016_Value
-170,Colombia,2012,1.78,2012,USD_Millions_2016_Value
-170,Colombia,2013,0.31,2013,USD_Millions_2016_Value
-170,Colombia,2014,52.26,2014,USD_Millions_2016_Value
-170,Colombia,2015,21.84,2015,USD_Millions_2016_Value
-170,Colombia,2016,1395.3,2016,USD_Millions_2016_Value
-174,Comoros,2012,0.3,2012,USD_Millions_2016_Value
-174,Comoros,2013,0.02,2013,USD_Millions_2016_Value
-174,Comoros,2014,0.12,2014,USD_Millions_2016_Value
-174,Comoros,2015,0.96,2015,USD_Millions_2016_Value
-174,Comoros,2016,0.01,2016,USD_Millions_2016_Value
-178,Congo,2000,0.14,2000,USD_Millions_2016_Value
-178,Congo,2003,491.2,2003,USD_Millions_2016_Value
-178,Congo,2013,1.81,2013,USD_Millions_2016_Value
-178,Congo,2014,0,2014,USD_Millions_2016_Value
-178,Congo,2016,0.08,2016,USD_Millions_2016_Value
-180,Democratic Republic of the Congo,2001,0.04,2001,USD_Millions_2016_Value
-180,Democratic Republic of the Congo,2002,0.06,2002,USD_Millions_2016_Value
-180,Democratic Republic of the Congo,2005,1.21,2005,USD_Millions_2016_Value
-180,Democratic Republic of the Congo,2007,201.8,2007,USD_Millions_2016_Value
-180,Democratic Republic of the Congo,2008,52.15,2008,USD_Millions_2016_Value
-180,Democratic Republic of the Congo,2009,0.05,2009,USD_Millions_2016_Value
-180,Democratic Republic of the Congo,2010,0.38,2010,USD_Millions_2016_Value
-180,Democratic Republic of the Congo,2011,1234.94,2011,USD_Millions_2016_Value
-180,Democratic Republic of the Congo,2012,0.07,2012,USD_Millions_2016_Value
-180,Democratic Republic of the Congo,2013,24.07,2013,USD_Millions_2016_Value
-180,Democratic Republic of the Congo,2014,69.49,2014,USD_Millions_2016_Value
-180,Democratic Republic of the Congo,2015,0.59,2015,USD_Millions_2016_Value
-180,Democratic Republic of the Congo,2016,22.27,2016,USD_Millions_2016_Value
-184,Cook Islands,2011,3.37,2011,USD_Millions_2016_Value
-184,Cook Islands,2012,4.87,2012,USD_Millions_2016_Value
-184,Cook Islands,2013,7.25,2013,USD_Millions_2016_Value
-184,Cook Islands,2014,14.54,2014,USD_Millions_2016_Value
-184,Cook Islands,2015,17.42,2015,USD_Millions_2016_Value
-184,Cook Islands,2016,4.26,2016,USD_Millions_2016_Value
-188,Costa Rica,2000,0.09,2000,USD_Millions_2016_Value
-188,Costa Rica,2001,139.98,2001,USD_Millions_2016_Value
-188,Costa Rica,2003,15.97,2003,USD_Millions_2016_Value
-188,Costa Rica,2004,0.08,2004,USD_Millions_2016_Value
-188,Costa Rica,2005,0.1,2005,USD_Millions_2016_Value
-188,Costa Rica,2006,0.08,2006,USD_Millions_2016_Value
-188,Costa Rica,2007,0.66,2007,USD_Millions_2016_Value
-188,Costa Rica,2008,0.08,2008,USD_Millions_2016_Value
-188,Costa Rica,2009,0.01,2009,USD_Millions_2016_Value
-188,Costa Rica,2010,7.63,2010,USD_Millions_2016_Value
-188,Costa Rica,2011,125.5,2011,USD_Millions_2016_Value
-188,Costa Rica,2012,524.32,2012,USD_Millions_2016_Value
-188,Costa Rica,2013,113.83,2013,USD_Millions_2016_Value
-188,Costa Rica,2014,160.45,2014,USD_Millions_2016_Value
-188,Costa Rica,2015,412.49,2015,USD_Millions_2016_Value
-188,Costa Rica,2016,148.77,2016,USD_Millions_2016_Value
-192,Cuba,2000,0.75,2000,USD_Millions_2016_Value
-192,Cuba,2001,4.38,2001,USD_Millions_2016_Value
-192,Cuba,2002,1.62,2002,USD_Millions_2016_Value
-192,Cuba,2003,0.34,2003,USD_Millions_2016_Value
-192,Cuba,2004,0.87,2004,USD_Millions_2016_Value
-192,Cuba,2005,0.38,2005,USD_Millions_2016_Value
-192,Cuba,2006,0.37,2006,USD_Millions_2016_Value
-192,Cuba,2007,0.01,2007,USD_Millions_2016_Value
-192,Cuba,2008,0.04,2008,USD_Millions_2016_Value
-192,Cuba,2009,0.85,2009,USD_Millions_2016_Value
-192,Cuba,2010,3.93,2010,USD_Millions_2016_Value
-192,Cuba,2011,1.24,2011,USD_Millions_2016_Value
-192,Cuba,2012,0.39,2012,USD_Millions_2016_Value
-192,Cuba,2013,2.98,2013,USD_Millions_2016_Value
-192,Cuba,2014,0.04,2014,USD_Millions_2016_Value
-192,Cuba,2015,73.06,2015,USD_Millions_2016_Value
-192,Cuba,2016,29.75,2016,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2000,58.85,2000,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2001,66.1,2001,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2002,278.43,2002,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2003,1855.05,2003,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2004,923.92,2004,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2005,598.18,2005,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2006,589.45,2006,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2007,1634.22,2007,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2008,340.52,2008,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2009,1226.86,2009,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2010,1473.83,2010,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2011,2459.19,2011,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2012,832.28,2012,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2013,4791.28,2013,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2014,1712.72,2014,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2015,3927.21,2015,USD_Millions_2016_Value
-199,Least Developed Countries (LDCs),2016,2534.77,2016,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2000,65.66,2000,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2001,103.38,2001,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2002,146.56,2002,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2003,550.1,2003,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2004,191.41,2004,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2005,533.22,2005,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2006,660.48,2006,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2007,1452.67,2007,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2008,728.35,2008,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2009,761.97,2009,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2010,1831.75,2010,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2011,2928.63,2011,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2012,1931.88,2012,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2013,4975.77,2013,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2014,2249.03,2014,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2015,5047.02,2015,USD_Millions_2016_Value
-202,Sub-Saharan Africa,2016,3909.27,2016,USD_Millions_2016_Value
-204,Benin,2002,0.09,2002,USD_Millions_2016_Value
-204,Benin,2004,0,2004,USD_Millions_2016_Value
-204,Benin,2006,8.19,2006,USD_Millions_2016_Value
-204,Benin,2008,0.54,2008,USD_Millions_2016_Value
-204,Benin,2009,8.49,2009,USD_Millions_2016_Value
-204,Benin,2010,0.16,2010,USD_Millions_2016_Value
-204,Benin,2011,0.35,2011,USD_Millions_2016_Value
-204,Benin,2012,0.07,2012,USD_Millions_2016_Value
-204,Benin,2014,12.19,2014,USD_Millions_2016_Value
-204,Benin,2015,537.88,2015,USD_Millions_2016_Value
-204,Benin,2016,1.21,2016,USD_Millions_2016_Value
-212,Dominica,2013,7.34,2013,USD_Millions_2016_Value
-212,Dominica,2014,1.64,2014,USD_Millions_2016_Value
-214,Dominican Republic,2000,10.41,2000,USD_Millions_2016_Value
-214,Dominican Republic,2001,3.92,2001,USD_Millions_2016_Value
-214,Dominican Republic,2002,0.63,2002,USD_Millions_2016_Value
-214,Dominican Republic,2004,0.44,2004,USD_Millions_2016_Value
-214,Dominican Republic,2005,6.05,2005,USD_Millions_2016_Value
-214,Dominican Republic,2006,0.5,2006,USD_Millions_2016_Value
-214,Dominican Republic,2007,0.36,2007,USD_Millions_2016_Value
-214,Dominican Republic,2008,0.14,2008,USD_Millions_2016_Value
-214,Dominican Republic,2009,0.29,2009,USD_Millions_2016_Value
-214,Dominican Republic,2010,75.26,2010,USD_Millions_2016_Value
-214,Dominican Republic,2011,0.23,2011,USD_Millions_2016_Value
-214,Dominican Republic,2012,1.33,2012,USD_Millions_2016_Value
-214,Dominican Republic,2013,0.02,2013,USD_Millions_2016_Value
-214,Dominican Republic,2014,0.42,2014,USD_Millions_2016_Value
-214,Dominican Republic,2015,0.07,2015,USD_Millions_2016_Value
-214,Dominican Republic,2016,78.59,2016,USD_Millions_2016_Value
-218,Ecuador,2000,2.08,2000,USD_Millions_2016_Value
-218,Ecuador,2001,2.06,2001,USD_Millions_2016_Value
-218,Ecuador,2002,0.8,2002,USD_Millions_2016_Value
-218,Ecuador,2003,0.33,2003,USD_Millions_2016_Value
-218,Ecuador,2004,0.3,2004,USD_Millions_2016_Value
-218,Ecuador,2005,8.06,2005,USD_Millions_2016_Value
-218,Ecuador,2006,0.01,2006,USD_Millions_2016_Value
-218,Ecuador,2008,2.63,2008,USD_Millions_2016_Value
-218,Ecuador,2009,1.2,2009,USD_Millions_2016_Value
-218,Ecuador,2010,2672.28,2010,USD_Millions_2016_Value
-218,Ecuador,2011,746.56,2011,USD_Millions_2016_Value
-218,Ecuador,2012,25.36,2012,USD_Millions_2016_Value
-218,Ecuador,2013,316.38,2013,USD_Millions_2016_Value
-218,Ecuador,2014,482.3,2014,USD_Millions_2016_Value
-218,Ecuador,2015,29.93,2015,USD_Millions_2016_Value
-218,Ecuador,2016,129.26,2016,USD_Millions_2016_Value
-222,El Salvador,2004,1.24,2004,USD_Millions_2016_Value
-222,El Salvador,2006,0,2006,USD_Millions_2016_Value
-222,El Salvador,2007,0.24,2007,USD_Millions_2016_Value
-222,El Salvador,2008,0.02,2008,USD_Millions_2016_Value
-222,El Salvador,2009,0.1,2009,USD_Millions_2016_Value
-222,El Salvador,2010,54.06,2010,USD_Millions_2016_Value
-222,El Salvador,2011,0.93,2011,USD_Millions_2016_Value
-222,El Salvador,2012,1.39,2012,USD_Millions_2016_Value
-222,El Salvador,2013,64.57,2013,USD_Millions_2016_Value
-222,El Salvador,2014,112.21,2014,USD_Millions_2016_Value
-222,El Salvador,2015,73.88,2015,USD_Millions_2016_Value
-222,El Salvador,2016,197.66,2016,USD_Millions_2016_Value
-226,Equatorial Guinea,2001,0.17,2001,USD_Millions_2016_Value
-226,Equatorial Guinea,2002,0.16,2002,USD_Millions_2016_Value
-226,Equatorial Guinea,2003,0.04,2003,USD_Millions_2016_Value
-226,Equatorial Guinea,2006,442.41,2006,USD_Millions_2016_Value
-226,Equatorial Guinea,2013,3.29,2013,USD_Millions_2016_Value
-226,Equatorial Guinea,2015,0.02,2015,USD_Millions_2016_Value
-231,Ethiopia,2000,1.41,2000,USD_Millions_2016_Value
-231,Ethiopia,2001,0.75,2001,USD_Millions_2016_Value
-231,Ethiopia,2002,90.57,2002,USD_Millions_2016_Value
-231,Ethiopia,2003,7.43,2003,USD_Millions_2016_Value
-231,Ethiopia,2004,0.61,2004,USD_Millions_2016_Value
-231,Ethiopia,2005,348.55,2005,USD_Millions_2016_Value
-231,Ethiopia,2006,0.39,2006,USD_Millions_2016_Value
-231,Ethiopia,2007,194.41,2007,USD_Millions_2016_Value
-231,Ethiopia,2008,0.31,2008,USD_Millions_2016_Value
-231,Ethiopia,2009,447.94,2009,USD_Millions_2016_Value
-231,Ethiopia,2010,88.59,2010,USD_Millions_2016_Value
-231,Ethiopia,2011,103.96,2011,USD_Millions_2016_Value
-231,Ethiopia,2012,51.73,2012,USD_Millions_2016_Value
-231,Ethiopia,2013,279.83,2013,USD_Millions_2016_Value
-231,Ethiopia,2014,187.11,2014,USD_Millions_2016_Value
-231,Ethiopia,2015,309.24,2015,USD_Millions_2016_Value
-231,Ethiopia,2016,51.98,2016,USD_Millions_2016_Value
-232,Eritrea,2007,0.49,2007,USD_Millions_2016_Value
-232,Eritrea,2008,0.07,2008,USD_Millions_2016_Value
-232,Eritrea,2009,0.03,2009,USD_Millions_2016_Value
-232,Eritrea,2010,0.05,2010,USD_Millions_2016_Value
-232,Eritrea,2011,0.24,2011,USD_Millions_2016_Value
-232,Eritrea,2015,13.87,2015,USD_Millions_2016_Value
-242,Fiji,2004,0.3,2004,USD_Millions_2016_Value
-242,Fiji,2005,0.26,2005,USD_Millions_2016_Value
-242,Fiji,2007,0.05,2007,USD_Millions_2016_Value
-242,Fiji,2009,91.39,2009,USD_Millions_2016_Value
-242,Fiji,2011,0.01,2011,USD_Millions_2016_Value
-242,Fiji,2012,0.11,2012,USD_Millions_2016_Value
-242,Fiji,2013,4.53,2013,USD_Millions_2016_Value
-242,Fiji,2014,6.43,2014,USD_Millions_2016_Value
-242,Fiji,2015,1.66,2015,USD_Millions_2016_Value
-242,Fiji,2016,0.18,2016,USD_Millions_2016_Value
-258,French Polynesia,2012,0.23,2012,USD_Millions_2016_Value
-262,Djibouti,2005,5.7,2005,USD_Millions_2016_Value
-262,Djibouti,2009,5.57,2009,USD_Millions_2016_Value
-262,Djibouti,2010,11.93,2010,USD_Millions_2016_Value
-262,Djibouti,2011,0.01,2011,USD_Millions_2016_Value
-262,Djibouti,2012,9.1,2012,USD_Millions_2016_Value
-262,Djibouti,2013,7.92,2013,USD_Millions_2016_Value
-262,Djibouti,2014,3.03,2014,USD_Millions_2016_Value
-262,Djibouti,2015,3.71,2015,USD_Millions_2016_Value
-262,Djibouti,2016,1.27,2016,USD_Millions_2016_Value
-266,Gabon,2008,387.17,2008,USD_Millions_2016_Value
-266,Gabon,2010,6.24,2010,USD_Millions_2016_Value
-266,Gabon,2013,0.02,2013,USD_Millions_2016_Value
-266,Gabon,2014,0.01,2014,USD_Millions_2016_Value
-266,Gabon,2015,12.59,2015,USD_Millions_2016_Value
-266,Gabon,2016,39.07,2016,USD_Millions_2016_Value
-268,Georgia,2001,17.13,2001,USD_Millions_2016_Value
-268,Georgia,2003,1.79,2003,USD_Millions_2016_Value
-268,Georgia,2004,3.24,2004,USD_Millions_2016_Value
-268,Georgia,2005,9.03,2005,USD_Millions_2016_Value
-268,Georgia,2006,2.47,2006,USD_Millions_2016_Value
-268,Georgia,2009,0.97,2009,USD_Millions_2016_Value
-268,Georgia,2010,8.17,2010,USD_Millions_2016_Value
-268,Georgia,2011,88.66,2011,USD_Millions_2016_Value
-268,Georgia,2012,34.89,2012,USD_Millions_2016_Value
-268,Georgia,2013,9.39,2013,USD_Millions_2016_Value
-268,Georgia,2014,187.51,2014,USD_Millions_2016_Value
-268,Georgia,2015,6.37,2015,USD_Millions_2016_Value
-268,Georgia,2016,86.83,2016,USD_Millions_2016_Value
-270,Gambia,2002,0.01,2002,USD_Millions_2016_Value
-270,Gambia,2011,0.01,2011,USD_Millions_2016_Value
-275,State of Palestine,2000,0.03,2000,USD_Millions_2016_Value
-275,State of Palestine,2001,0.03,2001,USD_Millions_2016_Value
-275,State of Palestine,2005,0.03,2005,USD_Millions_2016_Value
-275,State of Palestine,2007,0.38,2007,USD_Millions_2016_Value
-275,State of Palestine,2008,0.08,2008,USD_Millions_2016_Value
-275,State of Palestine,2009,5.48,2009,USD_Millions_2016_Value
-275,State of Palestine,2010,1.31,2010,USD_Millions_2016_Value
-275,State of Palestine,2011,0.74,2011,USD_Millions_2016_Value
-275,State of Palestine,2012,1.24,2012,USD_Millions_2016_Value
-275,State of Palestine,2013,0.9,2013,USD_Millions_2016_Value
-275,State of Palestine,2014,1.88,2014,USD_Millions_2016_Value
-275,State of Palestine,2015,22.01,2015,USD_Millions_2016_Value
-275,State of Palestine,2016,2.78,2016,USD_Millions_2016_Value
-288,Ghana,2000,4.01,2000,USD_Millions_2016_Value
-288,Ghana,2001,0.96,2001,USD_Millions_2016_Value
-288,Ghana,2002,0.02,2002,USD_Millions_2016_Value
-288,Ghana,2003,0.32,2003,USD_Millions_2016_Value
-288,Ghana,2004,0.25,2004,USD_Millions_2016_Value
-288,Ghana,2005,0.35,2005,USD_Millions_2016_Value
-288,Ghana,2006,26,2006,USD_Millions_2016_Value
-288,Ghana,2007,466.5,2007,USD_Millions_2016_Value
-288,Ghana,2008,7.4,2008,USD_Millions_2016_Value
-288,Ghana,2009,0.62,2009,USD_Millions_2016_Value
-288,Ghana,2010,23.95,2010,USD_Millions_2016_Value
-288,Ghana,2011,1.35,2011,USD_Millions_2016_Value
-288,Ghana,2012,0.79,2012,USD_Millions_2016_Value
-288,Ghana,2013,2.23,2013,USD_Millions_2016_Value
-288,Ghana,2014,7.16,2014,USD_Millions_2016_Value
-288,Ghana,2015,57.79,2015,USD_Millions_2016_Value
-288,Ghana,2016,484.01,2016,USD_Millions_2016_Value
-296,Kiribati,2009,4.87,2009,USD_Millions_2016_Value
-296,Kiribati,2010,0.94,2010,USD_Millions_2016_Value
-296,Kiribati,2013,4.52,2013,USD_Millions_2016_Value
-296,Kiribati,2014,4.17,2014,USD_Millions_2016_Value
-296,Kiribati,2016,0,2016,USD_Millions_2016_Value
-308,Grenada,2003,0.43,2003,USD_Millions_2016_Value
-308,Grenada,2011,2.92,2011,USD_Millions_2016_Value
-308,Grenada,2014,0.11,2014,USD_Millions_2016_Value
-308,Grenada,2015,1.63,2015,USD_Millions_2016_Value
-320,Guatemala,2005,0.03,2005,USD_Millions_2016_Value
-320,Guatemala,2006,0,2006,USD_Millions_2016_Value
-320,Guatemala,2008,0.06,2008,USD_Millions_2016_Value
-320,Guatemala,2009,0.02,2009,USD_Millions_2016_Value
-320,Guatemala,2010,9.59,2010,USD_Millions_2016_Value
-320,Guatemala,2011,4.13,2011,USD_Millions_2016_Value
-320,Guatemala,2012,53.87,2012,USD_Millions_2016_Value
-320,Guatemala,2013,0.48,2013,USD_Millions_2016_Value
-320,Guatemala,2014,22.81,2014,USD_Millions_2016_Value
-320,Guatemala,2015,0.02,2015,USD_Millions_2016_Value
-320,Guatemala,2016,13.35,2016,USD_Millions_2016_Value
-324,Guinea,2000,0.21,2000,USD_Millions_2016_Value
-324,Guinea,2001,0.52,2001,USD_Millions_2016_Value
-324,Guinea,2002,4.72,2002,USD_Millions_2016_Value
-324,Guinea,2006,2.39,2006,USD_Millions_2016_Value
-324,Guinea,2007,0.48,2007,USD_Millions_2016_Value
-324,Guinea,2008,0.01,2008,USD_Millions_2016_Value
-324,Guinea,2011,348.05,2011,USD_Millions_2016_Value
-324,Guinea,2012,5.75,2012,USD_Millions_2016_Value
-324,Guinea,2014,0.06,2014,USD_Millions_2016_Value
-324,Guinea,2015,1.15,2015,USD_Millions_2016_Value
-324,Guinea,2016,135.05,2016,USD_Millions_2016_Value
-328,Guyana,2001,4.97,2001,USD_Millions_2016_Value
-328,Guyana,2005,0.03,2005,USD_Millions_2016_Value
-328,Guyana,2010,1.14,2010,USD_Millions_2016_Value
-328,Guyana,2012,0.08,2012,USD_Millions_2016_Value
-328,Guyana,2013,0.02,2013,USD_Millions_2016_Value
-328,Guyana,2014,0.02,2014,USD_Millions_2016_Value
-328,Guyana,2015,1.42,2015,USD_Millions_2016_Value
-332,Haiti,2000,0.79,2000,USD_Millions_2016_Value
-332,Haiti,2005,0.3,2005,USD_Millions_2016_Value
-332,Haiti,2008,0,2008,USD_Millions_2016_Value
-332,Haiti,2009,14.25,2009,USD_Millions_2016_Value
-332,Haiti,2010,2.22,2010,USD_Millions_2016_Value
-332,Haiti,2011,29.78,2011,USD_Millions_2016_Value
-332,Haiti,2012,9.63,2012,USD_Millions_2016_Value
-332,Haiti,2013,13.08,2013,USD_Millions_2016_Value
-332,Haiti,2014,0.78,2014,USD_Millions_2016_Value
-332,Haiti,2015,46.57,2015,USD_Millions_2016_Value
-332,Haiti,2016,8.23,2016,USD_Millions_2016_Value
-340,Honduras,2000,31.19,2000,USD_Millions_2016_Value
-340,Honduras,2003,0.2,2003,USD_Millions_2016_Value
-340,Honduras,2005,5.63,2005,USD_Millions_2016_Value
-340,Honduras,2007,0.02,2007,USD_Millions_2016_Value
-340,Honduras,2008,0.02,2008,USD_Millions_2016_Value
-340,Honduras,2009,0.13,2009,USD_Millions_2016_Value
-340,Honduras,2010,123.85,2010,USD_Millions_2016_Value
-340,Honduras,2011,12.54,2011,USD_Millions_2016_Value
-340,Honduras,2012,22.39,2012,USD_Millions_2016_Value
-340,Honduras,2013,335.89,2013,USD_Millions_2016_Value
-340,Honduras,2014,168.93,2014,USD_Millions_2016_Value
-340,Honduras,2015,361.84,2015,USD_Millions_2016_Value
-340,Honduras,2016,205.22,2016,USD_Millions_2016_Value
-356,India,2000,467.91,2000,USD_Millions_2016_Value
-356,India,2001,181.38,2001,USD_Millions_2016_Value
-356,India,2002,16.26,2002,USD_Millions_2016_Value
-356,India,2003,10.11,2003,USD_Millions_2016_Value
-356,India,2004,345.28,2004,USD_Millions_2016_Value
-356,India,2005,146.57,2005,USD_Millions_2016_Value
-356,India,2006,160.79,2006,USD_Millions_2016_Value
-356,India,2007,446.01,2007,USD_Millions_2016_Value
-356,India,2008,312.14,2008,USD_Millions_2016_Value
-356,India,2009,205.09,2009,USD_Millions_2016_Value
-356,India,2010,295.51,2010,USD_Millions_2016_Value
-356,India,2011,1830.99,2011,USD_Millions_2016_Value
-356,India,2012,1076.95,2012,USD_Millions_2016_Value
-356,India,2013,494.19,2013,USD_Millions_2016_Value
-356,India,2014,682.07,2014,USD_Millions_2016_Value
-356,India,2015,858.35,2015,USD_Millions_2016_Value
-356,India,2016,2049.82,2016,USD_Millions_2016_Value
-360,Indonesia,2000,2.2,2000,USD_Millions_2016_Value
-360,Indonesia,2001,4.87,2001,USD_Millions_2016_Value
-360,Indonesia,2002,0.11,2002,USD_Millions_2016_Value
-360,Indonesia,2003,193.28,2003,USD_Millions_2016_Value
-360,Indonesia,2004,51.61,2004,USD_Millions_2016_Value
-360,Indonesia,2005,188.11,2005,USD_Millions_2016_Value
-360,Indonesia,2006,255.58,2006,USD_Millions_2016_Value
-360,Indonesia,2007,619.25,2007,USD_Millions_2016_Value
-360,Indonesia,2008,18.02,2008,USD_Millions_2016_Value
-360,Indonesia,2009,27.88,2009,USD_Millions_2016_Value
-360,Indonesia,2010,44.31,2010,USD_Millions_2016_Value
-360,Indonesia,2011,918.77,2011,USD_Millions_2016_Value
-360,Indonesia,2012,15.83,2012,USD_Millions_2016_Value
-360,Indonesia,2013,237.43,2013,USD_Millions_2016_Value
-360,Indonesia,2014,306.09,2014,USD_Millions_2016_Value
-360,Indonesia,2015,360.18,2015,USD_Millions_2016_Value
-360,Indonesia,2016,326.22,2016,USD_Millions_2016_Value
-364,Iran (Islamic Republic of),2000,62.18,2000,USD_Millions_2016_Value
-364,Iran (Islamic Republic of),2009,0.02,2009,USD_Millions_2016_Value
-364,Iran (Islamic Republic of),2010,0,2010,USD_Millions_2016_Value
-364,Iran (Islamic Republic of),2014,0.09,2014,USD_Millions_2016_Value
-364,Iran (Islamic Republic of),2015,0.2,2015,USD_Millions_2016_Value
-364,Iran (Islamic Republic of),2016,0.08,2016,USD_Millions_2016_Value
-368,Iraq,2003,22.53,2003,USD_Millions_2016_Value
-368,Iraq,2006,41.51,2006,USD_Millions_2016_Value
-368,Iraq,2007,33.56,2007,USD_Millions_2016_Value
-368,Iraq,2008,0.08,2008,USD_Millions_2016_Value
-368,Iraq,2009,0.14,2009,USD_Millions_2016_Value
-368,Iraq,2010,158.31,2010,USD_Millions_2016_Value
-368,Iraq,2012,2.16,2012,USD_Millions_2016_Value
-368,Iraq,2014,0.02,2014,USD_Millions_2016_Value
-368,Iraq,2016,250,2016,USD_Millions_2016_Value
-384,C��te d'Ivoire,2000,13.12,2000,USD_Millions_2016_Value
-384,C��te d'Ivoire,2010,0.86,2010,USD_Millions_2016_Value
-384,C��te d'Ivoire,2011,14.61,2011,USD_Millions_2016_Value
-384,C��te d'Ivoire,2012,0.25,2012,USD_Millions_2016_Value
-384,C��te d'Ivoire,2013,475.89,2013,USD_Millions_2016_Value
-384,C��te d'Ivoire,2015,0.76,2015,USD_Millions_2016_Value
-384,C��te d'Ivoire,2016,33.49,2016,USD_Millions_2016_Value
-388,Jamaica,2000,4.86,2000,USD_Millions_2016_Value
-388,Jamaica,2001,8.42,2001,USD_Millions_2016_Value
-388,Jamaica,2008,0.38,2008,USD_Millions_2016_Value
-388,Jamaica,2009,0.11,2009,USD_Millions_2016_Value
-388,Jamaica,2010,0.16,2010,USD_Millions_2016_Value
-388,Jamaica,2011,8.5,2011,USD_Millions_2016_Value
-388,Jamaica,2012,0.12,2012,USD_Millions_2016_Value
-388,Jamaica,2014,54.81,2014,USD_Millions_2016_Value
-388,Jamaica,2015,58.74,2015,USD_Millions_2016_Value
-388,Jamaica,2016,16.84,2016,USD_Millions_2016_Value
-398,Kazakhstan,2006,344.29,2006,USD_Millions_2016_Value
-398,Kazakhstan,2007,54.13,2007,USD_Millions_2016_Value
-398,Kazakhstan,2008,2.51,2008,USD_Millions_2016_Value
-398,Kazakhstan,2010,1.33,2010,USD_Millions_2016_Value
-398,Kazakhstan,2011,1.62,2011,USD_Millions_2016_Value
-398,Kazakhstan,2012,26.38,2012,USD_Millions_2016_Value
-398,Kazakhstan,2013,0.02,2013,USD_Millions_2016_Value
-398,Kazakhstan,2014,35.95,2014,USD_Millions_2016_Value
-398,Kazakhstan,2015,42.63,2015,USD_Millions_2016_Value
-398,Kazakhstan,2016,44.01,2016,USD_Millions_2016_Value
-400,Jordan,2002,0.03,2002,USD_Millions_2016_Value
-400,Jordan,2003,0.23,2003,USD_Millions_2016_Value
-400,Jordan,2005,0.02,2005,USD_Millions_2016_Value
-400,Jordan,2007,0.18,2007,USD_Millions_2016_Value
-400,Jordan,2008,0.08,2008,USD_Millions_2016_Value
-400,Jordan,2009,13.4,2009,USD_Millions_2016_Value
-400,Jordan,2010,6.82,2010,USD_Millions_2016_Value
-400,Jordan,2011,44.4,2011,USD_Millions_2016_Value
-400,Jordan,2012,0.01,2012,USD_Millions_2016_Value
-400,Jordan,2013,134.76,2013,USD_Millions_2016_Value
-400,Jordan,2014,149,2014,USD_Millions_2016_Value
-400,Jordan,2015,158.4,2015,USD_Millions_2016_Value
-400,Jordan,2016,481.96,2016,USD_Millions_2016_Value
-404,Kenya,2000,0.09,2000,USD_Millions_2016_Value
-404,Kenya,2003,0.31,2003,USD_Millions_2016_Value
-404,Kenya,2004,133.45,2004,USD_Millions_2016_Value
-404,Kenya,2005,41.59,2005,USD_Millions_2016_Value
-404,Kenya,2006,0.01,2006,USD_Millions_2016_Value
-404,Kenya,2007,58.41,2007,USD_Millions_2016_Value
-404,Kenya,2008,28.79,2008,USD_Millions_2016_Value
-404,Kenya,2009,33.76,2009,USD_Millions_2016_Value
-404,Kenya,2010,708.7,2010,USD_Millions_2016_Value
-404,Kenya,2011,482.85,2011,USD_Millions_2016_Value
-404,Kenya,2012,201.91,2012,USD_Millions_2016_Value
-404,Kenya,2013,15.49,2013,USD_Millions_2016_Value
-404,Kenya,2014,762.97,2014,USD_Millions_2016_Value
-404,Kenya,2015,515.53,2015,USD_Millions_2016_Value
-404,Kenya,2016,689.5,2016,USD_Millions_2016_Value
-408,Democratic People's Republic of Korea,2002,0.04,2002,USD_Millions_2016_Value
-408,Democratic People's Republic of Korea,2004,0.36,2004,USD_Millions_2016_Value
-408,Democratic People's Republic of Korea,2005,0.13,2005,USD_Millions_2016_Value
-408,Democratic People's Republic of Korea,2006,0.08,2006,USD_Millions_2016_Value
-408,Democratic People's Republic of Korea,2011,0,2011,USD_Millions_2016_Value
-408,Democratic People's Republic of Korea,2012,0.02,2012,USD_Millions_2016_Value
-408,Democratic People's Republic of Korea,2013,0.03,2013,USD_Millions_2016_Value
-408,Democratic People's Republic of Korea,2015,0,2015,USD_Millions_2016_Value
-408,Democratic People's Republic of Korea,2016,0.33,2016,USD_Millions_2016_Value
-417,Kyrgyzstan,2000,8.15,2000,USD_Millions_2016_Value
-417,Kyrgyzstan,2004,0.04,2004,USD_Millions_2016_Value
-417,Kyrgyzstan,2008,0.4,2008,USD_Millions_2016_Value
-417,Kyrgyzstan,2009,0.17,2009,USD_Millions_2016_Value
-417,Kyrgyzstan,2010,1.5,2010,USD_Millions_2016_Value
-417,Kyrgyzstan,2011,23.38,2011,USD_Millions_2016_Value
-417,Kyrgyzstan,2012,0.58,2012,USD_Millions_2016_Value
-417,Kyrgyzstan,2013,13.65,2013,USD_Millions_2016_Value
-417,Kyrgyzstan,2015,0.02,2015,USD_Millions_2016_Value
-417,Kyrgyzstan,2016,36.67,2016,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2002,10.25,2002,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2003,0.16,2003,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2004,306.91,2004,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2005,51.46,2005,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2006,3.06,2006,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2007,2.04,2007,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2008,1.52,2008,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2009,392.17,2009,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2010,10.38,2010,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2011,7.47,2011,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2012,128.05,2012,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2013,699.01,2013,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2014,188.3,2014,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2015,80.55,2015,USD_Millions_2016_Value
-418,Lao People's Democratic Republic,2016,518.31,2016,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2000,178.86,2000,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2001,179.81,2001,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2002,136.56,2002,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2003,82.11,2003,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2004,50.14,2004,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2005,279.31,2005,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2006,1134.85,2006,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2007,77.44,2007,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2008,134.37,2008,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2009,398.82,2009,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2010,4518.48,2010,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2011,1986.26,2011,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2012,3205.9,2012,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2013,3109.93,2013,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2014,7771.99,2014,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2015,2478.34,2015,USD_Millions_2016_Value
-419,Latin America and the Caribbean,2016,5220.95,2016,USD_Millions_2016_Value
-422,Lebanon,2004,0.07,2004,USD_Millions_2016_Value
-422,Lebanon,2007,0.79,2007,USD_Millions_2016_Value
-422,Lebanon,2009,0.38,2009,USD_Millions_2016_Value
-422,Lebanon,2010,1.59,2010,USD_Millions_2016_Value
-422,Lebanon,2012,1.36,2012,USD_Millions_2016_Value
-422,Lebanon,2013,0.02,2013,USD_Millions_2016_Value
-422,Lebanon,2014,2.24,2014,USD_Millions_2016_Value
-422,Lebanon,2015,35.13,2015,USD_Millions_2016_Value
-422,Lebanon,2016,22.69,2016,USD_Millions_2016_Value
-426,Lesotho,2004,0.05,2004,USD_Millions_2016_Value
-426,Lesotho,2005,0.08,2005,USD_Millions_2016_Value
-426,Lesotho,2006,0.05,2006,USD_Millions_2016_Value
-426,Lesotho,2007,0.01,2007,USD_Millions_2016_Value
-426,Lesotho,2009,0.81,2009,USD_Millions_2016_Value
-426,Lesotho,2010,0.04,2010,USD_Millions_2016_Value
-426,Lesotho,2011,2.82,2011,USD_Millions_2016_Value
-426,Lesotho,2012,0.21,2012,USD_Millions_2016_Value
-426,Lesotho,2013,0.09,2013,USD_Millions_2016_Value
-426,Lesotho,2014,8.91,2014,USD_Millions_2016_Value
-426,Lesotho,2015,0.04,2015,USD_Millions_2016_Value
-426,Lesotho,2016,0,2016,USD_Millions_2016_Value
-430,Liberia,2007,0.63,2007,USD_Millions_2016_Value
-430,Liberia,2008,0.16,2008,USD_Millions_2016_Value
-430,Liberia,2011,97.14,2011,USD_Millions_2016_Value
-430,Liberia,2012,0.02,2012,USD_Millions_2016_Value
-430,Liberia,2013,80.74,2013,USD_Millions_2016_Value
-430,Liberia,2014,0.18,2014,USD_Millions_2016_Value
-430,Liberia,2015,239.12,2015,USD_Millions_2016_Value
-430,Liberia,2016,9.72,2016,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2000,71.03,2000,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2001,57.25,2001,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2002,183.91,2002,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2003,147.33,2003,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2004,330.24,2004,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2005,495.39,2005,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2006,610.53,2006,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2007,830.28,2007,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2008,182.98,2008,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2009,1228.75,2009,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2010,917,2010,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2011,490.83,2011,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2012,632.55,2012,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2013,4418.29,2013,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2014,1455.74,2014,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2015,2998.33,2015,USD_Millions_2016_Value
-432,Landlocked developing countries (LLDCs),2016,2587.84,2016,USD_Millions_2016_Value
-450,Madagascar,2002,0.01,2002,USD_Millions_2016_Value
-450,Madagascar,2004,8,2004,USD_Millions_2016_Value
-450,Madagascar,2005,3.02,2005,USD_Millions_2016_Value
-450,Madagascar,2006,6.86,2006,USD_Millions_2016_Value
-450,Madagascar,2007,8.2,2007,USD_Millions_2016_Value
-450,Madagascar,2008,2.55,2008,USD_Millions_2016_Value
-450,Madagascar,2011,7.07,2011,USD_Millions_2016_Value
-450,Madagascar,2012,0.05,2012,USD_Millions_2016_Value
-450,Madagascar,2013,2.66,2013,USD_Millions_2016_Value
-450,Madagascar,2014,13.58,2014,USD_Millions_2016_Value
-450,Madagascar,2015,5.07,2015,USD_Millions_2016_Value
-450,Madagascar,2016,21.42,2016,USD_Millions_2016_Value
-454,Malawi,2000,6.54,2000,USD_Millions_2016_Value
-454,Malawi,2003,0.51,2003,USD_Millions_2016_Value
-454,Malawi,2004,0.06,2004,USD_Millions_2016_Value
-454,Malawi,2005,0.06,2005,USD_Millions_2016_Value
-454,Malawi,2006,0.05,2006,USD_Millions_2016_Value
-454,Malawi,2007,0.06,2007,USD_Millions_2016_Value
-454,Malawi,2009,0.07,2009,USD_Millions_2016_Value
-454,Malawi,2010,14.66,2010,USD_Millions_2016_Value
-454,Malawi,2011,2.32,2011,USD_Millions_2016_Value
-454,Malawi,2012,1.66,2012,USD_Millions_2016_Value
-454,Malawi,2013,34.07,2013,USD_Millions_2016_Value
-454,Malawi,2014,1.9,2014,USD_Millions_2016_Value
-454,Malawi,2015,62.94,2015,USD_Millions_2016_Value
-454,Malawi,2016,0.33,2016,USD_Millions_2016_Value
-458,Malaysia,2000,141.04,2000,USD_Millions_2016_Value
-458,Malaysia,2002,0.02,2002,USD_Millions_2016_Value
-458,Malaysia,2004,0.26,2004,USD_Millions_2016_Value
-458,Malaysia,2006,0.01,2006,USD_Millions_2016_Value
-458,Malaysia,2007,0.01,2007,USD_Millions_2016_Value
-458,Malaysia,2009,0.03,2009,USD_Millions_2016_Value
-458,Malaysia,2010,0.14,2010,USD_Millions_2016_Value
-458,Malaysia,2011,0.06,2011,USD_Millions_2016_Value
-458,Malaysia,2012,3.85,2012,USD_Millions_2016_Value
-458,Malaysia,2013,0.07,2013,USD_Millions_2016_Value
-458,Malaysia,2014,0.16,2014,USD_Millions_2016_Value
-458,Malaysia,2015,0.17,2015,USD_Millions_2016_Value
-458,Malaysia,2016,1.29,2016,USD_Millions_2016_Value
-462,Maldives,2000,4.61,2000,USD_Millions_2016_Value
-462,Maldives,2008,0.11,2008,USD_Millions_2016_Value
-462,Maldives,2009,0.45,2009,USD_Millions_2016_Value
-462,Maldives,2010,9.7,2010,USD_Millions_2016_Value
-462,Maldives,2011,0.01,2011,USD_Millions_2016_Value
-462,Maldives,2012,0.03,2012,USD_Millions_2016_Value
-462,Maldives,2014,40.97,2014,USD_Millions_2016_Value
-462,Maldives,2015,5.97,2015,USD_Millions_2016_Value
-462,Maldives,2016,0.01,2016,USD_Millions_2016_Value
-466,Mali,2000,3.36,2000,USD_Millions_2016_Value
-466,Mali,2001,9.63,2001,USD_Millions_2016_Value
-466,Mali,2002,0.01,2002,USD_Millions_2016_Value
-466,Mali,2003,0.02,2003,USD_Millions_2016_Value
-466,Mali,2004,0.06,2004,USD_Millions_2016_Value
-466,Mali,2005,5.57,2005,USD_Millions_2016_Value
-466,Mali,2006,30.05,2006,USD_Millions_2016_Value
-466,Mali,2007,0.09,2007,USD_Millions_2016_Value
-466,Mali,2008,0.05,2008,USD_Millions_2016_Value
-466,Mali,2009,36.84,2009,USD_Millions_2016_Value
-466,Mali,2010,0.02,2010,USD_Millions_2016_Value
-466,Mali,2011,0.22,2011,USD_Millions_2016_Value
-466,Mali,2012,0.17,2012,USD_Millions_2016_Value
-466,Mali,2013,439.92,2013,USD_Millions_2016_Value
-466,Mali,2014,94.65,2014,USD_Millions_2016_Value
-466,Mali,2015,9.08,2015,USD_Millions_2016_Value
-466,Mali,2016,58.79,2016,USD_Millions_2016_Value
-478,Mauritania,2001,0.19,2001,USD_Millions_2016_Value
-478,Mauritania,2006,23.35,2006,USD_Millions_2016_Value
-478,Mauritania,2007,0.07,2007,USD_Millions_2016_Value
-478,Mauritania,2011,0.01,2011,USD_Millions_2016_Value
-478,Mauritania,2012,64.88,2012,USD_Millions_2016_Value
-478,Mauritania,2013,66.01,2013,USD_Millions_2016_Value
-478,Mauritania,2014,12.48,2014,USD_Millions_2016_Value
-478,Mauritania,2015,0.12,2015,USD_Millions_2016_Value
-478,Mauritania,2016,171.03,2016,USD_Millions_2016_Value
-480,Mauritius,2010,1.96,2010,USD_Millions_2016_Value
-480,Mauritius,2011,116.36,2011,USD_Millions_2016_Value
-480,Mauritius,2013,56.43,2013,USD_Millions_2016_Value
-480,Mauritius,2014,50.5,2014,USD_Millions_2016_Value
-480,Mauritius,2015,8.93,2015,USD_Millions_2016_Value
-480,Mauritius,2016,28.21,2016,USD_Millions_2016_Value
-484,Mexico,2000,2.32,2000,USD_Millions_2016_Value
-484,Mexico,2001,3.22,2001,USD_Millions_2016_Value
-484,Mexico,2002,13.64,2002,USD_Millions_2016_Value
-484,Mexico,2003,0.25,2003,USD_Millions_2016_Value
-484,Mexico,2004,0.5,2004,USD_Millions_2016_Value
-484,Mexico,2005,32.3,2005,USD_Millions_2016_Value
-484,Mexico,2006,31.45,2006,USD_Millions_2016_Value
-484,Mexico,2007,0.15,2007,USD_Millions_2016_Value
-484,Mexico,2008,6.41,2008,USD_Millions_2016_Value
-484,Mexico,2009,4.15,2009,USD_Millions_2016_Value
-484,Mexico,2010,45.26,2010,USD_Millions_2016_Value
-484,Mexico,2011,0.96,2011,USD_Millions_2016_Value
-484,Mexico,2012,351.3,2012,USD_Millions_2016_Value
-484,Mexico,2013,41.21,2013,USD_Millions_2016_Value
-484,Mexico,2014,366.64,2014,USD_Millions_2016_Value
-484,Mexico,2015,195.49,2015,USD_Millions_2016_Value
-484,Mexico,2016,430.59,2016,USD_Millions_2016_Value
-496,Mongolia,2000,4.86,2000,USD_Millions_2016_Value
-496,Mongolia,2001,1.59,2001,USD_Millions_2016_Value
-496,Mongolia,2002,1.32,2002,USD_Millions_2016_Value
-496,Mongolia,2003,5.34,2003,USD_Millions_2016_Value
-496,Mongolia,2005,2.62,2005,USD_Millions_2016_Value
-496,Mongolia,2006,5.83,2006,USD_Millions_2016_Value
-496,Mongolia,2007,12.06,2007,USD_Millions_2016_Value
-496,Mongolia,2008,4.3,2008,USD_Millions_2016_Value
-496,Mongolia,2009,11.82,2009,USD_Millions_2016_Value
-496,Mongolia,2010,11.47,2010,USD_Millions_2016_Value
-496,Mongolia,2012,27.16,2012,USD_Millions_2016_Value
-496,Mongolia,2013,0.14,2013,USD_Millions_2016_Value
-496,Mongolia,2014,0.01,2014,USD_Millions_2016_Value
-496,Mongolia,2015,0.89,2015,USD_Millions_2016_Value
-496,Mongolia,2016,193.37,2016,USD_Millions_2016_Value
-500,Montserrat,2008,1.27,2008,USD_Millions_2016_Value
-500,Montserrat,2011,0.09,2011,USD_Millions_2016_Value
-500,Montserrat,2012,6.67,2012,USD_Millions_2016_Value
-500,Montserrat,2013,0.56,2013,USD_Millions_2016_Value
-500,Montserrat,2014,0.95,2014,USD_Millions_2016_Value
-500,Montserrat,2015,1.99,2015,USD_Millions_2016_Value
-500,Montserrat,2016,7.92,2016,USD_Millions_2016_Value
-504,Morocco,2000,0.25,2000,USD_Millions_2016_Value
-504,Morocco,2001,1.42,2001,USD_Millions_2016_Value
-504,Morocco,2002,12.8,2002,USD_Millions_2016_Value
-504,Morocco,2003,0.52,2003,USD_Millions_2016_Value
-504,Morocco,2004,144.17,2004,USD_Millions_2016_Value
-504,Morocco,2005,178.48,2005,USD_Millions_2016_Value
-504,Morocco,2006,65.93,2006,USD_Millions_2016_Value
-504,Morocco,2007,171.67,2007,USD_Millions_2016_Value
-504,Morocco,2008,216.54,2008,USD_Millions_2016_Value
-504,Morocco,2009,115.28,2009,USD_Millions_2016_Value
-504,Morocco,2010,8.32,2010,USD_Millions_2016_Value
-504,Morocco,2011,208.68,2011,USD_Millions_2016_Value
-504,Morocco,2012,987.16,2012,USD_Millions_2016_Value
-504,Morocco,2013,5.67,2013,USD_Millions_2016_Value
-504,Morocco,2014,1360.84,2014,USD_Millions_2016_Value
-504,Morocco,2015,223.51,2015,USD_Millions_2016_Value
-504,Morocco,2016,444.28,2016,USD_Millions_2016_Value
-508,Mozambique,2000,0.04,2000,USD_Millions_2016_Value
-508,Mozambique,2001,0.39,2001,USD_Millions_2016_Value
-508,Mozambique,2002,12.62,2002,USD_Millions_2016_Value
-508,Mozambique,2003,3.86,2003,USD_Millions_2016_Value
-508,Mozambique,2004,1.31,2004,USD_Millions_2016_Value
-508,Mozambique,2005,0.84,2005,USD_Millions_2016_Value
-508,Mozambique,2006,0.05,2006,USD_Millions_2016_Value
-508,Mozambique,2007,4.59,2007,USD_Millions_2016_Value
-508,Mozambique,2008,5.96,2008,USD_Millions_2016_Value
-508,Mozambique,2009,1.93,2009,USD_Millions_2016_Value
-508,Mozambique,2010,89.54,2010,USD_Millions_2016_Value
-508,Mozambique,2011,15.08,2011,USD_Millions_2016_Value
-508,Mozambique,2012,70.81,2012,USD_Millions_2016_Value
-508,Mozambique,2013,36.41,2013,USD_Millions_2016_Value
-508,Mozambique,2014,8.95,2014,USD_Millions_2016_Value
-508,Mozambique,2015,60.59,2015,USD_Millions_2016_Value
-508,Mozambique,2016,30.67,2016,USD_Millions_2016_Value
-516,Namibia,2000,0.1,2000,USD_Millions_2016_Value
-516,Namibia,2001,0.21,2001,USD_Millions_2016_Value
-516,Namibia,2002,0.03,2002,USD_Millions_2016_Value
-516,Namibia,2003,0.03,2003,USD_Millions_2016_Value
-516,Namibia,2004,0.09,2004,USD_Millions_2016_Value
-516,Namibia,2005,0.38,2005,USD_Millions_2016_Value
-516,Namibia,2006,0.21,2006,USD_Millions_2016_Value
-516,Namibia,2007,0.01,2007,USD_Millions_2016_Value
-516,Namibia,2008,43.78,2008,USD_Millions_2016_Value
-516,Namibia,2010,44.37,2010,USD_Millions_2016_Value
-516,Namibia,2011,0.05,2011,USD_Millions_2016_Value
-516,Namibia,2012,0.54,2012,USD_Millions_2016_Value
-516,Namibia,2014,0.07,2014,USD_Millions_2016_Value
-516,Namibia,2016,11.16,2016,USD_Millions_2016_Value
-520,Nauru,2005,1.95,2005,USD_Millions_2016_Value
-520,Nauru,2007,0.33,2007,USD_Millions_2016_Value
-520,Nauru,2014,0.01,2014,USD_Millions_2016_Value
-520,Nauru,2015,8.41,2015,USD_Millions_2016_Value
-520,Nauru,2016,2.8,2016,USD_Millions_2016_Value
-524,Nepal,2000,11.05,2000,USD_Millions_2016_Value
-524,Nepal,2001,4.88,2001,USD_Millions_2016_Value
-524,Nepal,2002,39.41,2002,USD_Millions_2016_Value
-524,Nepal,2003,59.9,2003,USD_Millions_2016_Value
-524,Nepal,2004,5,2004,USD_Millions_2016_Value
-524,Nepal,2005,37.34,2005,USD_Millions_2016_Value
-524,Nepal,2006,17.73,2006,USD_Millions_2016_Value
-524,Nepal,2007,58.33,2007,USD_Millions_2016_Value
-524,Nepal,2008,51.82,2008,USD_Millions_2016_Value
-524,Nepal,2009,49.08,2009,USD_Millions_2016_Value
-524,Nepal,2010,22.33,2010,USD_Millions_2016_Value
-524,Nepal,2011,212.46,2011,USD_Millions_2016_Value
-524,Nepal,2012,28.02,2012,USD_Millions_2016_Value
-524,Nepal,2013,313.05,2013,USD_Millions_2016_Value
-524,Nepal,2014,368.5,2014,USD_Millions_2016_Value
-524,Nepal,2015,14.61,2015,USD_Millions_2016_Value
-524,Nepal,2016,27.78,2016,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2002,0.05,2002,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2003,0.05,2003,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2004,0.36,2004,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2005,15.57,2005,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2006,0.43,2006,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2007,14.35,2007,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2008,0.2,2008,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2009,131.06,2009,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2010,9,2010,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2011,56.79,2011,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2012,20.22,2012,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2013,62.24,2013,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2014,100.68,2014,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2015,85.86,2015,USD_Millions_2016_Value
-543,Oceania (exc. Australia and New Zealand),2016,48.55,2016,USD_Millions_2016_Value
-548,Vanuatu,2007,12.71,2007,USD_Millions_2016_Value
-548,Vanuatu,2008,0.03,2008,USD_Millions_2016_Value
-548,Vanuatu,2010,0.85,2010,USD_Millions_2016_Value
-548,Vanuatu,2012,2.89,2012,USD_Millions_2016_Value
-548,Vanuatu,2013,4.57,2013,USD_Millions_2016_Value
-548,Vanuatu,2014,8.33,2014,USD_Millions_2016_Value
-548,Vanuatu,2015,6.99,2015,USD_Millions_2016_Value
-558,Nicaragua,2000,0.02,2000,USD_Millions_2016_Value
-558,Nicaragua,2001,0.02,2001,USD_Millions_2016_Value
-558,Nicaragua,2002,0.65,2002,USD_Millions_2016_Value
-558,Nicaragua,2003,14.84,2003,USD_Millions_2016_Value
-558,Nicaragua,2004,0.17,2004,USD_Millions_2016_Value
-558,Nicaragua,2005,0.04,2005,USD_Millions_2016_Value
-558,Nicaragua,2006,0.05,2006,USD_Millions_2016_Value
-558,Nicaragua,2007,0.09,2007,USD_Millions_2016_Value
-558,Nicaragua,2008,1.88,2008,USD_Millions_2016_Value
-558,Nicaragua,2009,8.56,2009,USD_Millions_2016_Value
-558,Nicaragua,2010,127.2,2010,USD_Millions_2016_Value
-558,Nicaragua,2011,38.37,2011,USD_Millions_2016_Value
-558,Nicaragua,2012,67.98,2012,USD_Millions_2016_Value
-558,Nicaragua,2013,123.33,2013,USD_Millions_2016_Value
-558,Nicaragua,2014,92.98,2014,USD_Millions_2016_Value
-558,Nicaragua,2015,64.86,2015,USD_Millions_2016_Value
-558,Nicaragua,2016,135.86,2016,USD_Millions_2016_Value
-562,Niger,2000,0.18,2000,USD_Millions_2016_Value
-562,Niger,2001,3.31,2001,USD_Millions_2016_Value
-562,Niger,2002,1.32,2002,USD_Millions_2016_Value
-562,Niger,2005,0.04,2005,USD_Millions_2016_Value
-562,Niger,2006,0.09,2006,USD_Millions_2016_Value
-562,Niger,2008,0.01,2008,USD_Millions_2016_Value
-562,Niger,2012,126.89,2012,USD_Millions_2016_Value
-562,Niger,2014,39.42,2014,USD_Millions_2016_Value
-562,Niger,2016,1.13,2016,USD_Millions_2016_Value
-566,Nigeria,2002,0,2002,USD_Millions_2016_Value
-566,Nigeria,2004,0.18,2004,USD_Millions_2016_Value
-566,Nigeria,2005,17.78,2005,USD_Millions_2016_Value
-566,Nigeria,2006,1.23,2006,USD_Millions_2016_Value
-566,Nigeria,2007,0.55,2007,USD_Millions_2016_Value
-566,Nigeria,2010,0.55,2010,USD_Millions_2016_Value
-566,Nigeria,2011,18.95,2011,USD_Millions_2016_Value
-566,Nigeria,2012,20.24,2012,USD_Millions_2016_Value
-566,Nigeria,2013,930.7,2013,USD_Millions_2016_Value
-566,Nigeria,2014,23.82,2014,USD_Millions_2016_Value
-566,Nigeria,2015,45.22,2015,USD_Millions_2016_Value
-566,Nigeria,2016,58.64,2016,USD_Millions_2016_Value
-570,Niue,2005,2.3,2005,USD_Millions_2016_Value
-570,Niue,2009,3.03,2009,USD_Millions_2016_Value
-570,Niue,2013,0.34,2013,USD_Millions_2016_Value
-570,Niue,2015,0.01,2015,USD_Millions_2016_Value
-570,Niue,2016,0.24,2016,USD_Millions_2016_Value
-583,Micronesia (Federated States of),2005,5.21,2005,USD_Millions_2016_Value
-583,Micronesia (Federated States of),2007,0,2007,USD_Millions_2016_Value
-583,Micronesia (Federated States of),2009,13.72,2009,USD_Millions_2016_Value
-583,Micronesia (Federated States of),2012,0.02,2012,USD_Millions_2016_Value
-583,Micronesia (Federated States of),2013,5.52,2013,USD_Millions_2016_Value
-583,Micronesia (Federated States of),2014,0.78,2014,USD_Millions_2016_Value
-583,Micronesia (Federated States of),2015,3.91,2015,USD_Millions_2016_Value
-583,Micronesia (Federated States of),2016,0.01,2016,USD_Millions_2016_Value
-584,Marshall Islands,2005,2.94,2005,USD_Millions_2016_Value
-584,Marshall Islands,2007,0.86,2007,USD_Millions_2016_Value
-584,Marshall Islands,2009,10.19,2009,USD_Millions_2016_Value
-584,Marshall Islands,2011,0.16,2011,USD_Millions_2016_Value
-584,Marshall Islands,2012,0.02,2012,USD_Millions_2016_Value
-584,Marshall Islands,2013,1.21,2013,USD_Millions_2016_Value
-584,Marshall Islands,2014,0.01,2014,USD_Millions_2016_Value
-584,Marshall Islands,2015,3.98,2015,USD_Millions_2016_Value
-584,Marshall Islands,2016,0.26,2016,USD_Millions_2016_Value
-585,Palau,2005,2.17,2005,USD_Millions_2016_Value
-585,Palau,2007,0.37,2007,USD_Millions_2016_Value
-585,Palau,2009,7.32,2009,USD_Millions_2016_Value
-585,Palau,2011,0,2011,USD_Millions_2016_Value
-585,Palau,2013,0.01,2013,USD_Millions_2016_Value
-585,Palau,2015,4.99,2015,USD_Millions_2016_Value
-585,Palau,2016,0.01,2016,USD_Millions_2016_Value
-586,Pakistan,2000,0.04,2000,USD_Millions_2016_Value
-586,Pakistan,2001,343.69,2001,USD_Millions_2016_Value
-586,Pakistan,2002,0.17,2002,USD_Millions_2016_Value
-586,Pakistan,2003,2.61,2003,USD_Millions_2016_Value
-586,Pakistan,2004,0.04,2004,USD_Millions_2016_Value
-586,Pakistan,2005,3.81,2005,USD_Millions_2016_Value
-586,Pakistan,2006,6.4,2006,USD_Millions_2016_Value
-586,Pakistan,2007,117.52,2007,USD_Millions_2016_Value
-586,Pakistan,2008,129.93,2008,USD_Millions_2016_Value
-586,Pakistan,2009,79.97,2009,USD_Millions_2016_Value
-586,Pakistan,2010,253.85,2010,USD_Millions_2016_Value
-586,Pakistan,2011,151.84,2011,USD_Millions_2016_Value
-586,Pakistan,2012,1337.66,2012,USD_Millions_2016_Value
-586,Pakistan,2013,231.06,2013,USD_Millions_2016_Value
-586,Pakistan,2014,528.15,2014,USD_Millions_2016_Value
-586,Pakistan,2015,3865.05,2015,USD_Millions_2016_Value
-586,Pakistan,2016,866.98,2016,USD_Millions_2016_Value
-591,Panama,2001,0.22,2001,USD_Millions_2016_Value
-591,Panama,2006,0,2006,USD_Millions_2016_Value
-591,Panama,2008,0.01,2008,USD_Millions_2016_Value
-591,Panama,2009,0.01,2009,USD_Millions_2016_Value
-591,Panama,2010,8.71,2010,USD_Millions_2016_Value
-591,Panama,2011,63.34,2011,USD_Millions_2016_Value
-591,Panama,2013,1.74,2013,USD_Millions_2016_Value
-591,Panama,2014,176.54,2014,USD_Millions_2016_Value
-591,Panama,2015,45.71,2015,USD_Millions_2016_Value
-591,Panama,2016,351.84,2016,USD_Millions_2016_Value
-598,Papua New Guinea,2004,0.01,2004,USD_Millions_2016_Value
-598,Papua New Guinea,2007,0.03,2007,USD_Millions_2016_Value
-598,Papua New Guinea,2008,0.03,2008,USD_Millions_2016_Value
-598,Papua New Guinea,2011,36.2,2011,USD_Millions_2016_Value
-598,Papua New Guinea,2013,6.18,2013,USD_Millions_2016_Value
-598,Papua New Guinea,2014,0,2014,USD_Millions_2016_Value
-598,Papua New Guinea,2015,8.24,2015,USD_Millions_2016_Value
-598,Papua New Guinea,2016,31.06,2016,USD_Millions_2016_Value
-600,Paraguay,2001,0.01,2001,USD_Millions_2016_Value
-600,Paraguay,2006,190.94,2006,USD_Millions_2016_Value
-600,Paraguay,2009,0.07,2009,USD_Millions_2016_Value
-600,Paraguay,2010,0.09,2010,USD_Millions_2016_Value
-600,Paraguay,2011,0.03,2011,USD_Millions_2016_Value
-600,Paraguay,2013,0.08,2013,USD_Millions_2016_Value
-600,Paraguay,2016,0.35,2016,USD_Millions_2016_Value
-604,Peru,2000,1.02,2000,USD_Millions_2016_Value
-604,Peru,2001,0.18,2001,USD_Millions_2016_Value
-604,Peru,2002,87.02,2002,USD_Millions_2016_Value
-604,Peru,2003,0.27,2003,USD_Millions_2016_Value
-604,Peru,2004,0.1,2004,USD_Millions_2016_Value
-604,Peru,2005,0.28,2005,USD_Millions_2016_Value
-604,Peru,2006,7.25,2006,USD_Millions_2016_Value
-604,Peru,2007,0.73,2007,USD_Millions_2016_Value
-604,Peru,2008,0.96,2008,USD_Millions_2016_Value
-604,Peru,2009,1.43,2009,USD_Millions_2016_Value
-604,Peru,2010,7.62,2010,USD_Millions_2016_Value
-604,Peru,2011,212.18,2011,USD_Millions_2016_Value
-604,Peru,2012,225.79,2012,USD_Millions_2016_Value
-604,Peru,2013,277.08,2013,USD_Millions_2016_Value
-604,Peru,2014,187.29,2014,USD_Millions_2016_Value
-604,Peru,2015,80.26,2015,USD_Millions_2016_Value
-604,Peru,2016,97.15,2016,USD_Millions_2016_Value
-608,Philippines,2000,11.33,2000,USD_Millions_2016_Value
-608,Philippines,2001,0.03,2001,USD_Millions_2016_Value
-608,Philippines,2002,50.34,2002,USD_Millions_2016_Value
-608,Philippines,2003,27.96,2003,USD_Millions_2016_Value
-608,Philippines,2004,5.65,2004,USD_Millions_2016_Value
-608,Philippines,2005,11.42,2005,USD_Millions_2016_Value
-608,Philippines,2006,26.3,2006,USD_Millions_2016_Value
-608,Philippines,2007,57.15,2007,USD_Millions_2016_Value
-608,Philippines,2009,3.76,2009,USD_Millions_2016_Value
-608,Philippines,2010,7.32,2010,USD_Millions_2016_Value
-608,Philippines,2011,0.76,2011,USD_Millions_2016_Value
-608,Philippines,2012,1.3,2012,USD_Millions_2016_Value
-608,Philippines,2013,51.66,2013,USD_Millions_2016_Value
-608,Philippines,2014,8.84,2014,USD_Millions_2016_Value
-608,Philippines,2015,21.89,2015,USD_Millions_2016_Value
-608,Philippines,2016,94.67,2016,USD_Millions_2016_Value
-624,Guinea-Bissau,2001,3.16,2001,USD_Millions_2016_Value
-624,Guinea-Bissau,2002,4.39,2002,USD_Millions_2016_Value
-624,Guinea-Bissau,2004,0.16,2004,USD_Millions_2016_Value
-624,Guinea-Bissau,2009,0.03,2009,USD_Millions_2016_Value
-624,Guinea-Bissau,2010,0.02,2010,USD_Millions_2016_Value
-624,Guinea-Bissau,2011,0.21,2011,USD_Millions_2016_Value
-624,Guinea-Bissau,2012,0.1,2012,USD_Millions_2016_Value
-624,Guinea-Bissau,2013,0.18,2013,USD_Millions_2016_Value
-624,Guinea-Bissau,2014,0.19,2014,USD_Millions_2016_Value
-624,Guinea-Bissau,2016,0.39,2016,USD_Millions_2016_Value
-626,Timor-Leste,2003,3.9,2003,USD_Millions_2016_Value
-626,Timor-Leste,2005,1.29,2005,USD_Millions_2016_Value
-626,Timor-Leste,2006,1.38,2006,USD_Millions_2016_Value
-626,Timor-Leste,2007,1.12,2007,USD_Millions_2016_Value
-626,Timor-Leste,2008,0.07,2008,USD_Millions_2016_Value
-626,Timor-Leste,2009,0.15,2009,USD_Millions_2016_Value
-626,Timor-Leste,2010,5.05,2010,USD_Millions_2016_Value
-626,Timor-Leste,2011,0.23,2011,USD_Millions_2016_Value
-626,Timor-Leste,2012,1.91,2012,USD_Millions_2016_Value
-626,Timor-Leste,2013,0.46,2013,USD_Millions_2016_Value
-626,Timor-Leste,2014,0.01,2014,USD_Millions_2016_Value
-626,Timor-Leste,2015,0,2015,USD_Millions_2016_Value
-626,Timor-Leste,2016,1.01,2016,USD_Millions_2016_Value
-638,R��union,2011,8.06,2011,USD_Millions_2016_Value
-638,R��union,2012,14.78,2012,USD_Millions_2016_Value
-638,R��union,2013,10.16,2013,USD_Millions_2016_Value
-638,R��union,2014,10.53,2014,USD_Millions_2016_Value
-638,R��union,2015,1.5,2015,USD_Millions_2016_Value
-646,Rwanda,2000,0.14,2000,USD_Millions_2016_Value
-646,Rwanda,2005,7.8,2005,USD_Millions_2016_Value
-646,Rwanda,2006,0.51,2006,USD_Millions_2016_Value
-646,Rwanda,2007,19.26,2007,USD_Millions_2016_Value
-646,Rwanda,2008,24.66,2008,USD_Millions_2016_Value
-646,Rwanda,2009,21.82,2009,USD_Millions_2016_Value
-646,Rwanda,2010,1.98,2010,USD_Millions_2016_Value
-646,Rwanda,2011,6.03,2011,USD_Millions_2016_Value
-646,Rwanda,2012,0.69,2012,USD_Millions_2016_Value
-646,Rwanda,2013,93,2013,USD_Millions_2016_Value
-646,Rwanda,2014,46.19,2014,USD_Millions_2016_Value
-646,Rwanda,2016,40.12,2016,USD_Millions_2016_Value
-654,Saint Helena,2003,0.16,2003,USD_Millions_2016_Value
-654,Saint Helena,2008,0.12,2008,USD_Millions_2016_Value
-654,Saint Helena,2015,1.41,2015,USD_Millions_2016_Value
-659,Saint Kitts and Nevis,2008,0.34,2008,USD_Millions_2016_Value
-659,Saint Kitts and Nevis,2011,17.35,2011,USD_Millions_2016_Value
-660,Anguilla,2010,0.05,2010,USD_Millions_2016_Value
-662,Saint Lucia,2014,0.9,2014,USD_Millions_2016_Value
-662,Saint Lucia,2015,0.01,2015,USD_Millions_2016_Value
-670,Saint Vincent and the Grenadines,2008,0.34,2008,USD_Millions_2016_Value
-670,Saint Vincent and the Grenadines,2013,0.01,2013,USD_Millions_2016_Value
-670,Saint Vincent and the Grenadines,2014,0.02,2014,USD_Millions_2016_Value
-670,Saint Vincent and the Grenadines,2016,30.41,2016,USD_Millions_2016_Value
-678,Sao Tome and Principe,2001,1.03,2001,USD_Millions_2016_Value
-678,Sao Tome and Principe,2002,1.14,2002,USD_Millions_2016_Value
-678,Sao Tome and Principe,2003,0,2003,USD_Millions_2016_Value
-678,Sao Tome and Principe,2004,0.06,2004,USD_Millions_2016_Value
-678,Sao Tome and Principe,2005,0.18,2005,USD_Millions_2016_Value
-678,Sao Tome and Principe,2010,0.11,2010,USD_Millions_2016_Value
-678,Sao Tome and Principe,2011,0.24,2011,USD_Millions_2016_Value
-678,Sao Tome and Principe,2012,0.02,2012,USD_Millions_2016_Value
-678,Sao Tome and Principe,2013,4.87,2013,USD_Millions_2016_Value
-678,Sao Tome and Principe,2014,0.11,2014,USD_Millions_2016_Value
-678,Sao Tome and Principe,2015,0.33,2015,USD_Millions_2016_Value
-678,Sao Tome and Principe,2016,0.29,2016,USD_Millions_2016_Value
-686,Senegal,2000,0.15,2000,USD_Millions_2016_Value
-686,Senegal,2001,10.85,2001,USD_Millions_2016_Value
-686,Senegal,2002,1.91,2002,USD_Millions_2016_Value
-686,Senegal,2003,32.23,2003,USD_Millions_2016_Value
-686,Senegal,2004,12.87,2004,USD_Millions_2016_Value
-686,Senegal,2005,6.32,2005,USD_Millions_2016_Value
-686,Senegal,2006,31.87,2006,USD_Millions_2016_Value
-686,Senegal,2007,0.68,2007,USD_Millions_2016_Value
-686,Senegal,2009,36.5,2009,USD_Millions_2016_Value
-686,Senegal,2010,1.03,2010,USD_Millions_2016_Value
-686,Senegal,2011,1.38,2011,USD_Millions_2016_Value
-686,Senegal,2012,8.19,2012,USD_Millions_2016_Value
-686,Senegal,2013,17.31,2013,USD_Millions_2016_Value
-686,Senegal,2014,0.12,2014,USD_Millions_2016_Value
-686,Senegal,2015,30.32,2015,USD_Millions_2016_Value
-686,Senegal,2016,320.89,2016,USD_Millions_2016_Value
-690,Seychelles,2011,0.01,2011,USD_Millions_2016_Value
-690,Seychelles,2014,0.08,2014,USD_Millions_2016_Value
-690,Seychelles,2015,0.04,2015,USD_Millions_2016_Value
-690,Seychelles,2016,0.67,2016,USD_Millions_2016_Value
-694,Sierra Leone,2004,23.71,2004,USD_Millions_2016_Value
-694,Sierra Leone,2005,54.1,2005,USD_Millions_2016_Value
-694,Sierra Leone,2006,0.01,2006,USD_Millions_2016_Value
-694,Sierra Leone,2007,14.92,2007,USD_Millions_2016_Value
-694,Sierra Leone,2008,14.94,2008,USD_Millions_2016_Value
-694,Sierra Leone,2009,0.05,2009,USD_Millions_2016_Value
-694,Sierra Leone,2010,8.92,2010,USD_Millions_2016_Value
-694,Sierra Leone,2014,8.08,2014,USD_Millions_2016_Value
-694,Sierra Leone,2016,28.07,2016,USD_Millions_2016_Value
-704,Viet Nam,2000,0.01,2000,USD_Millions_2016_Value
-704,Viet Nam,2001,99.83,2001,USD_Millions_2016_Value
-704,Viet Nam,2002,38.48,2002,USD_Millions_2016_Value
-704,Viet Nam,2003,0.17,2003,USD_Millions_2016_Value
-704,Viet Nam,2004,220.82,2004,USD_Millions_2016_Value
-704,Viet Nam,2005,4.91,2005,USD_Millions_2016_Value
-704,Viet Nam,2006,1.38,2006,USD_Millions_2016_Value
-704,Viet Nam,2007,0.05,2007,USD_Millions_2016_Value
-704,Viet Nam,2008,184.4,2008,USD_Millions_2016_Value
-704,Viet Nam,2009,426.8,2009,USD_Millions_2016_Value
-704,Viet Nam,2010,89.82,2010,USD_Millions_2016_Value
-704,Viet Nam,2011,260.15,2011,USD_Millions_2016_Value
-704,Viet Nam,2012,1.37,2012,USD_Millions_2016_Value
-704,Viet Nam,2013,86.49,2013,USD_Millions_2016_Value
-704,Viet Nam,2014,233.82,2014,USD_Millions_2016_Value
-704,Viet Nam,2015,6.07,2015,USD_Millions_2016_Value
-704,Viet Nam,2016,289.59,2016,USD_Millions_2016_Value
-706,Somalia,2013,3.23,2013,USD_Millions_2016_Value
-706,Somalia,2015,0.29,2015,USD_Millions_2016_Value
-706,Somalia,2016,0.78,2016,USD_Millions_2016_Value
-710,South Africa,2000,0.37,2000,USD_Millions_2016_Value
-710,South Africa,2001,1.15,2001,USD_Millions_2016_Value
-710,South Africa,2002,24.06,2002,USD_Millions_2016_Value
-710,South Africa,2004,0.04,2004,USD_Millions_2016_Value
-710,South Africa,2005,12.29,2005,USD_Millions_2016_Value
-710,South Africa,2006,7.46,2006,USD_Millions_2016_Value
-710,South Africa,2007,1.11,2007,USD_Millions_2016_Value
-710,South Africa,2008,1.1,2008,USD_Millions_2016_Value
-710,South Africa,2009,0.09,2009,USD_Millions_2016_Value
-710,South Africa,2010,250.18,2010,USD_Millions_2016_Value
-710,South Africa,2011,253.95,2011,USD_Millions_2016_Value
-710,South Africa,2012,458.67,2012,USD_Millions_2016_Value
-710,South Africa,2013,318.83,2013,USD_Millions_2016_Value
-710,South Africa,2014,191.15,2014,USD_Millions_2016_Value
-710,South Africa,2015,688.14,2015,USD_Millions_2016_Value
-710,South Africa,2016,194.78,2016,USD_Millions_2016_Value
-716,Zimbabwe,2000,0.03,2000,USD_Millions_2016_Value
-716,Zimbabwe,2001,0.27,2001,USD_Millions_2016_Value
-716,Zimbabwe,2003,0.01,2003,USD_Millions_2016_Value
-716,Zimbabwe,2005,0.47,2005,USD_Millions_2016_Value
-716,Zimbabwe,2009,0.02,2009,USD_Millions_2016_Value
-716,Zimbabwe,2011,1.05,2011,USD_Millions_2016_Value
-716,Zimbabwe,2013,304.79,2013,USD_Millions_2016_Value
-716,Zimbabwe,2014,0.05,2014,USD_Millions_2016_Value
-716,Zimbabwe,2016,0.03,2016,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2000,21.42,2000,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2001,28.4,2001,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2002,7.78,2002,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2003,4.68,2003,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2004,1.85,2004,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2005,23.83,2005,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2006,2.68,2006,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2007,15.84,2007,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2008,3.28,2008,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2009,151.96,2009,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2010,173.1,2010,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2011,246.04,2011,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2012,55.04,2012,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2013,164.01,2013,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2014,259.12,2014,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2015,293.44,2015,USD_Millions_2016_Value
-722,Small island developing States (SIDS),2016,268.39,2016,USD_Millions_2016_Value
-728,South Sudan,2011,0.95,2011,USD_Millions_2016_Value
-728,South Sudan,2012,1.59,2012,USD_Millions_2016_Value
-728,South Sudan,2013,1.4,2013,USD_Millions_2016_Value
-728,South Sudan,2015,0.07,2015,USD_Millions_2016_Value
-728,South Sudan,2016,0.03,2016,USD_Millions_2016_Value
-729,Sudan,2003,1254.82,2003,USD_Millions_2016_Value
-729,Sudan,2010,81.93,2010,USD_Millions_2016_Value
-729,Sudan,2011,26.55,2011,USD_Millions_2016_Value
-729,Sudan,2012,0.12,2012,USD_Millions_2016_Value
-729,Sudan,2013,3.22,2013,USD_Millions_2016_Value
-729,Sudan,2014,0.38,2014,USD_Millions_2016_Value
-729,Sudan,2015,0.03,2015,USD_Millions_2016_Value
-729,Sudan,2016,0.04,2016,USD_Millions_2016_Value
-740,Suriname,2009,0.38,2009,USD_Millions_2016_Value
-740,Suriname,2011,3.89,2011,USD_Millions_2016_Value
-740,Suriname,2013,0.02,2013,USD_Millions_2016_Value
-740,Suriname,2014,0,2014,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2000,146.77,2000,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2001,60.73,2001,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2002,18.74,2002,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2003,1486.96,2003,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2004,326.63,2004,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2005,307.07,2005,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2006,140.16,2006,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2007,309.35,2007,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2008,591.24,2008,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2009,990.55,2009,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2010,1932.71,2010,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2011,1249.97,2011,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2012,1604.76,2012,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2013,917.87,2013,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2014,2465.68,2014,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2015,1254.89,2015,USD_Millions_2016_Value
-747,Northern Africa and Western Asia,2016,3121.14,2016,USD_Millions_2016_Value
-748,Eswatini,2003,9.28,2003,USD_Millions_2016_Value
-748,Eswatini,2015,1,2015,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2000,394.04,2000,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2001,435.04,2001,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2002,375.23,2002,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2003,673.71,2003,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2004,1159.2,2004,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2005,409.84,2005,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2006,403.64,2006,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2007,1299.79,2007,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2008,381.28,2008,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2009,924.26,2009,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2010,900.34,2010,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2011,1506.29,2011,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2012,391.34,2012,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2013,2011.76,2013,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2014,975.53,2014,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2015,675.79,2015,USD_Millions_2016_Value
-753,Eastern and South-Eastern Asia,2016,2847.1,2016,USD_Millions_2016_Value
-760,Syrian Arab Republic,2010,5.22,2010,USD_Millions_2016_Value
-762,Tajikistan,2002,9.31,2002,USD_Millions_2016_Value
-762,Tajikistan,2003,21.15,2003,USD_Millions_2016_Value
-762,Tajikistan,2005,0.54,2005,USD_Millions_2016_Value
-762,Tajikistan,2006,0.52,2006,USD_Millions_2016_Value
-762,Tajikistan,2007,21.91,2007,USD_Millions_2016_Value
-762,Tajikistan,2008,32.79,2008,USD_Millions_2016_Value
-762,Tajikistan,2009,0.14,2009,USD_Millions_2016_Value
-762,Tajikistan,2010,6.45,2010,USD_Millions_2016_Value
-762,Tajikistan,2011,0.85,2011,USD_Millions_2016_Value
-762,Tajikistan,2012,3.54,2012,USD_Millions_2016_Value
-762,Tajikistan,2013,129.1,2013,USD_Millions_2016_Value
-762,Tajikistan,2014,0.41,2014,USD_Millions_2016_Value
-762,Tajikistan,2015,0.18,2015,USD_Millions_2016_Value
-762,Tajikistan,2016,0.09,2016,USD_Millions_2016_Value
-764,Thailand,2000,0.15,2000,USD_Millions_2016_Value
-764,Thailand,2001,6.41,2001,USD_Millions_2016_Value
-764,Thailand,2002,10.11,2002,USD_Millions_2016_Value
-764,Thailand,2003,3.48,2003,USD_Millions_2016_Value
-764,Thailand,2004,1.47,2004,USD_Millions_2016_Value
-764,Thailand,2006,0.09,2006,USD_Millions_2016_Value
-764,Thailand,2007,0.42,2007,USD_Millions_2016_Value
-764,Thailand,2008,4.37,2008,USD_Millions_2016_Value
-764,Thailand,2009,1.62,2009,USD_Millions_2016_Value
-764,Thailand,2010,3.98,2010,USD_Millions_2016_Value
-764,Thailand,2011,271.84,2011,USD_Millions_2016_Value
-764,Thailand,2012,114.59,2012,USD_Millions_2016_Value
-764,Thailand,2013,52.59,2013,USD_Millions_2016_Value
-764,Thailand,2014,4.23,2014,USD_Millions_2016_Value
-764,Thailand,2015,53.41,2015,USD_Millions_2016_Value
-764,Thailand,2016,0.4,2016,USD_Millions_2016_Value
-768,Togo,2006,0.02,2006,USD_Millions_2016_Value
-768,Togo,2012,0.02,2012,USD_Millions_2016_Value
-768,Togo,2013,0.15,2013,USD_Millions_2016_Value
-768,Togo,2014,8.6,2014,USD_Millions_2016_Value
-768,Togo,2015,4.48,2015,USD_Millions_2016_Value
-768,Togo,2016,0.05,2016,USD_Millions_2016_Value
-772,Tokelau,2011,5.23,2011,USD_Millions_2016_Value
-776,Tonga,2004,0.02,2004,USD_Millions_2016_Value
-776,Tonga,2005,0.75,2005,USD_Millions_2016_Value
-776,Tonga,2006,0.43,2006,USD_Millions_2016_Value
-776,Tonga,2009,0,2009,USD_Millions_2016_Value
-776,Tonga,2010,5.65,2010,USD_Millions_2016_Value
-776,Tonga,2011,11.8,2011,USD_Millions_2016_Value
-776,Tonga,2012,7.52,2012,USD_Millions_2016_Value
-776,Tonga,2013,17.46,2013,USD_Millions_2016_Value
-776,Tonga,2014,2.42,2014,USD_Millions_2016_Value
-776,Tonga,2015,13.44,2015,USD_Millions_2016_Value
-776,Tonga,2016,2.86,2016,USD_Millions_2016_Value
-788,Tunisia,2000,4.21,2000,USD_Millions_2016_Value
-788,Tunisia,2001,4.13,2001,USD_Millions_2016_Value
-788,Tunisia,2002,5.03,2002,USD_Millions_2016_Value
-788,Tunisia,2003,0.4,2003,USD_Millions_2016_Value
-788,Tunisia,2004,0.27,2004,USD_Millions_2016_Value
-788,Tunisia,2005,17.47,2005,USD_Millions_2016_Value
-788,Tunisia,2006,23.27,2006,USD_Millions_2016_Value
-788,Tunisia,2007,1.58,2007,USD_Millions_2016_Value
-788,Tunisia,2008,225.08,2008,USD_Millions_2016_Value
-788,Tunisia,2009,117.67,2009,USD_Millions_2016_Value
-788,Tunisia,2010,124.51,2010,USD_Millions_2016_Value
-788,Tunisia,2011,0.79,2011,USD_Millions_2016_Value
-788,Tunisia,2012,172.84,2012,USD_Millions_2016_Value
-788,Tunisia,2013,8.88,2013,USD_Millions_2016_Value
-788,Tunisia,2015,8.34,2015,USD_Millions_2016_Value
-788,Tunisia,2016,43.43,2016,USD_Millions_2016_Value
-792,Turkey,2000,126.07,2000,USD_Millions_2016_Value
-792,Turkey,2001,0.01,2001,USD_Millions_2016_Value
-792,Turkey,2004,123.64,2004,USD_Millions_2016_Value
-792,Turkey,2005,0.33,2005,USD_Millions_2016_Value
-792,Turkey,2006,0.23,2006,USD_Millions_2016_Value
-792,Turkey,2007,1.56,2007,USD_Millions_2016_Value
-792,Turkey,2008,62.68,2008,USD_Millions_2016_Value
-792,Turkey,2009,473.97,2009,USD_Millions_2016_Value
-792,Turkey,2010,270.18,2010,USD_Millions_2016_Value
-792,Turkey,2011,764.45,2011,USD_Millions_2016_Value
-792,Turkey,2012,265.3,2012,USD_Millions_2016_Value
-792,Turkey,2013,568.91,2013,USD_Millions_2016_Value
-792,Turkey,2014,509.18,2014,USD_Millions_2016_Value
-792,Turkey,2015,393.99,2015,USD_Millions_2016_Value
-792,Turkey,2016,1361.23,2016,USD_Millions_2016_Value
-795,Turkmenistan,2009,0.03,2009,USD_Millions_2016_Value
-795,Turkmenistan,2013,5.71,2013,USD_Millions_2016_Value
-795,Turkmenistan,2014,0.04,2014,USD_Millions_2016_Value
-795,Turkmenistan,2015,0.12,2015,USD_Millions_2016_Value
-795,Turkmenistan,2016,0.08,2016,USD_Millions_2016_Value
-798,Tuvalu,2008,0.03,2008,USD_Millions_2016_Value
-798,Tuvalu,2009,0.01,2009,USD_Millions_2016_Value
-798,Tuvalu,2010,0.52,2010,USD_Millions_2016_Value
-798,Tuvalu,2011,0.01,2011,USD_Millions_2016_Value
-798,Tuvalu,2012,2.2,2012,USD_Millions_2016_Value
-798,Tuvalu,2013,4.58,2013,USD_Millions_2016_Value
-798,Tuvalu,2014,19.92,2014,USD_Millions_2016_Value
-798,Tuvalu,2015,8.24,2015,USD_Millions_2016_Value
-800,Uganda,2000,25.82,2000,USD_Millions_2016_Value
-800,Uganda,2001,6.36,2001,USD_Millions_2016_Value
-800,Uganda,2002,3.52,2002,USD_Millions_2016_Value
-800,Uganda,2003,0.61,2003,USD_Millions_2016_Value
-800,Uganda,2004,0.03,2004,USD_Millions_2016_Value
-800,Uganda,2005,0.07,2005,USD_Millions_2016_Value
-800,Uganda,2006,0.06,2006,USD_Millions_2016_Value
-800,Uganda,2007,422.62,2007,USD_Millions_2016_Value
-800,Uganda,2008,18.54,2008,USD_Millions_2016_Value
-800,Uganda,2009,70.65,2009,USD_Millions_2016_Value
-800,Uganda,2010,27.59,2010,USD_Millions_2016_Value
-800,Uganda,2011,25.65,2011,USD_Millions_2016_Value
-800,Uganda,2012,22.2,2012,USD_Millions_2016_Value
-800,Uganda,2013,1405.72,2013,USD_Millions_2016_Value
-800,Uganda,2014,30.57,2014,USD_Millions_2016_Value
-800,Uganda,2015,535.19,2015,USD_Millions_2016_Value
-800,Uganda,2016,178.09,2016,USD_Millions_2016_Value
-818,Egypt,2000,10.2,2000,USD_Millions_2016_Value
-818,Egypt,2001,29.68,2001,USD_Millions_2016_Value
-818,Egypt,2002,0.51,2002,USD_Millions_2016_Value
-818,Egypt,2003,203.91,2003,USD_Millions_2016_Value
-818,Egypt,2004,45.31,2004,USD_Millions_2016_Value
-818,Egypt,2005,96.32,2005,USD_Millions_2016_Value
-818,Egypt,2006,0.48,2006,USD_Millions_2016_Value
-818,Egypt,2007,92.8,2007,USD_Millions_2016_Value
-818,Egypt,2008,85.68,2008,USD_Millions_2016_Value
-818,Egypt,2009,247.2,2009,USD_Millions_2016_Value
-818,Egypt,2010,992.43,2010,USD_Millions_2016_Value
-818,Egypt,2011,113.31,2011,USD_Millions_2016_Value
-818,Egypt,2012,14.18,2012,USD_Millions_2016_Value
-818,Egypt,2013,153.23,2013,USD_Millions_2016_Value
-818,Egypt,2014,0.08,2014,USD_Millions_2016_Value
-818,Egypt,2015,273.19,2015,USD_Millions_2016_Value
-818,Egypt,2016,303.83,2016,USD_Millions_2016_Value
-834,United Republic of Tanzania,2000,0.2,2000,USD_Millions_2016_Value
-834,United Republic of Tanzania,2001,2.27,2001,USD_Millions_2016_Value
-834,United Republic of Tanzania,2002,1.52,2002,USD_Millions_2016_Value
-834,United Republic of Tanzania,2003,3.91,2003,USD_Millions_2016_Value
-834,United Republic of Tanzania,2004,0.08,2004,USD_Millions_2016_Value
-834,United Republic of Tanzania,2005,0.04,2005,USD_Millions_2016_Value
-834,United Republic of Tanzania,2006,0.11,2006,USD_Millions_2016_Value
-834,United Republic of Tanzania,2007,19.15,2007,USD_Millions_2016_Value
-834,United Republic of Tanzania,2008,58.98,2008,USD_Millions_2016_Value
-834,United Republic of Tanzania,2009,0.52,2009,USD_Millions_2016_Value
-834,United Republic of Tanzania,2010,8.47,2010,USD_Millions_2016_Value
-834,United Republic of Tanzania,2011,8.04,2011,USD_Millions_2016_Value
-834,United Republic of Tanzania,2012,3.27,2012,USD_Millions_2016_Value
-834,United Republic of Tanzania,2013,162.77,2013,USD_Millions_2016_Value
-834,United Republic of Tanzania,2014,43.53,2014,USD_Millions_2016_Value
-834,United Republic of Tanzania,2015,35.08,2015,USD_Millions_2016_Value
-834,United Republic of Tanzania,2016,145.97,2016,USD_Millions_2016_Value
-854,Burkina Faso,2000,0.12,2000,USD_Millions_2016_Value
-854,Burkina Faso,2001,14.51,2001,USD_Millions_2016_Value
-854,Burkina Faso,2002,0.02,2002,USD_Millions_2016_Value
-854,Burkina Faso,2004,5.04,2004,USD_Millions_2016_Value
-854,Burkina Faso,2005,15.23,2005,USD_Millions_2016_Value
-854,Burkina Faso,2007,3.41,2007,USD_Millions_2016_Value
-854,Burkina Faso,2008,7.58,2008,USD_Millions_2016_Value
-854,Burkina Faso,2009,0.68,2009,USD_Millions_2016_Value
-854,Burkina Faso,2010,1.29,2010,USD_Millions_2016_Value
-854,Burkina Faso,2011,0.03,2011,USD_Millions_2016_Value
-854,Burkina Faso,2012,1.42,2012,USD_Millions_2016_Value
-854,Burkina Faso,2013,30.76,2013,USD_Millions_2016_Value
-854,Burkina Faso,2014,36.89,2014,USD_Millions_2016_Value
-854,Burkina Faso,2015,25.14,2015,USD_Millions_2016_Value
-854,Burkina Faso,2016,28.1,2016,USD_Millions_2016_Value
-858,Uruguay,2001,1.26,2001,USD_Millions_2016_Value
-858,Uruguay,2003,22.58,2003,USD_Millions_2016_Value
-858,Uruguay,2005,0,2005,USD_Millions_2016_Value
-858,Uruguay,2006,0,2006,USD_Millions_2016_Value
-858,Uruguay,2007,0.84,2007,USD_Millions_2016_Value
-858,Uruguay,2009,6.76,2009,USD_Millions_2016_Value
-858,Uruguay,2010,1.07,2010,USD_Millions_2016_Value
-858,Uruguay,2011,7.45,2011,USD_Millions_2016_Value
-858,Uruguay,2012,278.91,2012,USD_Millions_2016_Value
-858,Uruguay,2013,200.91,2013,USD_Millions_2016_Value
-858,Uruguay,2014,166.43,2014,USD_Millions_2016_Value
-858,Uruguay,2015,198.83,2015,USD_Millions_2016_Value
-858,Uruguay,2016,67.03,2016,USD_Millions_2016_Value
-860,Uzbekistan,2004,0.21,2004,USD_Millions_2016_Value
-860,Uzbekistan,2012,90.64,2012,USD_Millions_2016_Value
-860,Uzbekistan,2013,189.26,2013,USD_Millions_2016_Value
-860,Uzbekistan,2015,0.26,2015,USD_Millions_2016_Value
-860,Uzbekistan,2016,0.67,2016,USD_Millions_2016_Value
-862,Venezuela (Bolivarian Republic of),2000,0.81,2000,USD_Millions_2016_Value
-862,Venezuela (Bolivarian Republic of),2004,0.02,2004,USD_Millions_2016_Value
-862,Venezuela (Bolivarian Republic of),2006,778.44,2006,USD_Millions_2016_Value
-862,Venezuela (Bolivarian Republic of),2009,0.18,2009,USD_Millions_2016_Value
-862,Venezuela (Bolivarian Republic of),2010,1220.25,2010,USD_Millions_2016_Value
-862,Venezuela (Bolivarian Republic of),2011,336.58,2011,USD_Millions_2016_Value
-862,Venezuela (Bolivarian Republic of),2012,0.01,2012,USD_Millions_2016_Value
-862,Venezuela (Bolivarian Republic of),2013,0.01,2013,USD_Millions_2016_Value
-862,Venezuela (Bolivarian Republic of),2014,4.19,2014,USD_Millions_2016_Value
-882,Samoa,2009,0,2009,USD_Millions_2016_Value
-882,Samoa,2010,0.2,2010,USD_Millions_2016_Value
-882,Samoa,2013,4.52,2013,USD_Millions_2016_Value
-882,Samoa,2014,31.49,2014,USD_Millions_2016_Value
-882,Samoa,2015,0.01,2015,USD_Millions_2016_Value
-882,Samoa,2016,0,2016,USD_Millions_2016_Value
-887,Yemen,2000,1.39,2000,USD_Millions_2016_Value
-887,Yemen,2001,0.03,2001,USD_Millions_2016_Value
-887,Yemen,2002,0,2002,USD_Millions_2016_Value
-887,Yemen,2004,0.1,2004,USD_Millions_2016_Value
-887,Yemen,2005,0.13,2005,USD_Millions_2016_Value
-887,Yemen,2006,0.12,2006,USD_Millions_2016_Value
-887,Yemen,2007,0.11,2007,USD_Millions_2016_Value
-887,Yemen,2008,0.14,2008,USD_Millions_2016_Value
-887,Yemen,2009,10.94,2009,USD_Millions_2016_Value
-887,Yemen,2010,0.3,2010,USD_Millions_2016_Value
-887,Yemen,2012,76.4,2012,USD_Millions_2016_Value
-887,Yemen,2013,0.63,2013,USD_Millions_2016_Value
-887,Yemen,2014,17.95,2014,USD_Millions_2016_Value
-894,Zambia,2000,0.01,2000,USD_Millions_2016_Value
-894,Zambia,2004,2.46,2004,USD_Millions_2016_Value
-894,Zambia,2005,9.73,2005,USD_Millions_2016_Value
-894,Zambia,2006,0.09,2006,USD_Millions_2016_Value
-894,Zambia,2007,0.02,2007,USD_Millions_2016_Value
-894,Zambia,2008,18.35,2008,USD_Millions_2016_Value
-894,Zambia,2009,0.14,2009,USD_Millions_2016_Value
-894,Zambia,2010,377.64,2010,USD_Millions_2016_Value
-894,Zambia,2011,71.83,2011,USD_Millions_2016_Value
-894,Zambia,2012,0.01,2012,USD_Millions_2016_Value
-894,Zambia,2013,1.88,2013,USD_Millions_2016_Value
-894,Zambia,2014,224.2,2014,USD_Millions_2016_Value
-894,Zambia,2015,1685.34,2015,USD_Millions_2016_Value
-894,Zambia,2016,103.89,2016,USD_Millions_2016_Value
+GeoAreaCode,GeoAreaName,TimePeriod,Value,Time_Detail,Units,Number
+1,World,2000,1351.51,2000,USD_Millions_2016_Value,0
+1,World,2001,1315.12,2001,USD_Millions_2016_Value,1
+1,World,2002,1188.27,2002,USD_Millions_2016_Value,2
+1,World,2003,2956.9,2003,USD_Millions_2016_Value,3
+1,World,2004,2096.28,2004,USD_Millions_2016_Value,4
+1,World,2005,1808.22,2005,USD_Millions_2016_Value,5
+1,World,2006,2901.65,2006,USD_Millions_2016_Value,6
+1,World,2007,3958.63,2007,USD_Millions_2016_Value,7
+1,World,2008,2391.7,2008,USD_Millions_2016_Value,8
+1,World,2009,3683.77,2009,USD_Millions_2016_Value,9
+1,World,2010,9899.97,2010,USD_Millions_2016_Value,10
+1,World,2011,10233.1,2011,USD_Millions_2016_Value,11
+1,World,2012,10174.86,2012,USD_Millions_2016_Value,12
+1,World,2013,12950.85,2013,USD_Millions_2016_Value,13
+1,World,2014,15444.14,2014,USD_Millions_2016_Value,14
+1,World,2015,14512.32,2015,USD_Millions_2016_Value,15
+1,World,2016,18592.15,2016,USD_Millions_2016_Value,16
+4,Afghanistan,2000,0.02,2000,USD_Millions_2016_Value,17
+4,Afghanistan,2001,0.12,2001,USD_Millions_2016_Value,18
+4,Afghanistan,2002,3.7,2002,USD_Millions_2016_Value,19
+4,Afghanistan,2003,24.88,2003,USD_Millions_2016_Value,20
+4,Afghanistan,2005,9.35,2005,USD_Millions_2016_Value,21
+4,Afghanistan,2006,10.16,2006,USD_Millions_2016_Value,22
+4,Afghanistan,2007,14.79,2007,USD_Millions_2016_Value,23
+4,Afghanistan,2008,15.19,2008,USD_Millions_2016_Value,24
+4,Afghanistan,2009,9.39,2009,USD_Millions_2016_Value,25
+4,Afghanistan,2010,34.8,2010,USD_Millions_2016_Value,26
+4,Afghanistan,2011,27.71,2011,USD_Millions_2016_Value,27
+4,Afghanistan,2012,59.9,2012,USD_Millions_2016_Value,28
+4,Afghanistan,2013,256.32,2013,USD_Millions_2016_Value,29
+4,Afghanistan,2014,6.59,2014,USD_Millions_2016_Value,30
+4,Afghanistan,2015,4.6,2015,USD_Millions_2016_Value,31
+4,Afghanistan,2016,0.84,2016,USD_Millions_2016_Value,32
+12,Algeria,2001,0.78,2001,USD_Millions_2016_Value,33
+12,Algeria,2002,0.29,2002,USD_Millions_2016_Value,34
+12,Algeria,2003,0.09,2003,USD_Millions_2016_Value,35
+12,Algeria,2004,0.13,2004,USD_Millions_2016_Value,36
+12,Algeria,2005,0.15,2005,USD_Millions_2016_Value,37
+12,Algeria,2009,2.07,2009,USD_Millions_2016_Value,38
+12,Algeria,2010,0.39,2010,USD_Millions_2016_Value,39
+12,Algeria,2011,0,2011,USD_Millions_2016_Value,40
+12,Algeria,2012,0.94,2012,USD_Millions_2016_Value,41
+12,Algeria,2013,0.94,2013,USD_Millions_2016_Value,42
+12,Algeria,2014,0.93,2014,USD_Millions_2016_Value,43
+12,Algeria,2015,0.88,2015,USD_Millions_2016_Value,44
+12,Algeria,2016,0.16,2016,USD_Millions_2016_Value,45
+24,Angola,2003,0.04,2003,USD_Millions_2016_Value,46
+24,Angola,2004,0.04,2004,USD_Millions_2016_Value,47
+24,Angola,2007,0.72,2007,USD_Millions_2016_Value,48
+24,Angola,2010,0.02,2010,USD_Millions_2016_Value,49
+24,Angola,2011,0.21,2011,USD_Millions_2016_Value,50
+24,Angola,2012,0.01,2012,USD_Millions_2016_Value,51
+24,Angola,2015,0.01,2015,USD_Millions_2016_Value,52
+24,Angola,2016,90.15,2016,USD_Millions_2016_Value,53
+28,Antigua and Barbuda,2013,2.48,2013,USD_Millions_2016_Value,54
+28,Antigua and Barbuda,2015,6.7,2015,USD_Millions_2016_Value,55
+31,Azerbaijan,2000,4.62,2000,USD_Millions_2016_Value,56
+31,Azerbaijan,2005,2.14,2005,USD_Millions_2016_Value,57
+31,Azerbaijan,2006,0.46,2006,USD_Millions_2016_Value,58
+31,Azerbaijan,2009,0.16,2009,USD_Millions_2016_Value,59
+31,Azerbaijan,2010,179.56,2010,USD_Millions_2016_Value,60
+31,Azerbaijan,2011,0.02,2011,USD_Millions_2016_Value,61
+31,Azerbaijan,2014,0.02,2014,USD_Millions_2016_Value,62
+31,Azerbaijan,2015,74.68,2015,USD_Millions_2016_Value,63
+31,Azerbaijan,2016,0.01,2016,USD_Millions_2016_Value,64
+32,Argentina,2001,3.72,2001,USD_Millions_2016_Value,65
+32,Argentina,2003,0.05,2003,USD_Millions_2016_Value,66
+32,Argentina,2004,39.28,2004,USD_Millions_2016_Value,67
+32,Argentina,2005,0.26,2005,USD_Millions_2016_Value,68
+32,Argentina,2006,0.41,2006,USD_Millions_2016_Value,69
+32,Argentina,2007,0.34,2007,USD_Millions_2016_Value,70
+32,Argentina,2008,21.97,2008,USD_Millions_2016_Value,71
+32,Argentina,2009,37.43,2009,USD_Millions_2016_Value,72
+32,Argentina,2010,0.98,2010,USD_Millions_2016_Value,73
+32,Argentina,2011,66.41,2011,USD_Millions_2016_Value,74
+32,Argentina,2012,243.57,2012,USD_Millions_2016_Value,75
+32,Argentina,2013,45.98,2013,USD_Millions_2016_Value,76
+32,Argentina,2014,4401.81,2014,USD_Millions_2016_Value,77
+32,Argentina,2015,589.08,2015,USD_Millions_2016_Value,78
+32,Argentina,2016,240.02,2016,USD_Millions_2016_Value,79
+50,Bangladesh,2000,2.83,2000,USD_Millions_2016_Value,80
+50,Bangladesh,2002,30.93,2002,USD_Millions_2016_Value,81
+50,Bangladesh,2003,44.82,2003,USD_Millions_2016_Value,82
+50,Bangladesh,2004,16.47,2004,USD_Millions_2016_Value,83
+50,Bangladesh,2005,37.28,2005,USD_Millions_2016_Value,84
+50,Bangladesh,2006,0.02,2006,USD_Millions_2016_Value,85
+50,Bangladesh,2007,47.81,2007,USD_Millions_2016_Value,86
+50,Bangladesh,2008,0.01,2008,USD_Millions_2016_Value,87
+50,Bangladesh,2009,26.5,2009,USD_Millions_2016_Value,88
+50,Bangladesh,2010,0.18,2010,USD_Millions_2016_Value,89
+50,Bangladesh,2011,226.99,2011,USD_Millions_2016_Value,90
+50,Bangladesh,2012,143.1,2012,USD_Millions_2016_Value,91
+50,Bangladesh,2013,112.61,2013,USD_Millions_2016_Value,92
+50,Bangladesh,2014,86.81,2014,USD_Millions_2016_Value,93
+50,Bangladesh,2015,7.25,2015,USD_Millions_2016_Value,94
+50,Bangladesh,2016,336.46,2016,USD_Millions_2016_Value,95
+51,Armenia,2001,7.19,2001,USD_Millions_2016_Value,96
+51,Armenia,2002,0.05,2002,USD_Millions_2016_Value,97
+51,Armenia,2003,2.67,2003,USD_Millions_2016_Value,98
+51,Armenia,2004,9.69,2004,USD_Millions_2016_Value,99
+51,Armenia,2005,2.93,2005,USD_Millions_2016_Value,100
+51,Armenia,2006,5.66,2006,USD_Millions_2016_Value,101
+51,Armenia,2007,1.48,2007,USD_Millions_2016_Value,102
+51,Armenia,2008,0.09,2008,USD_Millions_2016_Value,103
+51,Armenia,2009,0.43,2009,USD_Millions_2016_Value,104
+51,Armenia,2010,86.83,2010,USD_Millions_2016_Value,105
+51,Armenia,2011,0.92,2011,USD_Millions_2016_Value,106
+51,Armenia,2012,47.46,2012,USD_Millions_2016_Value,107
+51,Armenia,2013,24.86,2013,USD_Millions_2016_Value,108
+51,Armenia,2014,8.99,2014,USD_Millions_2016_Value,109
+51,Armenia,2015,22.36,2015,USD_Millions_2016_Value,110
+51,Armenia,2016,113.14,2016,USD_Millions_2016_Value,111
+52,Barbados,2015,0.07,2015,USD_Millions_2016_Value,112
+52,Barbados,2016,8.5,2016,USD_Millions_2016_Value,113
+62,Central and Southern Asia,2000,566.17,2000,USD_Millions_2016_Value,114
+62,Central and Southern Asia,2001,536.16,2001,USD_Millions_2016_Value,115
+62,Central and Southern Asia,2002,511.13,2002,USD_Millions_2016_Value,116
+62,Central and Southern Asia,2003,163.97,2003,USD_Millions_2016_Value,117
+62,Central and Southern Asia,2004,368.55,2004,USD_Millions_2016_Value,118
+62,Central and Southern Asia,2005,263.21,2005,USD_Millions_2016_Value,119
+62,Central and Southern Asia,2006,562.09,2006,USD_Millions_2016_Value,120
+62,Central and Southern Asia,2007,805.02,2007,USD_Millions_2016_Value,121
+62,Central and Southern Asia,2008,556.27,2008,USD_Millions_2016_Value,122
+62,Central and Southern Asia,2009,477.11,2009,USD_Millions_2016_Value,123
+62,Central and Southern Asia,2010,707.68,2010,USD_Millions_2016_Value,124
+62,Central and Southern Asia,2011,2505.15,2011,USD_Millions_2016_Value,125
+62,Central and Southern Asia,2012,3020.76,2012,USD_Millions_2016_Value,126
+62,Central and Southern Asia,2013,1873.29,2013,USD_Millions_2016_Value,127
+62,Central and Southern Asia,2014,1881.23,2014,USD_Millions_2016_Value,128
+62,Central and Southern Asia,2015,4970.42,2015,USD_Millions_2016_Value,129
+62,Central and Southern Asia,2016,3445.13,2016,USD_Millions_2016_Value,130
+64,Bhutan,2000,4.61,2000,USD_Millions_2016_Value,131
+64,Bhutan,2001,2.35,2001,USD_Millions_2016_Value,132
+64,Bhutan,2002,24.36,2002,USD_Millions_2016_Value,133
+64,Bhutan,2005,1.24,2005,USD_Millions_2016_Value,134
+64,Bhutan,2006,0.11,2006,USD_Millions_2016_Value,135
+64,Bhutan,2007,0.79,2007,USD_Millions_2016_Value,136
+64,Bhutan,2008,4.05,2008,USD_Millions_2016_Value,137
+64,Bhutan,2009,79.47,2009,USD_Millions_2016_Value,138
+64,Bhutan,2010,21.93,2010,USD_Millions_2016_Value,139
+64,Bhutan,2011,0.08,2011,USD_Millions_2016_Value,140
+64,Bhutan,2012,3.34,2012,USD_Millions_2016_Value,141
+64,Bhutan,2013,35.5,2013,USD_Millions_2016_Value,142
+64,Bhutan,2014,1.9,2014,USD_Millions_2016_Value,143
+64,Bhutan,2015,121.3,2015,USD_Millions_2016_Value,144
+64,Bhutan,2016,0.05,2016,USD_Millions_2016_Value,145
+68,Bolivia (Plurinational State of),2000,0.08,2000,USD_Millions_2016_Value,146
+68,Bolivia (Plurinational State of),2001,0.74,2001,USD_Millions_2016_Value,147
+68,Bolivia (Plurinational State of),2002,0.07,2002,USD_Millions_2016_Value,148
+68,Bolivia (Plurinational State of),2003,15.37,2003,USD_Millions_2016_Value,149
+68,Bolivia (Plurinational State of),2004,0.04,2004,USD_Millions_2016_Value,150
+68,Bolivia (Plurinational State of),2005,0.13,2005,USD_Millions_2016_Value,151
+68,Bolivia (Plurinational State of),2006,0.41,2006,USD_Millions_2016_Value,152
+68,Bolivia (Plurinational State of),2007,0.39,2007,USD_Millions_2016_Value,153
+68,Bolivia (Plurinational State of),2008,0.8,2008,USD_Millions_2016_Value,154
+68,Bolivia (Plurinational State of),2009,96.3,2009,USD_Millions_2016_Value,155
+68,Bolivia (Plurinational State of),2010,5.26,2010,USD_Millions_2016_Value,156
+68,Bolivia (Plurinational State of),2011,1.32,2011,USD_Millions_2016_Value,157
+68,Bolivia (Plurinational State of),2012,4.69,2012,USD_Millions_2016_Value,158
+68,Bolivia (Plurinational State of),2013,67.18,2013,USD_Millions_2016_Value,159
+68,Bolivia (Plurinational State of),2014,37.71,2014,USD_Millions_2016_Value,160
+68,Bolivia (Plurinational State of),2015,1.88,2015,USD_Millions_2016_Value,161
+68,Bolivia (Plurinational State of),2016,1150.27,2016,USD_Millions_2016_Value,162
+72,Botswana,2000,0.03,2000,USD_Millions_2016_Value,163
+72,Botswana,2004,0.04,2004,USD_Millions_2016_Value,164
+72,Botswana,2005,0.02,2005,USD_Millions_2016_Value,165
+72,Botswana,2006,0.06,2006,USD_Millions_2016_Value,166
+72,Botswana,2007,0.01,2007,USD_Millions_2016_Value,167
+72,Botswana,2009,6.46,2009,USD_Millions_2016_Value,168
+72,Botswana,2010,10.25,2010,USD_Millions_2016_Value,169
+72,Botswana,2011,0.08,2011,USD_Millions_2016_Value,170
+72,Botswana,2012,0.47,2012,USD_Millions_2016_Value,171
+72,Botswana,2014,2.45,2014,USD_Millions_2016_Value,172
+72,Botswana,2016,0.01,2016,USD_Millions_2016_Value,173
+76,Brazil,2000,121.83,2000,USD_Millions_2016_Value,174
+76,Brazil,2001,5,2001,USD_Millions_2016_Value,175
+76,Brazil,2002,32.02,2002,USD_Millions_2016_Value,176
+76,Brazil,2003,7.22,2003,USD_Millions_2016_Value,177
+76,Brazil,2004,1.07,2004,USD_Millions_2016_Value,178
+76,Brazil,2005,11.23,2005,USD_Millions_2016_Value,179
+76,Brazil,2006,1.14,2006,USD_Millions_2016_Value,180
+76,Brazil,2007,0.86,2007,USD_Millions_2016_Value,181
+76,Brazil,2008,18.36,2008,USD_Millions_2016_Value,182
+76,Brazil,2009,164.79,2009,USD_Millions_2016_Value,183
+76,Brazil,2010,135.86,2010,USD_Millions_2016_Value,184
+76,Brazil,2011,167.35,2011,USD_Millions_2016_Value,185
+76,Brazil,2012,232.65,2012,USD_Millions_2016_Value,186
+76,Brazil,2013,146.66,2013,USD_Millions_2016_Value,187
+76,Brazil,2014,463.58,2014,USD_Millions_2016_Value,188
+76,Brazil,2015,2.17,2015,USD_Millions_2016_Value,189
+76,Brazil,2016,154.17,2016,USD_Millions_2016_Value,190
+84,Belize,2009,4.66,2009,USD_Millions_2016_Value,191
+84,Belize,2015,0.02,2015,USD_Millions_2016_Value,192
+84,Belize,2016,1.6,2016,USD_Millions_2016_Value,193
+90,Solomon Islands,2008,0.08,2008,USD_Millions_2016_Value,194
+90,Solomon Islands,2009,0.08,2009,USD_Millions_2016_Value,195
+90,Solomon Islands,2011,0.01,2011,USD_Millions_2016_Value,196
+90,Solomon Islands,2012,1.06,2012,USD_Millions_2016_Value,197
+90,Solomon Islands,2013,0.01,2013,USD_Millions_2016_Value,198
+90,Solomon Islands,2014,12.6,2014,USD_Millions_2016_Value,199
+90,Solomon Islands,2015,6.64,2015,USD_Millions_2016_Value,200
+90,Solomon Islands,2016,6.65,2016,USD_Millions_2016_Value,201
+104,Myanmar,2002,5.35,2002,USD_Millions_2016_Value,202
+104,Myanmar,2003,413.46,2003,USD_Millions_2016_Value,203
+104,Myanmar,2004,0.07,2004,USD_Millions_2016_Value,204
+104,Myanmar,2010,0.09,2010,USD_Millions_2016_Value,205
+104,Myanmar,2012,0.01,2012,USD_Millions_2016_Value,206
+104,Myanmar,2013,64.01,2013,USD_Millions_2016_Value,207
+104,Myanmar,2014,10.57,2014,USD_Millions_2016_Value,208
+104,Myanmar,2015,55.67,2015,USD_Millions_2016_Value,209
+104,Myanmar,2016,3.73,2016,USD_Millions_2016_Value,210
+108,Burundi,2008,0.01,2008,USD_Millions_2016_Value,211
+108,Burundi,2009,0.08,2009,USD_Millions_2016_Value,212
+108,Burundi,2010,13,2010,USD_Millions_2016_Value,213
+108,Burundi,2011,0.01,2011,USD_Millions_2016_Value,214
+108,Burundi,2012,5.74,2012,USD_Millions_2016_Value,215
+108,Burundi,2013,92.93,2013,USD_Millions_2016_Value,216
+108,Burundi,2014,134.95,2014,USD_Millions_2016_Value,217
+108,Burundi,2015,2.39,2015,USD_Millions_2016_Value,218
+108,Burundi,2016,0.05,2016,USD_Millions_2016_Value,219
+116,Cambodia,2002,42.35,2002,USD_Millions_2016_Value,220
+116,Cambodia,2003,4.44,2003,USD_Millions_2016_Value,221
+116,Cambodia,2004,540.84,2004,USD_Millions_2016_Value,222
+116,Cambodia,2005,1.24,2005,USD_Millions_2016_Value,223
+116,Cambodia,2006,10.29,2006,USD_Millions_2016_Value,224
+116,Cambodia,2007,580.47,2007,USD_Millions_2016_Value,225
+116,Cambodia,2008,62.73,2008,USD_Millions_2016_Value,226
+116,Cambodia,2009,3.75,2009,USD_Millions_2016_Value,227
+116,Cambodia,2010,646.86,2010,USD_Millions_2016_Value,228
+116,Cambodia,2011,1.07,2011,USD_Millions_2016_Value,229
+116,Cambodia,2012,0.68,2012,USD_Millions_2016_Value,230
+116,Cambodia,2013,490.47,2013,USD_Millions_2016_Value,231
+116,Cambodia,2014,0.39,2014,USD_Millions_2016_Value,232
+116,Cambodia,2015,7.92,2015,USD_Millions_2016_Value,233
+116,Cambodia,2016,150.27,2016,USD_Millions_2016_Value,234
+120,Cameroon,2002,0.01,2002,USD_Millions_2016_Value,235
+120,Cameroon,2003,0.01,2003,USD_Millions_2016_Value,236
+120,Cameroon,2004,0.02,2004,USD_Millions_2016_Value,237
+120,Cameroon,2006,32.76,2006,USD_Millions_2016_Value,238
+120,Cameroon,2008,0.46,2008,USD_Millions_2016_Value,239
+120,Cameroon,2009,0.14,2009,USD_Millions_2016_Value,240
+120,Cameroon,2010,51.26,2010,USD_Millions_2016_Value,241
+120,Cameroon,2011,0.04,2011,USD_Millions_2016_Value,242
+120,Cameroon,2012,828.8,2012,USD_Millions_2016_Value,243
+120,Cameroon,2013,0.02,2013,USD_Millions_2016_Value,244
+120,Cameroon,2014,9.92,2014,USD_Millions_2016_Value,245
+120,Cameroon,2015,1.98,2015,USD_Millions_2016_Value,246
+120,Cameroon,2016,74.28,2016,USD_Millions_2016_Value,247
+132,Cabo Verde,2001,2.52,2001,USD_Millions_2016_Value,248
+132,Cabo Verde,2005,0.02,2005,USD_Millions_2016_Value,249
+132,Cabo Verde,2008,0.42,2008,USD_Millions_2016_Value,250
+132,Cabo Verde,2009,0.17,2009,USD_Millions_2016_Value,251
+132,Cabo Verde,2010,65.34,2010,USD_Millions_2016_Value,252
+132,Cabo Verde,2011,13.41,2011,USD_Millions_2016_Value,253
+132,Cabo Verde,2012,15.54,2012,USD_Millions_2016_Value,254
+132,Cabo Verde,2013,14.81,2013,USD_Millions_2016_Value,255
+132,Cabo Verde,2014,6.76,2014,USD_Millions_2016_Value,256
+132,Cabo Verde,2015,2.97,2015,USD_Millions_2016_Value,257
+132,Cabo Verde,2016,7.62,2016,USD_Millions_2016_Value,258
+140,Central African Republic,2006,0,2006,USD_Millions_2016_Value,259
+140,Central African Republic,2009,4.02,2009,USD_Millions_2016_Value,260
+140,Central African Republic,2014,0,2014,USD_Millions_2016_Value,261
+140,Central African Republic,2015,3.81,2015,USD_Millions_2016_Value,262
+140,Central African Republic,2016,0,2016,USD_Millions_2016_Value,263
+144,Sri Lanka,2000,1.53,2000,USD_Millions_2016_Value,264
+144,Sri Lanka,2001,3.75,2001,USD_Millions_2016_Value,265
+144,Sri Lanka,2002,383.91,2002,USD_Millions_2016_Value,266
+144,Sri Lanka,2003,0.04,2003,USD_Millions_2016_Value,267
+144,Sri Lanka,2004,0.13,2004,USD_Millions_2016_Value,268
+144,Sri Lanka,2005,23.74,2005,USD_Millions_2016_Value,269
+144,Sri Lanka,2006,0.09,2006,USD_Millions_2016_Value,270
+144,Sri Lanka,2007,36.61,2007,USD_Millions_2016_Value,271
+144,Sri Lanka,2008,0.11,2008,USD_Millions_2016_Value,272
+144,Sri Lanka,2009,11.66,2009,USD_Millions_2016_Value,273
+144,Sri Lanka,2010,44.43,2010,USD_Millions_2016_Value,274
+144,Sri Lanka,2011,6.8,2011,USD_Millions_2016_Value,275
+144,Sri Lanka,2012,214.17,2012,USD_Millions_2016_Value,276
+144,Sri Lanka,2013,2.26,2013,USD_Millions_2016_Value,277
+144,Sri Lanka,2014,115.14,2014,USD_Millions_2016_Value,278
+144,Sri Lanka,2015,0.43,2015,USD_Millions_2016_Value,279
+144,Sri Lanka,2016,58.76,2016,USD_Millions_2016_Value,280
+148,Chad,2001,5.55,2001,USD_Millions_2016_Value,281
+148,Chad,2007,24.47,2007,USD_Millions_2016_Value,282
+148,Chad,2011,0,2011,USD_Millions_2016_Value,283
+148,Chad,2013,0.03,2013,USD_Millions_2016_Value,284
+148,Chad,2014,0.02,2014,USD_Millions_2016_Value,285
+148,Chad,2015,0.02,2015,USD_Millions_2016_Value,286
+148,Chad,2016,39.65,2016,USD_Millions_2016_Value,287
+152,Chile,2000,0.43,2000,USD_Millions_2016_Value,288
+152,Chile,2001,0.14,2001,USD_Millions_2016_Value,289
+152,Chile,2002,0.03,2002,USD_Millions_2016_Value,290
+152,Chile,2003,0.07,2003,USD_Millions_2016_Value,291
+152,Chile,2004,2.67,2004,USD_Millions_2016_Value,292
+152,Chile,2005,0.18,2005,USD_Millions_2016_Value,293
+152,Chile,2006,0.1,2006,USD_Millions_2016_Value,294
+152,Chile,2007,9.55,2007,USD_Millions_2016_Value,295
+152,Chile,2008,61.37,2008,USD_Millions_2016_Value,296
+152,Chile,2009,52.98,2009,USD_Millions_2016_Value,297
+152,Chile,2010,3.06,2010,USD_Millions_2016_Value,298
+152,Chile,2011,64.85,2011,USD_Millions_2016_Value,299
+152,Chile,2012,953.33,2012,USD_Millions_2016_Value,300
+152,Chile,2013,1285.84,2013,USD_Millions_2016_Value,301
+152,Chile,2014,793.27,2014,USD_Millions_2016_Value,302
+152,Chile,2015,104.49,2015,USD_Millions_2016_Value,303
+152,Chile,2016,211.94,2016,USD_Millions_2016_Value,304
+156,China,2000,234.46,2000,USD_Millions_2016_Value,305
+156,China,2001,322.3,2001,USD_Millions_2016_Value,306
+156,China,2002,216.86,2002,USD_Millions_2016_Value,307
+156,China,2003,21.37,2003,USD_Millions_2016_Value,308
+156,China,2004,31.22,2004,USD_Millions_2016_Value,309
+156,China,2005,148.66,2005,USD_Millions_2016_Value,310
+156,China,2006,99.64,2006,USD_Millions_2016_Value,311
+156,China,2007,23.73,2007,USD_Millions_2016_Value,312
+156,China,2008,105.86,2008,USD_Millions_2016_Value,313
+156,China,2009,56.14,2009,USD_Millions_2016_Value,314
+156,China,2010,74.39,2010,USD_Millions_2016_Value,315
+156,China,2011,41.21,2011,USD_Millions_2016_Value,316
+156,China,2012,96.57,2012,USD_Millions_2016_Value,317
+156,China,2013,290.17,2013,USD_Millions_2016_Value,318
+156,China,2014,220.42,2014,USD_Millions_2016_Value,319
+156,China,2015,88.49,2015,USD_Millions_2016_Value,320
+156,China,2016,1213.8,2016,USD_Millions_2016_Value,321
+170,Colombia,2002,0.08,2002,USD_Millions_2016_Value,322
+170,Colombia,2003,0.01,2003,USD_Millions_2016_Value,323
+170,Colombia,2005,214.31,2005,USD_Millions_2016_Value,324
+170,Colombia,2006,1.84,2006,USD_Millions_2016_Value,325
+170,Colombia,2007,0.75,2007,USD_Millions_2016_Value,326
+170,Colombia,2008,1.07,2008,USD_Millions_2016_Value,327
+170,Colombia,2009,0.01,2009,USD_Millions_2016_Value,328
+170,Colombia,2010,3.32,2010,USD_Millions_2016_Value,329
+170,Colombia,2011,0.74,2011,USD_Millions_2016_Value,330
+170,Colombia,2012,1.78,2012,USD_Millions_2016_Value,331
+170,Colombia,2013,0.31,2013,USD_Millions_2016_Value,332
+170,Colombia,2014,52.26,2014,USD_Millions_2016_Value,333
+170,Colombia,2015,21.84,2015,USD_Millions_2016_Value,334
+170,Colombia,2016,1395.3,2016,USD_Millions_2016_Value,335
+174,Comoros,2012,0.3,2012,USD_Millions_2016_Value,336
+174,Comoros,2013,0.02,2013,USD_Millions_2016_Value,337
+174,Comoros,2014,0.12,2014,USD_Millions_2016_Value,338
+174,Comoros,2015,0.96,2015,USD_Millions_2016_Value,339
+174,Comoros,2016,0.01,2016,USD_Millions_2016_Value,340
+178,Congo,2000,0.14,2000,USD_Millions_2016_Value,341
+178,Congo,2003,491.2,2003,USD_Millions_2016_Value,342
+178,Congo,2013,1.81,2013,USD_Millions_2016_Value,343
+178,Congo,2014,0,2014,USD_Millions_2016_Value,344
+178,Congo,2016,0.08,2016,USD_Millions_2016_Value,345
+180,Democratic Republic of the Congo,2001,0.04,2001,USD_Millions_2016_Value,346
+180,Democratic Republic of the Congo,2002,0.06,2002,USD_Millions_2016_Value,347
+180,Democratic Republic of the Congo,2005,1.21,2005,USD_Millions_2016_Value,348
+180,Democratic Republic of the Congo,2007,201.8,2007,USD_Millions_2016_Value,349
+180,Democratic Republic of the Congo,2008,52.15,2008,USD_Millions_2016_Value,350
+180,Democratic Republic of the Congo,2009,0.05,2009,USD_Millions_2016_Value,351
+180,Democratic Republic of the Congo,2010,0.38,2010,USD_Millions_2016_Value,352
+180,Democratic Republic of the Congo,2011,1234.94,2011,USD_Millions_2016_Value,353
+180,Democratic Republic of the Congo,2012,0.07,2012,USD_Millions_2016_Value,354
+180,Democratic Republic of the Congo,2013,24.07,2013,USD_Millions_2016_Value,355
+180,Democratic Republic of the Congo,2014,69.49,2014,USD_Millions_2016_Value,356
+180,Democratic Republic of the Congo,2015,0.59,2015,USD_Millions_2016_Value,357
+180,Democratic Republic of the Congo,2016,22.27,2016,USD_Millions_2016_Value,358
+184,Cook Islands,2011,3.37,2011,USD_Millions_2016_Value,359
+184,Cook Islands,2012,4.87,2012,USD_Millions_2016_Value,360
+184,Cook Islands,2013,7.25,2013,USD_Millions_2016_Value,361
+184,Cook Islands,2014,14.54,2014,USD_Millions_2016_Value,362
+184,Cook Islands,2015,17.42,2015,USD_Millions_2016_Value,363
+184,Cook Islands,2016,4.26,2016,USD_Millions_2016_Value,364
+188,Costa Rica,2000,0.09,2000,USD_Millions_2016_Value,365
+188,Costa Rica,2001,139.98,2001,USD_Millions_2016_Value,366
+188,Costa Rica,2003,15.97,2003,USD_Millions_2016_Value,367
+188,Costa Rica,2004,0.08,2004,USD_Millions_2016_Value,368
+188,Costa Rica,2005,0.1,2005,USD_Millions_2016_Value,369
+188,Costa Rica,2006,0.08,2006,USD_Millions_2016_Value,370
+188,Costa Rica,2007,0.66,2007,USD_Millions_2016_Value,371
+188,Costa Rica,2008,0.08,2008,USD_Millions_2016_Value,372
+188,Costa Rica,2009,0.01,2009,USD_Millions_2016_Value,373
+188,Costa Rica,2010,7.63,2010,USD_Millions_2016_Value,374
+188,Costa Rica,2011,125.5,2011,USD_Millions_2016_Value,375
+188,Costa Rica,2012,524.32,2012,USD_Millions_2016_Value,376
+188,Costa Rica,2013,113.83,2013,USD_Millions_2016_Value,377
+188,Costa Rica,2014,160.45,2014,USD_Millions_2016_Value,378
+188,Costa Rica,2015,412.49,2015,USD_Millions_2016_Value,379
+188,Costa Rica,2016,148.77,2016,USD_Millions_2016_Value,380
+192,Cuba,2000,0.75,2000,USD_Millions_2016_Value,381
+192,Cuba,2001,4.38,2001,USD_Millions_2016_Value,382
+192,Cuba,2002,1.62,2002,USD_Millions_2016_Value,383
+192,Cuba,2003,0.34,2003,USD_Millions_2016_Value,384
+192,Cuba,2004,0.87,2004,USD_Millions_2016_Value,385
+192,Cuba,2005,0.38,2005,USD_Millions_2016_Value,386
+192,Cuba,2006,0.37,2006,USD_Millions_2016_Value,387
+192,Cuba,2007,0.01,2007,USD_Millions_2016_Value,388
+192,Cuba,2008,0.04,2008,USD_Millions_2016_Value,389
+192,Cuba,2009,0.85,2009,USD_Millions_2016_Value,390
+192,Cuba,2010,3.93,2010,USD_Millions_2016_Value,391
+192,Cuba,2011,1.24,2011,USD_Millions_2016_Value,392
+192,Cuba,2012,0.39,2012,USD_Millions_2016_Value,393
+192,Cuba,2013,2.98,2013,USD_Millions_2016_Value,394
+192,Cuba,2014,0.04,2014,USD_Millions_2016_Value,395
+192,Cuba,2015,73.06,2015,USD_Millions_2016_Value,396
+192,Cuba,2016,29.75,2016,USD_Millions_2016_Value,397
+199,Least Developed Countries (LDCs),2000,58.85,2000,USD_Millions_2016_Value,398
+199,Least Developed Countries (LDCs),2001,66.1,2001,USD_Millions_2016_Value,399
+199,Least Developed Countries (LDCs),2002,278.43,2002,USD_Millions_2016_Value,400
+199,Least Developed Countries (LDCs),2003,1855.05,2003,USD_Millions_2016_Value,401
+199,Least Developed Countries (LDCs),2004,923.92,2004,USD_Millions_2016_Value,402
+199,Least Developed Countries (LDCs),2005,598.18,2005,USD_Millions_2016_Value,403
+199,Least Developed Countries (LDCs),2006,589.45,2006,USD_Millions_2016_Value,404
+199,Least Developed Countries (LDCs),2007,1634.22,2007,USD_Millions_2016_Value,405
+199,Least Developed Countries (LDCs),2008,340.52,2008,USD_Millions_2016_Value,406
+199,Least Developed Countries (LDCs),2009,1226.86,2009,USD_Millions_2016_Value,407
+199,Least Developed Countries (LDCs),2010,1473.83,2010,USD_Millions_2016_Value,408
+199,Least Developed Countries (LDCs),2011,2459.19,2011,USD_Millions_2016_Value,409
+199,Least Developed Countries (LDCs),2012,832.28,2012,USD_Millions_2016_Value,410
+199,Least Developed Countries (LDCs),2013,4791.28,2013,USD_Millions_2016_Value,411
+199,Least Developed Countries (LDCs),2014,1712.72,2014,USD_Millions_2016_Value,412
+199,Least Developed Countries (LDCs),2015,3927.21,2015,USD_Millions_2016_Value,413
+199,Least Developed Countries (LDCs),2016,2534.77,2016,USD_Millions_2016_Value,414
+202,Sub-Saharan Africa,2000,65.66,2000,USD_Millions_2016_Value,415
+202,Sub-Saharan Africa,2001,103.38,2001,USD_Millions_2016_Value,416
+202,Sub-Saharan Africa,2002,146.56,2002,USD_Millions_2016_Value,417
+202,Sub-Saharan Africa,2003,550.1,2003,USD_Millions_2016_Value,418
+202,Sub-Saharan Africa,2004,191.41,2004,USD_Millions_2016_Value,419
+202,Sub-Saharan Africa,2005,533.22,2005,USD_Millions_2016_Value,420
+202,Sub-Saharan Africa,2006,660.48,2006,USD_Millions_2016_Value,421
+202,Sub-Saharan Africa,2007,1452.67,2007,USD_Millions_2016_Value,422
+202,Sub-Saharan Africa,2008,728.35,2008,USD_Millions_2016_Value,423
+202,Sub-Saharan Africa,2009,761.97,2009,USD_Millions_2016_Value,424
+202,Sub-Saharan Africa,2010,1831.75,2010,USD_Millions_2016_Value,425
+202,Sub-Saharan Africa,2011,2928.63,2011,USD_Millions_2016_Value,426
+202,Sub-Saharan Africa,2012,1931.88,2012,USD_Millions_2016_Value,427
+202,Sub-Saharan Africa,2013,4975.77,2013,USD_Millions_2016_Value,428
+202,Sub-Saharan Africa,2014,2249.03,2014,USD_Millions_2016_Value,429
+202,Sub-Saharan Africa,2015,5047.02,2015,USD_Millions_2016_Value,430
+202,Sub-Saharan Africa,2016,3909.27,2016,USD_Millions_2016_Value,431
+204,Benin,2002,0.09,2002,USD_Millions_2016_Value,432
+204,Benin,2004,0,2004,USD_Millions_2016_Value,433
+204,Benin,2006,8.19,2006,USD_Millions_2016_Value,434
+204,Benin,2008,0.54,2008,USD_Millions_2016_Value,435
+204,Benin,2009,8.49,2009,USD_Millions_2016_Value,436
+204,Benin,2010,0.16,2010,USD_Millions_2016_Value,437
+204,Benin,2011,0.35,2011,USD_Millions_2016_Value,438
+204,Benin,2012,0.07,2012,USD_Millions_2016_Value,439
+204,Benin,2014,12.19,2014,USD_Millions_2016_Value,440
+204,Benin,2015,537.88,2015,USD_Millions_2016_Value,441
+204,Benin,2016,1.21,2016,USD_Millions_2016_Value,442
+212,Dominica,2013,7.34,2013,USD_Millions_2016_Value,443
+212,Dominica,2014,1.64,2014,USD_Millions_2016_Value,444
+214,Dominican Republic,2000,10.41,2000,USD_Millions_2016_Value,445
+214,Dominican Republic,2001,3.92,2001,USD_Millions_2016_Value,446
+214,Dominican Republic,2002,0.63,2002,USD_Millions_2016_Value,447
+214,Dominican Republic,2004,0.44,2004,USD_Millions_2016_Value,448
+214,Dominican Republic,2005,6.05,2005,USD_Millions_2016_Value,449
+214,Dominican Republic,2006,0.5,2006,USD_Millions_2016_Value,450
+214,Dominican Republic,2007,0.36,2007,USD_Millions_2016_Value,451
+214,Dominican Republic,2008,0.14,2008,USD_Millions_2016_Value,452
+214,Dominican Republic,2009,0.29,2009,USD_Millions_2016_Value,453
+214,Dominican Republic,2010,75.26,2010,USD_Millions_2016_Value,454
+214,Dominican Republic,2011,0.23,2011,USD_Millions_2016_Value,455
+214,Dominican Republic,2012,1.33,2012,USD_Millions_2016_Value,456
+214,Dominican Republic,2013,0.02,2013,USD_Millions_2016_Value,457
+214,Dominican Republic,2014,0.42,2014,USD_Millions_2016_Value,458
+214,Dominican Republic,2015,0.07,2015,USD_Millions_2016_Value,459
+214,Dominican Republic,2016,78.59,2016,USD_Millions_2016_Value,460
+218,Ecuador,2000,2.08,2000,USD_Millions_2016_Value,461
+218,Ecuador,2001,2.06,2001,USD_Millions_2016_Value,462
+218,Ecuador,2002,0.8,2002,USD_Millions_2016_Value,463
+218,Ecuador,2003,0.33,2003,USD_Millions_2016_Value,464
+218,Ecuador,2004,0.3,2004,USD_Millions_2016_Value,465
+218,Ecuador,2005,8.06,2005,USD_Millions_2016_Value,466
+218,Ecuador,2006,0.01,2006,USD_Millions_2016_Value,467
+218,Ecuador,2008,2.63,2008,USD_Millions_2016_Value,468
+218,Ecuador,2009,1.2,2009,USD_Millions_2016_Value,469
+218,Ecuador,2010,2672.28,2010,USD_Millions_2016_Value,470
+218,Ecuador,2011,746.56,2011,USD_Millions_2016_Value,471
+218,Ecuador,2012,25.36,2012,USD_Millions_2016_Value,472
+218,Ecuador,2013,316.38,2013,USD_Millions_2016_Value,473
+218,Ecuador,2014,482.3,2014,USD_Millions_2016_Value,474
+218,Ecuador,2015,29.93,2015,USD_Millions_2016_Value,475
+218,Ecuador,2016,129.26,2016,USD_Millions_2016_Value,476
+222,El Salvador,2004,1.24,2004,USD_Millions_2016_Value,477
+222,El Salvador,2006,0,2006,USD_Millions_2016_Value,478
+222,El Salvador,2007,0.24,2007,USD_Millions_2016_Value,479
+222,El Salvador,2008,0.02,2008,USD_Millions_2016_Value,480
+222,El Salvador,2009,0.1,2009,USD_Millions_2016_Value,481
+222,El Salvador,2010,54.06,2010,USD_Millions_2016_Value,482
+222,El Salvador,2011,0.93,2011,USD_Millions_2016_Value,483
+222,El Salvador,2012,1.39,2012,USD_Millions_2016_Value,484
+222,El Salvador,2013,64.57,2013,USD_Millions_2016_Value,485
+222,El Salvador,2014,112.21,2014,USD_Millions_2016_Value,486
+222,El Salvador,2015,73.88,2015,USD_Millions_2016_Value,487
+222,El Salvador,2016,197.66,2016,USD_Millions_2016_Value,488
+226,Equatorial Guinea,2001,0.17,2001,USD_Millions_2016_Value,489
+226,Equatorial Guinea,2002,0.16,2002,USD_Millions_2016_Value,490
+226,Equatorial Guinea,2003,0.04,2003,USD_Millions_2016_Value,491
+226,Equatorial Guinea,2006,442.41,2006,USD_Millions_2016_Value,492
+226,Equatorial Guinea,2013,3.29,2013,USD_Millions_2016_Value,493
+226,Equatorial Guinea,2015,0.02,2015,USD_Millions_2016_Value,494
+231,Ethiopia,2000,1.41,2000,USD_Millions_2016_Value,495
+231,Ethiopia,2001,0.75,2001,USD_Millions_2016_Value,496
+231,Ethiopia,2002,90.57,2002,USD_Millions_2016_Value,497
+231,Ethiopia,2003,7.43,2003,USD_Millions_2016_Value,498
+231,Ethiopia,2004,0.61,2004,USD_Millions_2016_Value,499
+231,Ethiopia,2005,348.55,2005,USD_Millions_2016_Value,500
+231,Ethiopia,2006,0.39,2006,USD_Millions_2016_Value,501
+231,Ethiopia,2007,194.41,2007,USD_Millions_2016_Value,502
+231,Ethiopia,2008,0.31,2008,USD_Millions_2016_Value,503
+231,Ethiopia,2009,447.94,2009,USD_Millions_2016_Value,504
+231,Ethiopia,2010,88.59,2010,USD_Millions_2016_Value,505
+231,Ethiopia,2011,103.96,2011,USD_Millions_2016_Value,506
+231,Ethiopia,2012,51.73,2012,USD_Millions_2016_Value,507
+231,Ethiopia,2013,279.83,2013,USD_Millions_2016_Value,508
+231,Ethiopia,2014,187.11,2014,USD_Millions_2016_Value,509
+231,Ethiopia,2015,309.24,2015,USD_Millions_2016_Value,510
+231,Ethiopia,2016,51.98,2016,USD_Millions_2016_Value,511
+232,Eritrea,2007,0.49,2007,USD_Millions_2016_Value,512
+232,Eritrea,2008,0.07,2008,USD_Millions_2016_Value,513
+232,Eritrea,2009,0.03,2009,USD_Millions_2016_Value,514
+232,Eritrea,2010,0.05,2010,USD_Millions_2016_Value,515
+232,Eritrea,2011,0.24,2011,USD_Millions_2016_Value,516
+232,Eritrea,2015,13.87,2015,USD_Millions_2016_Value,517
+242,Fiji,2004,0.3,2004,USD_Millions_2016_Value,518
+242,Fiji,2005,0.26,2005,USD_Millions_2016_Value,519
+242,Fiji,2007,0.05,2007,USD_Millions_2016_Value,520
+242,Fiji,2009,91.39,2009,USD_Millions_2016_Value,521
+242,Fiji,2011,0.01,2011,USD_Millions_2016_Value,522
+242,Fiji,2012,0.11,2012,USD_Millions_2016_Value,523
+242,Fiji,2013,4.53,2013,USD_Millions_2016_Value,524
+242,Fiji,2014,6.43,2014,USD_Millions_2016_Value,525
+242,Fiji,2015,1.66,2015,USD_Millions_2016_Value,526
+242,Fiji,2016,0.18,2016,USD_Millions_2016_Value,527
+258,French Polynesia,2012,0.23,2012,USD_Millions_2016_Value,528
+262,Djibouti,2005,5.7,2005,USD_Millions_2016_Value,529
+262,Djibouti,2009,5.57,2009,USD_Millions_2016_Value,530
+262,Djibouti,2010,11.93,2010,USD_Millions_2016_Value,531
+262,Djibouti,2011,0.01,2011,USD_Millions_2016_Value,532
+262,Djibouti,2012,9.1,2012,USD_Millions_2016_Value,533
+262,Djibouti,2013,7.92,2013,USD_Millions_2016_Value,534
+262,Djibouti,2014,3.03,2014,USD_Millions_2016_Value,535
+262,Djibouti,2015,3.71,2015,USD_Millions_2016_Value,536
+262,Djibouti,2016,1.27,2016,USD_Millions_2016_Value,537
+266,Gabon,2008,387.17,2008,USD_Millions_2016_Value,538
+266,Gabon,2010,6.24,2010,USD_Millions_2016_Value,539
+266,Gabon,2013,0.02,2013,USD_Millions_2016_Value,540
+266,Gabon,2014,0.01,2014,USD_Millions_2016_Value,541
+266,Gabon,2015,12.59,2015,USD_Millions_2016_Value,542
+266,Gabon,2016,39.07,2016,USD_Millions_2016_Value,543
+268,Georgia,2001,17.13,2001,USD_Millions_2016_Value,544
+268,Georgia,2003,1.79,2003,USD_Millions_2016_Value,545
+268,Georgia,2004,3.24,2004,USD_Millions_2016_Value,546
+268,Georgia,2005,9.03,2005,USD_Millions_2016_Value,547
+268,Georgia,2006,2.47,2006,USD_Millions_2016_Value,548
+268,Georgia,2009,0.97,2009,USD_Millions_2016_Value,549
+268,Georgia,2010,8.17,2010,USD_Millions_2016_Value,550
+268,Georgia,2011,88.66,2011,USD_Millions_2016_Value,551
+268,Georgia,2012,34.89,2012,USD_Millions_2016_Value,552
+268,Georgia,2013,9.39,2013,USD_Millions_2016_Value,553
+268,Georgia,2014,187.51,2014,USD_Millions_2016_Value,554
+268,Georgia,2015,6.37,2015,USD_Millions_2016_Value,555
+268,Georgia,2016,86.83,2016,USD_Millions_2016_Value,556
+270,Gambia,2002,0.01,2002,USD_Millions_2016_Value,557
+270,Gambia,2011,0.01,2011,USD_Millions_2016_Value,558
+275,State of Palestine,2000,0.03,2000,USD_Millions_2016_Value,559
+275,State of Palestine,2001,0.03,2001,USD_Millions_2016_Value,560
+275,State of Palestine,2005,0.03,2005,USD_Millions_2016_Value,561
+275,State of Palestine,2007,0.38,2007,USD_Millions_2016_Value,562
+275,State of Palestine,2008,0.08,2008,USD_Millions_2016_Value,563
+275,State of Palestine,2009,5.48,2009,USD_Millions_2016_Value,564
+275,State of Palestine,2010,1.31,2010,USD_Millions_2016_Value,565
+275,State of Palestine,2011,0.74,2011,USD_Millions_2016_Value,566
+275,State of Palestine,2012,1.24,2012,USD_Millions_2016_Value,567
+275,State of Palestine,2013,0.9,2013,USD_Millions_2016_Value,568
+275,State of Palestine,2014,1.88,2014,USD_Millions_2016_Value,569
+275,State of Palestine,2015,22.01,2015,USD_Millions_2016_Value,570
+275,State of Palestine,2016,2.78,2016,USD_Millions_2016_Value,571
+288,Ghana,2000,4.01,2000,USD_Millions_2016_Value,572
+288,Ghana,2001,0.96,2001,USD_Millions_2016_Value,573
+288,Ghana,2002,0.02,2002,USD_Millions_2016_Value,574
+288,Ghana,2003,0.32,2003,USD_Millions_2016_Value,575
+288,Ghana,2004,0.25,2004,USD_Millions_2016_Value,576
+288,Ghana,2005,0.35,2005,USD_Millions_2016_Value,577
+288,Ghana,2006,26,2006,USD_Millions_2016_Value,578
+288,Ghana,2007,466.5,2007,USD_Millions_2016_Value,579
+288,Ghana,2008,7.4,2008,USD_Millions_2016_Value,580
+288,Ghana,2009,0.62,2009,USD_Millions_2016_Value,581
+288,Ghana,2010,23.95,2010,USD_Millions_2016_Value,582
+288,Ghana,2011,1.35,2011,USD_Millions_2016_Value,583
+288,Ghana,2012,0.79,2012,USD_Millions_2016_Value,584
+288,Ghana,2013,2.23,2013,USD_Millions_2016_Value,585
+288,Ghana,2014,7.16,2014,USD_Millions_2016_Value,586
+288,Ghana,2015,57.79,2015,USD_Millions_2016_Value,587
+288,Ghana,2016,484.01,2016,USD_Millions_2016_Value,588
+296,Kiribati,2009,4.87,2009,USD_Millions_2016_Value,589
+296,Kiribati,2010,0.94,2010,USD_Millions_2016_Value,590
+296,Kiribati,2013,4.52,2013,USD_Millions_2016_Value,591
+296,Kiribati,2014,4.17,2014,USD_Millions_2016_Value,592
+296,Kiribati,2016,0,2016,USD_Millions_2016_Value,593
+308,Grenada,2003,0.43,2003,USD_Millions_2016_Value,594
+308,Grenada,2011,2.92,2011,USD_Millions_2016_Value,595
+308,Grenada,2014,0.11,2014,USD_Millions_2016_Value,596
+308,Grenada,2015,1.63,2015,USD_Millions_2016_Value,597
+320,Guatemala,2005,0.03,2005,USD_Millions_2016_Value,598
+320,Guatemala,2006,0,2006,USD_Millions_2016_Value,599
+320,Guatemala,2008,0.06,2008,USD_Millions_2016_Value,600
+320,Guatemala,2009,0.02,2009,USD_Millions_2016_Value,601
+320,Guatemala,2010,9.59,2010,USD_Millions_2016_Value,602
+320,Guatemala,2011,4.13,2011,USD_Millions_2016_Value,603
+320,Guatemala,2012,53.87,2012,USD_Millions_2016_Value,604
+320,Guatemala,2013,0.48,2013,USD_Millions_2016_Value,605
+320,Guatemala,2014,22.81,2014,USD_Millions_2016_Value,606
+320,Guatemala,2015,0.02,2015,USD_Millions_2016_Value,607
+320,Guatemala,2016,13.35,2016,USD_Millions_2016_Value,608
+324,Guinea,2000,0.21,2000,USD_Millions_2016_Value,609
+324,Guinea,2001,0.52,2001,USD_Millions_2016_Value,610
+324,Guinea,2002,4.72,2002,USD_Millions_2016_Value,611
+324,Guinea,2006,2.39,2006,USD_Millions_2016_Value,612
+324,Guinea,2007,0.48,2007,USD_Millions_2016_Value,613
+324,Guinea,2008,0.01,2008,USD_Millions_2016_Value,614
+324,Guinea,2011,348.05,2011,USD_Millions_2016_Value,615
+324,Guinea,2012,5.75,2012,USD_Millions_2016_Value,616
+324,Guinea,2014,0.06,2014,USD_Millions_2016_Value,617
+324,Guinea,2015,1.15,2015,USD_Millions_2016_Value,618
+324,Guinea,2016,135.05,2016,USD_Millions_2016_Value,619
+328,Guyana,2001,4.97,2001,USD_Millions_2016_Value,620
+328,Guyana,2005,0.03,2005,USD_Millions_2016_Value,621
+328,Guyana,2010,1.14,2010,USD_Millions_2016_Value,622
+328,Guyana,2012,0.08,2012,USD_Millions_2016_Value,623
+328,Guyana,2013,0.02,2013,USD_Millions_2016_Value,624
+328,Guyana,2014,0.02,2014,USD_Millions_2016_Value,625
+328,Guyana,2015,1.42,2015,USD_Millions_2016_Value,626
+332,Haiti,2000,0.79,2000,USD_Millions_2016_Value,627
+332,Haiti,2005,0.3,2005,USD_Millions_2016_Value,628
+332,Haiti,2008,0,2008,USD_Millions_2016_Value,629
+332,Haiti,2009,14.25,2009,USD_Millions_2016_Value,630
+332,Haiti,2010,2.22,2010,USD_Millions_2016_Value,631
+332,Haiti,2011,29.78,2011,USD_Millions_2016_Value,632
+332,Haiti,2012,9.63,2012,USD_Millions_2016_Value,633
+332,Haiti,2013,13.08,2013,USD_Millions_2016_Value,634
+332,Haiti,2014,0.78,2014,USD_Millions_2016_Value,635
+332,Haiti,2015,46.57,2015,USD_Millions_2016_Value,636
+332,Haiti,2016,8.23,2016,USD_Millions_2016_Value,637
+340,Honduras,2000,31.19,2000,USD_Millions_2016_Value,638
+340,Honduras,2003,0.2,2003,USD_Millions_2016_Value,639
+340,Honduras,2005,5.63,2005,USD_Millions_2016_Value,640
+340,Honduras,2007,0.02,2007,USD_Millions_2016_Value,641
+340,Honduras,2008,0.02,2008,USD_Millions_2016_Value,642
+340,Honduras,2009,0.13,2009,USD_Millions_2016_Value,643
+340,Honduras,2010,123.85,2010,USD_Millions_2016_Value,644
+340,Honduras,2011,12.54,2011,USD_Millions_2016_Value,645
+340,Honduras,2012,22.39,2012,USD_Millions_2016_Value,646
+340,Honduras,2013,335.89,2013,USD_Millions_2016_Value,647
+340,Honduras,2014,168.93,2014,USD_Millions_2016_Value,648
+340,Honduras,2015,361.84,2015,USD_Millions_2016_Value,649
+340,Honduras,2016,205.22,2016,USD_Millions_2016_Value,650
+356,India,2000,467.91,2000,USD_Millions_2016_Value,651
+356,India,2001,181.38,2001,USD_Millions_2016_Value,652
+356,India,2002,16.26,2002,USD_Millions_2016_Value,653
+356,India,2003,10.11,2003,USD_Millions_2016_Value,654
+356,India,2004,345.28,2004,USD_Millions_2016_Value,655
+356,India,2005,146.57,2005,USD_Millions_2016_Value,656
+356,India,2006,160.79,2006,USD_Millions_2016_Value,657
+356,India,2007,446.01,2007,USD_Millions_2016_Value,658
+356,India,2008,312.14,2008,USD_Millions_2016_Value,659
+356,India,2009,205.09,2009,USD_Millions_2016_Value,660
+356,India,2010,295.51,2010,USD_Millions_2016_Value,661
+356,India,2011,1830.99,2011,USD_Millions_2016_Value,662
+356,India,2012,1076.95,2012,USD_Millions_2016_Value,663
+356,India,2013,494.19,2013,USD_Millions_2016_Value,664
+356,India,2014,682.07,2014,USD_Millions_2016_Value,665
+356,India,2015,858.35,2015,USD_Millions_2016_Value,666
+356,India,2016,2049.82,2016,USD_Millions_2016_Value,667
+360,Indonesia,2000,2.2,2000,USD_Millions_2016_Value,668
+360,Indonesia,2001,4.87,2001,USD_Millions_2016_Value,669
+360,Indonesia,2002,0.11,2002,USD_Millions_2016_Value,670
+360,Indonesia,2003,193.28,2003,USD_Millions_2016_Value,671
+360,Indonesia,2004,51.61,2004,USD_Millions_2016_Value,672
+360,Indonesia,2005,188.11,2005,USD_Millions_2016_Value,673
+360,Indonesia,2006,255.58,2006,USD_Millions_2016_Value,674
+360,Indonesia,2007,619.25,2007,USD_Millions_2016_Value,675
+360,Indonesia,2008,18.02,2008,USD_Millions_2016_Value,676
+360,Indonesia,2009,27.88,2009,USD_Millions_2016_Value,677
+360,Indonesia,2010,44.31,2010,USD_Millions_2016_Value,678
+360,Indonesia,2011,918.77,2011,USD_Millions_2016_Value,679
+360,Indonesia,2012,15.83,2012,USD_Millions_2016_Value,680
+360,Indonesia,2013,237.43,2013,USD_Millions_2016_Value,681
+360,Indonesia,2014,306.09,2014,USD_Millions_2016_Value,682
+360,Indonesia,2015,360.18,2015,USD_Millions_2016_Value,683
+360,Indonesia,2016,326.22,2016,USD_Millions_2016_Value,684
+364,Iran (Islamic Republic of),2000,62.18,2000,USD_Millions_2016_Value,685
+364,Iran (Islamic Republic of),2009,0.02,2009,USD_Millions_2016_Value,686
+364,Iran (Islamic Republic of),2010,0,2010,USD_Millions_2016_Value,687
+364,Iran (Islamic Republic of),2014,0.09,2014,USD_Millions_2016_Value,688
+364,Iran (Islamic Republic of),2015,0.2,2015,USD_Millions_2016_Value,689
+364,Iran (Islamic Republic of),2016,0.08,2016,USD_Millions_2016_Value,690
+368,Iraq,2003,22.53,2003,USD_Millions_2016_Value,691
+368,Iraq,2006,41.51,2006,USD_Millions_2016_Value,692
+368,Iraq,2007,33.56,2007,USD_Millions_2016_Value,693
+368,Iraq,2008,0.08,2008,USD_Millions_2016_Value,694
+368,Iraq,2009,0.14,2009,USD_Millions_2016_Value,695
+368,Iraq,2010,158.31,2010,USD_Millions_2016_Value,696
+368,Iraq,2012,2.16,2012,USD_Millions_2016_Value,697
+368,Iraq,2014,0.02,2014,USD_Millions_2016_Value,698
+368,Iraq,2016,250,2016,USD_Millions_2016_Value,699
+384,C��te d'Ivoire,2000,13.12,2000,USD_Millions_2016_Value,700
+384,C��te d'Ivoire,2010,0.86,2010,USD_Millions_2016_Value,701
+384,C��te d'Ivoire,2011,14.61,2011,USD_Millions_2016_Value,702
+384,C��te d'Ivoire,2012,0.25,2012,USD_Millions_2016_Value,703
+384,C��te d'Ivoire,2013,475.89,2013,USD_Millions_2016_Value,704
+384,C��te d'Ivoire,2015,0.76,2015,USD_Millions_2016_Value,705
+384,C��te d'Ivoire,2016,33.49,2016,USD_Millions_2016_Value,706
+388,Jamaica,2000,4.86,2000,USD_Millions_2016_Value,707
+388,Jamaica,2001,8.42,2001,USD_Millions_2016_Value,708
+388,Jamaica,2008,0.38,2008,USD_Millions_2016_Value,709
+388,Jamaica,2009,0.11,2009,USD_Millions_2016_Value,710
+388,Jamaica,2010,0.16,2010,USD_Millions_2016_Value,711
+388,Jamaica,2011,8.5,2011,USD_Millions_2016_Value,712
+388,Jamaica,2012,0.12,2012,USD_Millions_2016_Value,713
+388,Jamaica,2014,54.81,2014,USD_Millions_2016_Value,714
+388,Jamaica,2015,58.74,2015,USD_Millions_2016_Value,715
+388,Jamaica,2016,16.84,2016,USD_Millions_2016_Value,716
+398,Kazakhstan,2006,344.29,2006,USD_Millions_2016_Value,717
+398,Kazakhstan,2007,54.13,2007,USD_Millions_2016_Value,718
+398,Kazakhstan,2008,2.51,2008,USD_Millions_2016_Value,719
+398,Kazakhstan,2010,1.33,2010,USD_Millions_2016_Value,720
+398,Kazakhstan,2011,1.62,2011,USD_Millions_2016_Value,721
+398,Kazakhstan,2012,26.38,2012,USD_Millions_2016_Value,722
+398,Kazakhstan,2013,0.02,2013,USD_Millions_2016_Value,723
+398,Kazakhstan,2014,35.95,2014,USD_Millions_2016_Value,724
+398,Kazakhstan,2015,42.63,2015,USD_Millions_2016_Value,725
+398,Kazakhstan,2016,44.01,2016,USD_Millions_2016_Value,726
+400,Jordan,2002,0.03,2002,USD_Millions_2016_Value,727
+400,Jordan,2003,0.23,2003,USD_Millions_2016_Value,728
+400,Jordan,2005,0.02,2005,USD_Millions_2016_Value,729
+400,Jordan,2007,0.18,2007,USD_Millions_2016_Value,730
+400,Jordan,2008,0.08,2008,USD_Millions_2016_Value,731
+400,Jordan,2009,13.4,2009,USD_Millions_2016_Value,732
+400,Jordan,2010,6.82,2010,USD_Millions_2016_Value,733
+400,Jordan,2011,44.4,2011,USD_Millions_2016_Value,734
+400,Jordan,2012,0.01,2012,USD_Millions_2016_Value,735
+400,Jordan,2013,134.76,2013,USD_Millions_2016_Value,736
+400,Jordan,2014,149,2014,USD_Millions_2016_Value,737
+400,Jordan,2015,158.4,2015,USD_Millions_2016_Value,738
+400,Jordan,2016,481.96,2016,USD_Millions_2016_Value,739
+404,Kenya,2000,0.09,2000,USD_Millions_2016_Value,740
+404,Kenya,2003,0.31,2003,USD_Millions_2016_Value,741
+404,Kenya,2004,133.45,2004,USD_Millions_2016_Value,742
+404,Kenya,2005,41.59,2005,USD_Millions_2016_Value,743
+404,Kenya,2006,0.01,2006,USD_Millions_2016_Value,744
+404,Kenya,2007,58.41,2007,USD_Millions_2016_Value,745
+404,Kenya,2008,28.79,2008,USD_Millions_2016_Value,746
+404,Kenya,2009,33.76,2009,USD_Millions_2016_Value,747
+404,Kenya,2010,708.7,2010,USD_Millions_2016_Value,748
+404,Kenya,2011,482.85,2011,USD_Millions_2016_Value,749
+404,Kenya,2012,201.91,2012,USD_Millions_2016_Value,750
+404,Kenya,2013,15.49,2013,USD_Millions_2016_Value,751
+404,Kenya,2014,762.97,2014,USD_Millions_2016_Value,752
+404,Kenya,2015,515.53,2015,USD_Millions_2016_Value,753
+404,Kenya,2016,689.5,2016,USD_Millions_2016_Value,754
+408,Democratic People's Republic of Korea,2002,0.04,2002,USD_Millions_2016_Value,755
+408,Democratic People's Republic of Korea,2004,0.36,2004,USD_Millions_2016_Value,756
+408,Democratic People's Republic of Korea,2005,0.13,2005,USD_Millions_2016_Value,757
+408,Democratic People's Republic of Korea,2006,0.08,2006,USD_Millions_2016_Value,758
+408,Democratic People's Republic of Korea,2011,0,2011,USD_Millions_2016_Value,759
+408,Democratic People's Republic of Korea,2012,0.02,2012,USD_Millions_2016_Value,760
+408,Democratic People's Republic of Korea,2013,0.03,2013,USD_Millions_2016_Value,761
+408,Democratic People's Republic of Korea,2015,0,2015,USD_Millions_2016_Value,762
+408,Democratic People's Republic of Korea,2016,0.33,2016,USD_Millions_2016_Value,763
+417,Kyrgyzstan,2000,8.15,2000,USD_Millions_2016_Value,764
+417,Kyrgyzstan,2004,0.04,2004,USD_Millions_2016_Value,765
+417,Kyrgyzstan,2008,0.4,2008,USD_Millions_2016_Value,766
+417,Kyrgyzstan,2009,0.17,2009,USD_Millions_2016_Value,767
+417,Kyrgyzstan,2010,1.5,2010,USD_Millions_2016_Value,768
+417,Kyrgyzstan,2011,23.38,2011,USD_Millions_2016_Value,769
+417,Kyrgyzstan,2012,0.58,2012,USD_Millions_2016_Value,770
+417,Kyrgyzstan,2013,13.65,2013,USD_Millions_2016_Value,771
+417,Kyrgyzstan,2015,0.02,2015,USD_Millions_2016_Value,772
+417,Kyrgyzstan,2016,36.67,2016,USD_Millions_2016_Value,773
+418,Lao People's Democratic Republic,2002,10.25,2002,USD_Millions_2016_Value,774
+418,Lao People's Democratic Republic,2003,0.16,2003,USD_Millions_2016_Value,775
+418,Lao People's Democratic Republic,2004,306.91,2004,USD_Millions_2016_Value,776
+418,Lao People's Democratic Republic,2005,51.46,2005,USD_Millions_2016_Value,777
+418,Lao People's Democratic Republic,2006,3.06,2006,USD_Millions_2016_Value,778
+418,Lao People's Democratic Republic,2007,2.04,2007,USD_Millions_2016_Value,779
+418,Lao People's Democratic Republic,2008,1.52,2008,USD_Millions_2016_Value,780
+418,Lao People's Democratic Republic,2009,392.17,2009,USD_Millions_2016_Value,781
+418,Lao People's Democratic Republic,2010,10.38,2010,USD_Millions_2016_Value,782
+418,Lao People's Democratic Republic,2011,7.47,2011,USD_Millions_2016_Value,783
+418,Lao People's Democratic Republic,2012,128.05,2012,USD_Millions_2016_Value,784
+418,Lao People's Democratic Republic,2013,699.01,2013,USD_Millions_2016_Value,785
+418,Lao People's Democratic Republic,2014,188.3,2014,USD_Millions_2016_Value,786
+418,Lao People's Democratic Republic,2015,80.55,2015,USD_Millions_2016_Value,787
+418,Lao People's Democratic Republic,2016,518.31,2016,USD_Millions_2016_Value,788
+419,Latin America and the Caribbean,2000,178.86,2000,USD_Millions_2016_Value,789
+419,Latin America and the Caribbean,2001,179.81,2001,USD_Millions_2016_Value,790
+419,Latin America and the Caribbean,2002,136.56,2002,USD_Millions_2016_Value,791
+419,Latin America and the Caribbean,2003,82.11,2003,USD_Millions_2016_Value,792
+419,Latin America and the Caribbean,2004,50.14,2004,USD_Millions_2016_Value,793
+419,Latin America and the Caribbean,2005,279.31,2005,USD_Millions_2016_Value,794
+419,Latin America and the Caribbean,2006,1134.85,2006,USD_Millions_2016_Value,795
+419,Latin America and the Caribbean,2007,77.44,2007,USD_Millions_2016_Value,796
+419,Latin America and the Caribbean,2008,134.37,2008,USD_Millions_2016_Value,797
+419,Latin America and the Caribbean,2009,398.82,2009,USD_Millions_2016_Value,798
+419,Latin America and the Caribbean,2010,4518.48,2010,USD_Millions_2016_Value,799
+419,Latin America and the Caribbean,2011,1986.26,2011,USD_Millions_2016_Value,800
+419,Latin America and the Caribbean,2012,3205.9,2012,USD_Millions_2016_Value,801
+419,Latin America and the Caribbean,2013,3109.93,2013,USD_Millions_2016_Value,802
+419,Latin America and the Caribbean,2014,7771.99,2014,USD_Millions_2016_Value,803
+419,Latin America and the Caribbean,2015,2478.34,2015,USD_Millions_2016_Value,804
+419,Latin America and the Caribbean,2016,5220.95,2016,USD_Millions_2016_Value,805
+422,Lebanon,2004,0.07,2004,USD_Millions_2016_Value,806
+422,Lebanon,2007,0.79,2007,USD_Millions_2016_Value,807
+422,Lebanon,2009,0.38,2009,USD_Millions_2016_Value,808
+422,Lebanon,2010,1.59,2010,USD_Millions_2016_Value,809
+422,Lebanon,2012,1.36,2012,USD_Millions_2016_Value,810
+422,Lebanon,2013,0.02,2013,USD_Millions_2016_Value,811
+422,Lebanon,2014,2.24,2014,USD_Millions_2016_Value,812
+422,Lebanon,2015,35.13,2015,USD_Millions_2016_Value,813
+422,Lebanon,2016,22.69,2016,USD_Millions_2016_Value,814
+426,Lesotho,2004,0.05,2004,USD_Millions_2016_Value,815
+426,Lesotho,2005,0.08,2005,USD_Millions_2016_Value,816
+426,Lesotho,2006,0.05,2006,USD_Millions_2016_Value,817
+426,Lesotho,2007,0.01,2007,USD_Millions_2016_Value,818
+426,Lesotho,2009,0.81,2009,USD_Millions_2016_Value,819
+426,Lesotho,2010,0.04,2010,USD_Millions_2016_Value,820
+426,Lesotho,2011,2.82,2011,USD_Millions_2016_Value,821
+426,Lesotho,2012,0.21,2012,USD_Millions_2016_Value,822
+426,Lesotho,2013,0.09,2013,USD_Millions_2016_Value,823
+426,Lesotho,2014,8.91,2014,USD_Millions_2016_Value,824
+426,Lesotho,2015,0.04,2015,USD_Millions_2016_Value,825
+426,Lesotho,2016,0,2016,USD_Millions_2016_Value,826
+430,Liberia,2007,0.63,2007,USD_Millions_2016_Value,827
+430,Liberia,2008,0.16,2008,USD_Millions_2016_Value,828
+430,Liberia,2011,97.14,2011,USD_Millions_2016_Value,829
+430,Liberia,2012,0.02,2012,USD_Millions_2016_Value,830
+430,Liberia,2013,80.74,2013,USD_Millions_2016_Value,831
+430,Liberia,2014,0.18,2014,USD_Millions_2016_Value,832
+430,Liberia,2015,239.12,2015,USD_Millions_2016_Value,833
+430,Liberia,2016,9.72,2016,USD_Millions_2016_Value,834
+432,Landlocked developing countries (LLDCs),2000,71.03,2000,USD_Millions_2016_Value,835
+432,Landlocked developing countries (LLDCs),2001,57.25,2001,USD_Millions_2016_Value,836
+432,Landlocked developing countries (LLDCs),2002,183.91,2002,USD_Millions_2016_Value,837
+432,Landlocked developing countries (LLDCs),2003,147.33,2003,USD_Millions_2016_Value,838
+432,Landlocked developing countries (LLDCs),2004,330.24,2004,USD_Millions_2016_Value,839
+432,Landlocked developing countries (LLDCs),2005,495.39,2005,USD_Millions_2016_Value,840
+432,Landlocked developing countries (LLDCs),2006,610.53,2006,USD_Millions_2016_Value,841
+432,Landlocked developing countries (LLDCs),2007,830.28,2007,USD_Millions_2016_Value,842
+432,Landlocked developing countries (LLDCs),2008,182.98,2008,USD_Millions_2016_Value,843
+432,Landlocked developing countries (LLDCs),2009,1228.75,2009,USD_Millions_2016_Value,844
+432,Landlocked developing countries (LLDCs),2010,917,2010,USD_Millions_2016_Value,845
+432,Landlocked developing countries (LLDCs),2011,490.83,2011,USD_Millions_2016_Value,846
+432,Landlocked developing countries (LLDCs),2012,632.55,2012,USD_Millions_2016_Value,847
+432,Landlocked developing countries (LLDCs),2013,4418.29,2013,USD_Millions_2016_Value,848
+432,Landlocked developing countries (LLDCs),2014,1455.74,2014,USD_Millions_2016_Value,849
+432,Landlocked developing countries (LLDCs),2015,2998.33,2015,USD_Millions_2016_Value,850
+432,Landlocked developing countries (LLDCs),2016,2587.84,2016,USD_Millions_2016_Value,851
+450,Madagascar,2002,0.01,2002,USD_Millions_2016_Value,852
+450,Madagascar,2004,8,2004,USD_Millions_2016_Value,853
+450,Madagascar,2005,3.02,2005,USD_Millions_2016_Value,854
+450,Madagascar,2006,6.86,2006,USD_Millions_2016_Value,855
+450,Madagascar,2007,8.2,2007,USD_Millions_2016_Value,856
+450,Madagascar,2008,2.55,2008,USD_Millions_2016_Value,857
+450,Madagascar,2011,7.07,2011,USD_Millions_2016_Value,858
+450,Madagascar,2012,0.05,2012,USD_Millions_2016_Value,859
+450,Madagascar,2013,2.66,2013,USD_Millions_2016_Value,860
+450,Madagascar,2014,13.58,2014,USD_Millions_2016_Value,861
+450,Madagascar,2015,5.07,2015,USD_Millions_2016_Value,862
+450,Madagascar,2016,21.42,2016,USD_Millions_2016_Value,863
+454,Malawi,2000,6.54,2000,USD_Millions_2016_Value,864
+454,Malawi,2003,0.51,2003,USD_Millions_2016_Value,865
+454,Malawi,2004,0.06,2004,USD_Millions_2016_Value,866
+454,Malawi,2005,0.06,2005,USD_Millions_2016_Value,867
+454,Malawi,2006,0.05,2006,USD_Millions_2016_Value,868
+454,Malawi,2007,0.06,2007,USD_Millions_2016_Value,869
+454,Malawi,2009,0.07,2009,USD_Millions_2016_Value,870
+454,Malawi,2010,14.66,2010,USD_Millions_2016_Value,871
+454,Malawi,2011,2.32,2011,USD_Millions_2016_Value,872
+454,Malawi,2012,1.66,2012,USD_Millions_2016_Value,873
+454,Malawi,2013,34.07,2013,USD_Millions_2016_Value,874
+454,Malawi,2014,1.9,2014,USD_Millions_2016_Value,875
+454,Malawi,2015,62.94,2015,USD_Millions_2016_Value,876
+454,Malawi,2016,0.33,2016,USD_Millions_2016_Value,877
+458,Malaysia,2000,141.04,2000,USD_Millions_2016_Value,878
+458,Malaysia,2002,0.02,2002,USD_Millions_2016_Value,879
+458,Malaysia,2004,0.26,2004,USD_Millions_2016_Value,880
+458,Malaysia,2006,0.01,2006,USD_Millions_2016_Value,881
+458,Malaysia,2007,0.01,2007,USD_Millions_2016_Value,882
+458,Malaysia,2009,0.03,2009,USD_Millions_2016_Value,883
+458,Malaysia,2010,0.14,2010,USD_Millions_2016_Value,884
+458,Malaysia,2011,0.06,2011,USD_Millions_2016_Value,885
+458,Malaysia,2012,3.85,2012,USD_Millions_2016_Value,886
+458,Malaysia,2013,0.07,2013,USD_Millions_2016_Value,887
+458,Malaysia,2014,0.16,2014,USD_Millions_2016_Value,888
+458,Malaysia,2015,0.17,2015,USD_Millions_2016_Value,889
+458,Malaysia,2016,1.29,2016,USD_Millions_2016_Value,890
+462,Maldives,2000,4.61,2000,USD_Millions_2016_Value,891
+462,Maldives,2008,0.11,2008,USD_Millions_2016_Value,892
+462,Maldives,2009,0.45,2009,USD_Millions_2016_Value,893
+462,Maldives,2010,9.7,2010,USD_Millions_2016_Value,894
+462,Maldives,2011,0.01,2011,USD_Millions_2016_Value,895
+462,Maldives,2012,0.03,2012,USD_Millions_2016_Value,896
+462,Maldives,2014,40.97,2014,USD_Millions_2016_Value,897
+462,Maldives,2015,5.97,2015,USD_Millions_2016_Value,898
+462,Maldives,2016,0.01,2016,USD_Millions_2016_Value,899
+466,Mali,2000,3.36,2000,USD_Millions_2016_Value,900
+466,Mali,2001,9.63,2001,USD_Millions_2016_Value,901
+466,Mali,2002,0.01,2002,USD_Millions_2016_Value,902
+466,Mali,2003,0.02,2003,USD_Millions_2016_Value,903
+466,Mali,2004,0.06,2004,USD_Millions_2016_Value,904
+466,Mali,2005,5.57,2005,USD_Millions_2016_Value,905
+466,Mali,2006,30.05,2006,USD_Millions_2016_Value,906
+466,Mali,2007,0.09,2007,USD_Millions_2016_Value,907
+466,Mali,2008,0.05,2008,USD_Millions_2016_Value,908
+466,Mali,2009,36.84,2009,USD_Millions_2016_Value,909
+466,Mali,2010,0.02,2010,USD_Millions_2016_Value,910
+466,Mali,2011,0.22,2011,USD_Millions_2016_Value,911
+466,Mali,2012,0.17,2012,USD_Millions_2016_Value,912
+466,Mali,2013,439.92,2013,USD_Millions_2016_Value,913
+466,Mali,2014,94.65,2014,USD_Millions_2016_Value,914
+466,Mali,2015,9.08,2015,USD_Millions_2016_Value,915
+466,Mali,2016,58.79,2016,USD_Millions_2016_Value,916
+478,Mauritania,2001,0.19,2001,USD_Millions_2016_Value,917
+478,Mauritania,2006,23.35,2006,USD_Millions_2016_Value,918
+478,Mauritania,2007,0.07,2007,USD_Millions_2016_Value,919
+478,Mauritania,2011,0.01,2011,USD_Millions_2016_Value,920
+478,Mauritania,2012,64.88,2012,USD_Millions_2016_Value,921
+478,Mauritania,2013,66.01,2013,USD_Millions_2016_Value,922
+478,Mauritania,2014,12.48,2014,USD_Millions_2016_Value,923
+478,Mauritania,2015,0.12,2015,USD_Millions_2016_Value,924
+478,Mauritania,2016,171.03,2016,USD_Millions_2016_Value,925
+480,Mauritius,2010,1.96,2010,USD_Millions_2016_Value,926
+480,Mauritius,2011,116.36,2011,USD_Millions_2016_Value,927
+480,Mauritius,2013,56.43,2013,USD_Millions_2016_Value,928
+480,Mauritius,2014,50.5,2014,USD_Millions_2016_Value,929
+480,Mauritius,2015,8.93,2015,USD_Millions_2016_Value,930
+480,Mauritius,2016,28.21,2016,USD_Millions_2016_Value,931
+484,Mexico,2000,2.32,2000,USD_Millions_2016_Value,932
+484,Mexico,2001,3.22,2001,USD_Millions_2016_Value,933
+484,Mexico,2002,13.64,2002,USD_Millions_2016_Value,934
+484,Mexico,2003,0.25,2003,USD_Millions_2016_Value,935
+484,Mexico,2004,0.5,2004,USD_Millions_2016_Value,936
+484,Mexico,2005,32.3,2005,USD_Millions_2016_Value,937
+484,Mexico,2006,31.45,2006,USD_Millions_2016_Value,938
+484,Mexico,2007,0.15,2007,USD_Millions_2016_Value,939
+484,Mexico,2008,6.41,2008,USD_Millions_2016_Value,940
+484,Mexico,2009,4.15,2009,USD_Millions_2016_Value,941
+484,Mexico,2010,45.26,2010,USD_Millions_2016_Value,942
+484,Mexico,2011,0.96,2011,USD_Millions_2016_Value,943
+484,Mexico,2012,351.3,2012,USD_Millions_2016_Value,944
+484,Mexico,2013,41.21,2013,USD_Millions_2016_Value,945
+484,Mexico,2014,366.64,2014,USD_Millions_2016_Value,946
+484,Mexico,2015,195.49,2015,USD_Millions_2016_Value,947
+484,Mexico,2016,430.59,2016,USD_Millions_2016_Value,948
+496,Mongolia,2000,4.86,2000,USD_Millions_2016_Value,949
+496,Mongolia,2001,1.59,2001,USD_Millions_2016_Value,950
+496,Mongolia,2002,1.32,2002,USD_Millions_2016_Value,951
+496,Mongolia,2003,5.34,2003,USD_Millions_2016_Value,952
+496,Mongolia,2005,2.62,2005,USD_Millions_2016_Value,953
+496,Mongolia,2006,5.83,2006,USD_Millions_2016_Value,954
+496,Mongolia,2007,12.06,2007,USD_Millions_2016_Value,955
+496,Mongolia,2008,4.3,2008,USD_Millions_2016_Value,956
+496,Mongolia,2009,11.82,2009,USD_Millions_2016_Value,957
+496,Mongolia,2010,11.47,2010,USD_Millions_2016_Value,958
+496,Mongolia,2012,27.16,2012,USD_Millions_2016_Value,959
+496,Mongolia,2013,0.14,2013,USD_Millions_2016_Value,960
+496,Mongolia,2014,0.01,2014,USD_Millions_2016_Value,961
+496,Mongolia,2015,0.89,2015,USD_Millions_2016_Value,962
+496,Mongolia,2016,193.37,2016,USD_Millions_2016_Value,963
+500,Montserrat,2008,1.27,2008,USD_Millions_2016_Value,964
+500,Montserrat,2011,0.09,2011,USD_Millions_2016_Value,965
+500,Montserrat,2012,6.67,2012,USD_Millions_2016_Value,966
+500,Montserrat,2013,0.56,2013,USD_Millions_2016_Value,967
+500,Montserrat,2014,0.95,2014,USD_Millions_2016_Value,968
+500,Montserrat,2015,1.99,2015,USD_Millions_2016_Value,969
+500,Montserrat,2016,7.92,2016,USD_Millions_2016_Value,970
+504,Morocco,2000,0.25,2000,USD_Millions_2016_Value,971
+504,Morocco,2001,1.42,2001,USD_Millions_2016_Value,972
+504,Morocco,2002,12.8,2002,USD_Millions_2016_Value,973
+504,Morocco,2003,0.52,2003,USD_Millions_2016_Value,974
+504,Morocco,2004,144.17,2004,USD_Millions_2016_Value,975
+504,Morocco,2005,178.48,2005,USD_Millions_2016_Value,976
+504,Morocco,2006,65.93,2006,USD_Millions_2016_Value,977
+504,Morocco,2007,171.67,2007,USD_Millions_2016_Value,978
+504,Morocco,2008,216.54,2008,USD_Millions_2016_Value,979
+504,Morocco,2009,115.28,2009,USD_Millions_2016_Value,980
+504,Morocco,2010,8.32,2010,USD_Millions_2016_Value,981
+504,Morocco,2011,208.68,2011,USD_Millions_2016_Value,982
+504,Morocco,2012,987.16,2012,USD_Millions_2016_Value,983
+504,Morocco,2013,5.67,2013,USD_Millions_2016_Value,984
+504,Morocco,2014,1360.84,2014,USD_Millions_2016_Value,985
+504,Morocco,2015,223.51,2015,USD_Millions_2016_Value,986
+504,Morocco,2016,444.28,2016,USD_Millions_2016_Value,987
+508,Mozambique,2000,0.04,2000,USD_Millions_2016_Value,988
+508,Mozambique,2001,0.39,2001,USD_Millions_2016_Value,989
+508,Mozambique,2002,12.62,2002,USD_Millions_2016_Value,990
+508,Mozambique,2003,3.86,2003,USD_Millions_2016_Value,991
+508,Mozambique,2004,1.31,2004,USD_Millions_2016_Value,992
+508,Mozambique,2005,0.84,2005,USD_Millions_2016_Value,993
+508,Mozambique,2006,0.05,2006,USD_Millions_2016_Value,994
+508,Mozambique,2007,4.59,2007,USD_Millions_2016_Value,995
+508,Mozambique,2008,5.96,2008,USD_Millions_2016_Value,996
+508,Mozambique,2009,1.93,2009,USD_Millions_2016_Value,997
+508,Mozambique,2010,89.54,2010,USD_Millions_2016_Value,998
+508,Mozambique,2011,15.08,2011,USD_Millions_2016_Value,999
+508,Mozambique,2012,70.81,2012,USD_Millions_2016_Value,1000
+508,Mozambique,2013,36.41,2013,USD_Millions_2016_Value,1001
+508,Mozambique,2014,8.95,2014,USD_Millions_2016_Value,1002
+508,Mozambique,2015,60.59,2015,USD_Millions_2016_Value,1003
+508,Mozambique,2016,30.67,2016,USD_Millions_2016_Value,1004
+516,Namibia,2000,0.1,2000,USD_Millions_2016_Value,1005
+516,Namibia,2001,0.21,2001,USD_Millions_2016_Value,1006
+516,Namibia,2002,0.03,2002,USD_Millions_2016_Value,1007
+516,Namibia,2003,0.03,2003,USD_Millions_2016_Value,1008
+516,Namibia,2004,0.09,2004,USD_Millions_2016_Value,1009
+516,Namibia,2005,0.38,2005,USD_Millions_2016_Value,1010
+516,Namibia,2006,0.21,2006,USD_Millions_2016_Value,1011
+516,Namibia,2007,0.01,2007,USD_Millions_2016_Value,1012
+516,Namibia,2008,43.78,2008,USD_Millions_2016_Value,1013
+516,Namibia,2010,44.37,2010,USD_Millions_2016_Value,1014
+516,Namibia,2011,0.05,2011,USD_Millions_2016_Value,1015
+516,Namibia,2012,0.54,2012,USD_Millions_2016_Value,1016
+516,Namibia,2014,0.07,2014,USD_Millions_2016_Value,1017
+516,Namibia,2016,11.16,2016,USD_Millions_2016_Value,1018
+520,Nauru,2005,1.95,2005,USD_Millions_2016_Value,1019
+520,Nauru,2007,0.33,2007,USD_Millions_2016_Value,1020
+520,Nauru,2014,0.01,2014,USD_Millions_2016_Value,1021
+520,Nauru,2015,8.41,2015,USD_Millions_2016_Value,1022
+520,Nauru,2016,2.8,2016,USD_Millions_2016_Value,1023
+524,Nepal,2000,11.05,2000,USD_Millions_2016_Value,1024
+524,Nepal,2001,4.88,2001,USD_Millions_2016_Value,1025
+524,Nepal,2002,39.41,2002,USD_Millions_2016_Value,1026
+524,Nepal,2003,59.9,2003,USD_Millions_2016_Value,1027
+524,Nepal,2004,5,2004,USD_Millions_2016_Value,1028
+524,Nepal,2005,37.34,2005,USD_Millions_2016_Value,1029
+524,Nepal,2006,17.73,2006,USD_Millions_2016_Value,1030
+524,Nepal,2007,58.33,2007,USD_Millions_2016_Value,1031
+524,Nepal,2008,51.82,2008,USD_Millions_2016_Value,1032
+524,Nepal,2009,49.08,2009,USD_Millions_2016_Value,1033
+524,Nepal,2010,22.33,2010,USD_Millions_2016_Value,1034
+524,Nepal,2011,212.46,2011,USD_Millions_2016_Value,1035
+524,Nepal,2012,28.02,2012,USD_Millions_2016_Value,1036
+524,Nepal,2013,313.05,2013,USD_Millions_2016_Value,1037
+524,Nepal,2014,368.5,2014,USD_Millions_2016_Value,1038
+524,Nepal,2015,14.61,2015,USD_Millions_2016_Value,1039
+524,Nepal,2016,27.78,2016,USD_Millions_2016_Value,1040
+543,Oceania (exc. Australia and New Zealand),2002,0.05,2002,USD_Millions_2016_Value,1041
+543,Oceania (exc. Australia and New Zealand),2003,0.05,2003,USD_Millions_2016_Value,1042
+543,Oceania (exc. Australia and New Zealand),2004,0.36,2004,USD_Millions_2016_Value,1043
+543,Oceania (exc. Australia and New Zealand),2005,15.57,2005,USD_Millions_2016_Value,1044
+543,Oceania (exc. Australia and New Zealand),2006,0.43,2006,USD_Millions_2016_Value,1045
+543,Oceania (exc. Australia and New Zealand),2007,14.35,2007,USD_Millions_2016_Value,1046
+543,Oceania (exc. Australia and New Zealand),2008,0.2,2008,USD_Millions_2016_Value,1047
+543,Oceania (exc. Australia and New Zealand),2009,131.06,2009,USD_Millions_2016_Value,1048
+543,Oceania (exc. Australia and New Zealand),2010,9,2010,USD_Millions_2016_Value,1049
+543,Oceania (exc. Australia and New Zealand),2011,56.79,2011,USD_Millions_2016_Value,1050
+543,Oceania (exc. Australia and New Zealand),2012,20.22,2012,USD_Millions_2016_Value,1051
+543,Oceania (exc. Australia and New Zealand),2013,62.24,2013,USD_Millions_2016_Value,1052
+543,Oceania (exc. Australia and New Zealand),2014,100.68,2014,USD_Millions_2016_Value,1053
+543,Oceania (exc. Australia and New Zealand),2015,85.86,2015,USD_Millions_2016_Value,1054
+543,Oceania (exc. Australia and New Zealand),2016,48.55,2016,USD_Millions_2016_Value,1055
+548,Vanuatu,2007,12.71,2007,USD_Millions_2016_Value,1056
+548,Vanuatu,2008,0.03,2008,USD_Millions_2016_Value,1057
+548,Vanuatu,2010,0.85,2010,USD_Millions_2016_Value,1058
+548,Vanuatu,2012,2.89,2012,USD_Millions_2016_Value,1059
+548,Vanuatu,2013,4.57,2013,USD_Millions_2016_Value,1060
+548,Vanuatu,2014,8.33,2014,USD_Millions_2016_Value,1061
+548,Vanuatu,2015,6.99,2015,USD_Millions_2016_Value,1062
+558,Nicaragua,2000,0.02,2000,USD_Millions_2016_Value,1063
+558,Nicaragua,2001,0.02,2001,USD_Millions_2016_Value,1064
+558,Nicaragua,2002,0.65,2002,USD_Millions_2016_Value,1065
+558,Nicaragua,2003,14.84,2003,USD_Millions_2016_Value,1066
+558,Nicaragua,2004,0.17,2004,USD_Millions_2016_Value,1067
+558,Nicaragua,2005,0.04,2005,USD_Millions_2016_Value,1068
+558,Nicaragua,2006,0.05,2006,USD_Millions_2016_Value,1069
+558,Nicaragua,2007,0.09,2007,USD_Millions_2016_Value,1070
+558,Nicaragua,2008,1.88,2008,USD_Millions_2016_Value,1071
+558,Nicaragua,2009,8.56,2009,USD_Millions_2016_Value,1072
+558,Nicaragua,2010,127.2,2010,USD_Millions_2016_Value,1073
+558,Nicaragua,2011,38.37,2011,USD_Millions_2016_Value,1074
+558,Nicaragua,2012,67.98,2012,USD_Millions_2016_Value,1075
+558,Nicaragua,2013,123.33,2013,USD_Millions_2016_Value,1076
+558,Nicaragua,2014,92.98,2014,USD_Millions_2016_Value,1077
+558,Nicaragua,2015,64.86,2015,USD_Millions_2016_Value,1078
+558,Nicaragua,2016,135.86,2016,USD_Millions_2016_Value,1079
+562,Niger,2000,0.18,2000,USD_Millions_2016_Value,1080
+562,Niger,2001,3.31,2001,USD_Millions_2016_Value,1081
+562,Niger,2002,1.32,2002,USD_Millions_2016_Value,1082
+562,Niger,2005,0.04,2005,USD_Millions_2016_Value,1083
+562,Niger,2006,0.09,2006,USD_Millions_2016_Value,1084
+562,Niger,2008,0.01,2008,USD_Millions_2016_Value,1085
+562,Niger,2012,126.89,2012,USD_Millions_2016_Value,1086
+562,Niger,2014,39.42,2014,USD_Millions_2016_Value,1087
+562,Niger,2016,1.13,2016,USD_Millions_2016_Value,1088
+566,Nigeria,2002,0,2002,USD_Millions_2016_Value,1089
+566,Nigeria,2004,0.18,2004,USD_Millions_2016_Value,1090
+566,Nigeria,2005,17.78,2005,USD_Millions_2016_Value,1091
+566,Nigeria,2006,1.23,2006,USD_Millions_2016_Value,1092
+566,Nigeria,2007,0.55,2007,USD_Millions_2016_Value,1093
+566,Nigeria,2010,0.55,2010,USD_Millions_2016_Value,1094
+566,Nigeria,2011,18.95,2011,USD_Millions_2016_Value,1095
+566,Nigeria,2012,20.24,2012,USD_Millions_2016_Value,1096
+566,Nigeria,2013,930.7,2013,USD_Millions_2016_Value,1097
+566,Nigeria,2014,23.82,2014,USD_Millions_2016_Value,1098
+566,Nigeria,2015,45.22,2015,USD_Millions_2016_Value,1099
+566,Nigeria,2016,58.64,2016,USD_Millions_2016_Value,1100
+570,Niue,2005,2.3,2005,USD_Millions_2016_Value,1101
+570,Niue,2009,3.03,2009,USD_Millions_2016_Value,1102
+570,Niue,2013,0.34,2013,USD_Millions_2016_Value,1103
+570,Niue,2015,0.01,2015,USD_Millions_2016_Value,1104
+570,Niue,2016,0.24,2016,USD_Millions_2016_Value,1105
+583,Micronesia (Federated States of),2005,5.21,2005,USD_Millions_2016_Value,1106
+583,Micronesia (Federated States of),2007,0,2007,USD_Millions_2016_Value,1107
+583,Micronesia (Federated States of),2009,13.72,2009,USD_Millions_2016_Value,1108
+583,Micronesia (Federated States of),2012,0.02,2012,USD_Millions_2016_Value,1109
+583,Micronesia (Federated States of),2013,5.52,2013,USD_Millions_2016_Value,1110
+583,Micronesia (Federated States of),2014,0.78,2014,USD_Millions_2016_Value,1111
+583,Micronesia (Federated States of),2015,3.91,2015,USD_Millions_2016_Value,1112
+583,Micronesia (Federated States of),2016,0.01,2016,USD_Millions_2016_Value,1113
+584,Marshall Islands,2005,2.94,2005,USD_Millions_2016_Value,1114
+584,Marshall Islands,2007,0.86,2007,USD_Millions_2016_Value,1115
+584,Marshall Islands,2009,10.19,2009,USD_Millions_2016_Value,1116
+584,Marshall Islands,2011,0.16,2011,USD_Millions_2016_Value,1117
+584,Marshall Islands,2012,0.02,2012,USD_Millions_2016_Value,1118
+584,Marshall Islands,2013,1.21,2013,USD_Millions_2016_Value,1119
+584,Marshall Islands,2014,0.01,2014,USD_Millions_2016_Value,1120
+584,Marshall Islands,2015,3.98,2015,USD_Millions_2016_Value,1121
+584,Marshall Islands,2016,0.26,2016,USD_Millions_2016_Value,1122
+585,Palau,2005,2.17,2005,USD_Millions_2016_Value,1123
+585,Palau,2007,0.37,2007,USD_Millions_2016_Value,1124
+585,Palau,2009,7.32,2009,USD_Millions_2016_Value,1125
+585,Palau,2011,0,2011,USD_Millions_2016_Value,1126
+585,Palau,2013,0.01,2013,USD_Millions_2016_Value,1127
+585,Palau,2015,4.99,2015,USD_Millions_2016_Value,1128
+585,Palau,2016,0.01,2016,USD_Millions_2016_Value,1129
+586,Pakistan,2000,0.04,2000,USD_Millions_2016_Value,1130
+586,Pakistan,2001,343.69,2001,USD_Millions_2016_Value,1131
+586,Pakistan,2002,0.17,2002,USD_Millions_2016_Value,1132
+586,Pakistan,2003,2.61,2003,USD_Millions_2016_Value,1133
+586,Pakistan,2004,0.04,2004,USD_Millions_2016_Value,1134
+586,Pakistan,2005,3.81,2005,USD_Millions_2016_Value,1135
+586,Pakistan,2006,6.4,2006,USD_Millions_2016_Value,1136
+586,Pakistan,2007,117.52,2007,USD_Millions_2016_Value,1137
+586,Pakistan,2008,129.93,2008,USD_Millions_2016_Value,1138
+586,Pakistan,2009,79.97,2009,USD_Millions_2016_Value,1139
+586,Pakistan,2010,253.85,2010,USD_Millions_2016_Value,1140
+586,Pakistan,2011,151.84,2011,USD_Millions_2016_Value,1141
+586,Pakistan,2012,1337.66,2012,USD_Millions_2016_Value,1142
+586,Pakistan,2013,231.06,2013,USD_Millions_2016_Value,1143
+586,Pakistan,2014,528.15,2014,USD_Millions_2016_Value,1144
+586,Pakistan,2015,3865.05,2015,USD_Millions_2016_Value,1145
+586,Pakistan,2016,866.98,2016,USD_Millions_2016_Value,1146
+591,Panama,2001,0.22,2001,USD_Millions_2016_Value,1147
+591,Panama,2006,0,2006,USD_Millions_2016_Value,1148
+591,Panama,2008,0.01,2008,USD_Millions_2016_Value,1149
+591,Panama,2009,0.01,2009,USD_Millions_2016_Value,1150
+591,Panama,2010,8.71,2010,USD_Millions_2016_Value,1151
+591,Panama,2011,63.34,2011,USD_Millions_2016_Value,1152
+591,Panama,2013,1.74,2013,USD_Millions_2016_Value,1153
+591,Panama,2014,176.54,2014,USD_Millions_2016_Value,1154
+591,Panama,2015,45.71,2015,USD_Millions_2016_Value,1155
+591,Panama,2016,351.84,2016,USD_Millions_2016_Value,1156
+598,Papua New Guinea,2004,0.01,2004,USD_Millions_2016_Value,1157
+598,Papua New Guinea,2007,0.03,2007,USD_Millions_2016_Value,1158
+598,Papua New Guinea,2008,0.03,2008,USD_Millions_2016_Value,1159
+598,Papua New Guinea,2011,36.2,2011,USD_Millions_2016_Value,1160
+598,Papua New Guinea,2013,6.18,2013,USD_Millions_2016_Value,1161
+598,Papua New Guinea,2014,0,2014,USD_Millions_2016_Value,1162
+598,Papua New Guinea,2015,8.24,2015,USD_Millions_2016_Value,1163
+598,Papua New Guinea,2016,31.06,2016,USD_Millions_2016_Value,1164
+600,Paraguay,2001,0.01,2001,USD_Millions_2016_Value,1165
+600,Paraguay,2006,190.94,2006,USD_Millions_2016_Value,1166
+600,Paraguay,2009,0.07,2009,USD_Millions_2016_Value,1167
+600,Paraguay,2010,0.09,2010,USD_Millions_2016_Value,1168
+600,Paraguay,2011,0.03,2011,USD_Millions_2016_Value,1169
+600,Paraguay,2013,0.08,2013,USD_Millions_2016_Value,1170
+600,Paraguay,2016,0.35,2016,USD_Millions_2016_Value,1171
+604,Peru,2000,1.02,2000,USD_Millions_2016_Value,1172
+604,Peru,2001,0.18,2001,USD_Millions_2016_Value,1173
+604,Peru,2002,87.02,2002,USD_Millions_2016_Value,1174
+604,Peru,2003,0.27,2003,USD_Millions_2016_Value,1175
+604,Peru,2004,0.1,2004,USD_Millions_2016_Value,1176
+604,Peru,2005,0.28,2005,USD_Millions_2016_Value,1177
+604,Peru,2006,7.25,2006,USD_Millions_2016_Value,1178
+604,Peru,2007,0.73,2007,USD_Millions_2016_Value,1179
+604,Peru,2008,0.96,2008,USD_Millions_2016_Value,1180
+604,Peru,2009,1.43,2009,USD_Millions_2016_Value,1181
+604,Peru,2010,7.62,2010,USD_Millions_2016_Value,1182
+604,Peru,2011,212.18,2011,USD_Millions_2016_Value,1183
+604,Peru,2012,225.79,2012,USD_Millions_2016_Value,1184
+604,Peru,2013,277.08,2013,USD_Millions_2016_Value,1185
+604,Peru,2014,187.29,2014,USD_Millions_2016_Value,1186
+604,Peru,2015,80.26,2015,USD_Millions_2016_Value,1187
+604,Peru,2016,97.15,2016,USD_Millions_2016_Value,1188
+608,Philippines,2000,11.33,2000,USD_Millions_2016_Value,1189
+608,Philippines,2001,0.03,2001,USD_Millions_2016_Value,1190
+608,Philippines,2002,50.34,2002,USD_Millions_2016_Value,1191
+608,Philippines,2003,27.96,2003,USD_Millions_2016_Value,1192
+608,Philippines,2004,5.65,2004,USD_Millions_2016_Value,1193
+608,Philippines,2005,11.42,2005,USD_Millions_2016_Value,1194
+608,Philippines,2006,26.3,2006,USD_Millions_2016_Value,1195
+608,Philippines,2007,57.15,2007,USD_Millions_2016_Value,1196
+608,Philippines,2009,3.76,2009,USD_Millions_2016_Value,1197
+608,Philippines,2010,7.32,2010,USD_Millions_2016_Value,1198
+608,Philippines,2011,0.76,2011,USD_Millions_2016_Value,1199
+608,Philippines,2012,1.3,2012,USD_Millions_2016_Value,1200
+608,Philippines,2013,51.66,2013,USD_Millions_2016_Value,1201
+608,Philippines,2014,8.84,2014,USD_Millions_2016_Value,1202
+608,Philippines,2015,21.89,2015,USD_Millions_2016_Value,1203
+608,Philippines,2016,94.67,2016,USD_Millions_2016_Value,1204
+624,Guinea-Bissau,2001,3.16,2001,USD_Millions_2016_Value,1205
+624,Guinea-Bissau,2002,4.39,2002,USD_Millions_2016_Value,1206
+624,Guinea-Bissau,2004,0.16,2004,USD_Millions_2016_Value,1207
+624,Guinea-Bissau,2009,0.03,2009,USD_Millions_2016_Value,1208
+624,Guinea-Bissau,2010,0.02,2010,USD_Millions_2016_Value,1209
+624,Guinea-Bissau,2011,0.21,2011,USD_Millions_2016_Value,1210
+624,Guinea-Bissau,2012,0.1,2012,USD_Millions_2016_Value,1211
+624,Guinea-Bissau,2013,0.18,2013,USD_Millions_2016_Value,1212
+624,Guinea-Bissau,2014,0.19,2014,USD_Millions_2016_Value,1213
+624,Guinea-Bissau,2016,0.39,2016,USD_Millions_2016_Value,1214
+626,Timor-Leste,2003,3.9,2003,USD_Millions_2016_Value,1215
+626,Timor-Leste,2005,1.29,2005,USD_Millions_2016_Value,1216
+626,Timor-Leste,2006,1.38,2006,USD_Millions_2016_Value,1217
+626,Timor-Leste,2007,1.12,2007,USD_Millions_2016_Value,1218
+626,Timor-Leste,2008,0.07,2008,USD_Millions_2016_Value,1219
+626,Timor-Leste,2009,0.15,2009,USD_Millions_2016_Value,1220
+626,Timor-Leste,2010,5.05,2010,USD_Millions_2016_Value,1221
+626,Timor-Leste,2011,0.23,2011,USD_Millions_2016_Value,1222
+626,Timor-Leste,2012,1.91,2012,USD_Millions_2016_Value,1223
+626,Timor-Leste,2013,0.46,2013,USD_Millions_2016_Value,1224
+626,Timor-Leste,2014,0.01,2014,USD_Millions_2016_Value,1225
+626,Timor-Leste,2015,0,2015,USD_Millions_2016_Value,1226
+626,Timor-Leste,2016,1.01,2016,USD_Millions_2016_Value,1227
+638,R��union,2011,8.06,2011,USD_Millions_2016_Value,1228
+638,R��union,2012,14.78,2012,USD_Millions_2016_Value,1229
+638,R��union,2013,10.16,2013,USD_Millions_2016_Value,1230
+638,R��union,2014,10.53,2014,USD_Millions_2016_Value,1231
+638,R��union,2015,1.5,2015,USD_Millions_2016_Value,1232
+646,Rwanda,2000,0.14,2000,USD_Millions_2016_Value,1233
+646,Rwanda,2005,7.8,2005,USD_Millions_2016_Value,1234
+646,Rwanda,2006,0.51,2006,USD_Millions_2016_Value,1235
+646,Rwanda,2007,19.26,2007,USD_Millions_2016_Value,1236
+646,Rwanda,2008,24.66,2008,USD_Millions_2016_Value,1237
+646,Rwanda,2009,21.82,2009,USD_Millions_2016_Value,1238
+646,Rwanda,2010,1.98,2010,USD_Millions_2016_Value,1239
+646,Rwanda,2011,6.03,2011,USD_Millions_2016_Value,1240
+646,Rwanda,2012,0.69,2012,USD_Millions_2016_Value,1241
+646,Rwanda,2013,93,2013,USD_Millions_2016_Value,1242
+646,Rwanda,2014,46.19,2014,USD_Millions_2016_Value,1243
+646,Rwanda,2016,40.12,2016,USD_Millions_2016_Value,1244
+654,Saint Helena,2003,0.16,2003,USD_Millions_2016_Value,1245
+654,Saint Helena,2008,0.12,2008,USD_Millions_2016_Value,1246
+654,Saint Helena,2015,1.41,2015,USD_Millions_2016_Value,1247
+659,Saint Kitts and Nevis,2008,0.34,2008,USD_Millions_2016_Value,1248
+659,Saint Kitts and Nevis,2011,17.35,2011,USD_Millions_2016_Value,1249
+660,Anguilla,2010,0.05,2010,USD_Millions_2016_Value,1250
+662,Saint Lucia,2014,0.9,2014,USD_Millions_2016_Value,1251
+662,Saint Lucia,2015,0.01,2015,USD_Millions_2016_Value,1252
+670,Saint Vincent and the Grenadines,2008,0.34,2008,USD_Millions_2016_Value,1253
+670,Saint Vincent and the Grenadines,2013,0.01,2013,USD_Millions_2016_Value,1254
+670,Saint Vincent and the Grenadines,2014,0.02,2014,USD_Millions_2016_Value,1255
+670,Saint Vincent and the Grenadines,2016,30.41,2016,USD_Millions_2016_Value,1256
+678,Sao Tome and Principe,2001,1.03,2001,USD_Millions_2016_Value,1257
+678,Sao Tome and Principe,2002,1.14,2002,USD_Millions_2016_Value,1258
+678,Sao Tome and Principe,2003,0,2003,USD_Millions_2016_Value,1259
+678,Sao Tome and Principe,2004,0.06,2004,USD_Millions_2016_Value,1260
+678,Sao Tome and Principe,2005,0.18,2005,USD_Millions_2016_Value,1261
+678,Sao Tome and Principe,2010,0.11,2010,USD_Millions_2016_Value,1262
+678,Sao Tome and Principe,2011,0.24,2011,USD_Millions_2016_Value,1263
+678,Sao Tome and Principe,2012,0.02,2012,USD_Millions_2016_Value,1264
+678,Sao Tome and Principe,2013,4.87,2013,USD_Millions_2016_Value,1265
+678,Sao Tome and Principe,2014,0.11,2014,USD_Millions_2016_Value,1266
+678,Sao Tome and Principe,2015,0.33,2015,USD_Millions_2016_Value,1267
+678,Sao Tome and Principe,2016,0.29,2016,USD_Millions_2016_Value,1268
+686,Senegal,2000,0.15,2000,USD_Millions_2016_Value,1269
+686,Senegal,2001,10.85,2001,USD_Millions_2016_Value,1270
+686,Senegal,2002,1.91,2002,USD_Millions_2016_Value,1271
+686,Senegal,2003,32.23,2003,USD_Millions_2016_Value,1272
+686,Senegal,2004,12.87,2004,USD_Millions_2016_Value,1273
+686,Senegal,2005,6.32,2005,USD_Millions_2016_Value,1274
+686,Senegal,2006,31.87,2006,USD_Millions_2016_Value,1275
+686,Senegal,2007,0.68,2007,USD_Millions_2016_Value,1276
+686,Senegal,2009,36.5,2009,USD_Millions_2016_Value,1277
+686,Senegal,2010,1.03,2010,USD_Millions_2016_Value,1278
+686,Senegal,2011,1.38,2011,USD_Millions_2016_Value,1279
+686,Senegal,2012,8.19,2012,USD_Millions_2016_Value,1280
+686,Senegal,2013,17.31,2013,USD_Millions_2016_Value,1281
+686,Senegal,2014,0.12,2014,USD_Millions_2016_Value,1282
+686,Senegal,2015,30.32,2015,USD_Millions_2016_Value,1283
+686,Senegal,2016,320.89,2016,USD_Millions_2016_Value,1284
+690,Seychelles,2011,0.01,2011,USD_Millions_2016_Value,1285
+690,Seychelles,2014,0.08,2014,USD_Millions_2016_Value,1286
+690,Seychelles,2015,0.04,2015,USD_Millions_2016_Value,1287
+690,Seychelles,2016,0.67,2016,USD_Millions_2016_Value,1288
+694,Sierra Leone,2004,23.71,2004,USD_Millions_2016_Value,1289
+694,Sierra Leone,2005,54.1,2005,USD_Millions_2016_Value,1290
+694,Sierra Leone,2006,0.01,2006,USD_Millions_2016_Value,1291
+694,Sierra Leone,2007,14.92,2007,USD_Millions_2016_Value,1292
+694,Sierra Leone,2008,14.94,2008,USD_Millions_2016_Value,1293
+694,Sierra Leone,2009,0.05,2009,USD_Millions_2016_Value,1294
+694,Sierra Leone,2010,8.92,2010,USD_Millions_2016_Value,1295
+694,Sierra Leone,2014,8.08,2014,USD_Millions_2016_Value,1296
+694,Sierra Leone,2016,28.07,2016,USD_Millions_2016_Value,1297
+704,Viet Nam,2000,0.01,2000,USD_Millions_2016_Value,1298
+704,Viet Nam,2001,99.83,2001,USD_Millions_2016_Value,1299
+704,Viet Nam,2002,38.48,2002,USD_Millions_2016_Value,1300
+704,Viet Nam,2003,0.17,2003,USD_Millions_2016_Value,1301
+704,Viet Nam,2004,220.82,2004,USD_Millions_2016_Value,1302
+704,Viet Nam,2005,4.91,2005,USD_Millions_2016_Value,1303
+704,Viet Nam,2006,1.38,2006,USD_Millions_2016_Value,1304
+704,Viet Nam,2007,0.05,2007,USD_Millions_2016_Value,1305
+704,Viet Nam,2008,184.4,2008,USD_Millions_2016_Value,1306
+704,Viet Nam,2009,426.8,2009,USD_Millions_2016_Value,1307
+704,Viet Nam,2010,89.82,2010,USD_Millions_2016_Value,1308
+704,Viet Nam,2011,260.15,2011,USD_Millions_2016_Value,1309
+704,Viet Nam,2012,1.37,2012,USD_Millions_2016_Value,1310
+704,Viet Nam,2013,86.49,2013,USD_Millions_2016_Value,1311
+704,Viet Nam,2014,233.82,2014,USD_Millions_2016_Value,1312
+704,Viet Nam,2015,6.07,2015,USD_Millions_2016_Value,1313
+704,Viet Nam,2016,289.59,2016,USD_Millions_2016_Value,1314
+706,Somalia,2013,3.23,2013,USD_Millions_2016_Value,1315
+706,Somalia,2015,0.29,2015,USD_Millions_2016_Value,1316
+706,Somalia,2016,0.78,2016,USD_Millions_2016_Value,1317
+710,South Africa,2000,0.37,2000,USD_Millions_2016_Value,1318
+710,South Africa,2001,1.15,2001,USD_Millions_2016_Value,1319
+710,South Africa,2002,24.06,2002,USD_Millions_2016_Value,1320
+710,South Africa,2004,0.04,2004,USD_Millions_2016_Value,1321
+710,South Africa,2005,12.29,2005,USD_Millions_2016_Value,1322
+710,South Africa,2006,7.46,2006,USD_Millions_2016_Value,1323
+710,South Africa,2007,1.11,2007,USD_Millions_2016_Value,1324
+710,South Africa,2008,1.1,2008,USD_Millions_2016_Value,1325
+710,South Africa,2009,0.09,2009,USD_Millions_2016_Value,1326
+710,South Africa,2010,250.18,2010,USD_Millions_2016_Value,1327
+710,South Africa,2011,253.95,2011,USD_Millions_2016_Value,1328
+710,South Africa,2012,458.67,2012,USD_Millions_2016_Value,1329
+710,South Africa,2013,318.83,2013,USD_Millions_2016_Value,1330
+710,South Africa,2014,191.15,2014,USD_Millions_2016_Value,1331
+710,South Africa,2015,688.14,2015,USD_Millions_2016_Value,1332
+710,South Africa,2016,194.78,2016,USD_Millions_2016_Value,1333
+716,Zimbabwe,2000,0.03,2000,USD_Millions_2016_Value,1334
+716,Zimbabwe,2001,0.27,2001,USD_Millions_2016_Value,1335
+716,Zimbabwe,2003,0.01,2003,USD_Millions_2016_Value,1336
+716,Zimbabwe,2005,0.47,2005,USD_Millions_2016_Value,1337
+716,Zimbabwe,2009,0.02,2009,USD_Millions_2016_Value,1338
+716,Zimbabwe,2011,1.05,2011,USD_Millions_2016_Value,1339
+716,Zimbabwe,2013,304.79,2013,USD_Millions_2016_Value,1340
+716,Zimbabwe,2014,0.05,2014,USD_Millions_2016_Value,1341
+716,Zimbabwe,2016,0.03,2016,USD_Millions_2016_Value,1342
+722,Small island developing States (SIDS),2000,21.42,2000,USD_Millions_2016_Value,1343
+722,Small island developing States (SIDS),2001,28.4,2001,USD_Millions_2016_Value,1344
+722,Small island developing States (SIDS),2002,7.78,2002,USD_Millions_2016_Value,1345
+722,Small island developing States (SIDS),2003,4.68,2003,USD_Millions_2016_Value,1346
+722,Small island developing States (SIDS),2004,1.85,2004,USD_Millions_2016_Value,1347
+722,Small island developing States (SIDS),2005,23.83,2005,USD_Millions_2016_Value,1348
+722,Small island developing States (SIDS),2006,2.68,2006,USD_Millions_2016_Value,1349
+722,Small island developing States (SIDS),2007,15.84,2007,USD_Millions_2016_Value,1350
+722,Small island developing States (SIDS),2008,3.28,2008,USD_Millions_2016_Value,1351
+722,Small island developing States (SIDS),2009,151.96,2009,USD_Millions_2016_Value,1352
+722,Small island developing States (SIDS),2010,173.1,2010,USD_Millions_2016_Value,1353
+722,Small island developing States (SIDS),2011,246.04,2011,USD_Millions_2016_Value,1354
+722,Small island developing States (SIDS),2012,55.04,2012,USD_Millions_2016_Value,1355
+722,Small island developing States (SIDS),2013,164.01,2013,USD_Millions_2016_Value,1356
+722,Small island developing States (SIDS),2014,259.12,2014,USD_Millions_2016_Value,1357
+722,Small island developing States (SIDS),2015,293.44,2015,USD_Millions_2016_Value,1358
+722,Small island developing States (SIDS),2016,268.39,2016,USD_Millions_2016_Value,1359
+728,South Sudan,2011,0.95,2011,USD_Millions_2016_Value,1360
+728,South Sudan,2012,1.59,2012,USD_Millions_2016_Value,1361
+728,South Sudan,2013,1.4,2013,USD_Millions_2016_Value,1362
+728,South Sudan,2015,0.07,2015,USD_Millions_2016_Value,1363
+728,South Sudan,2016,0.03,2016,USD_Millions_2016_Value,1364
+729,Sudan,2003,1254.82,2003,USD_Millions_2016_Value,1365
+729,Sudan,2010,81.93,2010,USD_Millions_2016_Value,1366
+729,Sudan,2011,26.55,2011,USD_Millions_2016_Value,1367
+729,Sudan,2012,0.12,2012,USD_Millions_2016_Value,1368
+729,Sudan,2013,3.22,2013,USD_Millions_2016_Value,1369
+729,Sudan,2014,0.38,2014,USD_Millions_2016_Value,1370
+729,Sudan,2015,0.03,2015,USD_Millions_2016_Value,1371
+729,Sudan,2016,0.04,2016,USD_Millions_2016_Value,1372
+740,Suriname,2009,0.38,2009,USD_Millions_2016_Value,1373
+740,Suriname,2011,3.89,2011,USD_Millions_2016_Value,1374
+740,Suriname,2013,0.02,2013,USD_Millions_2016_Value,1375
+740,Suriname,2014,0,2014,USD_Millions_2016_Value,1376
+747,Northern Africa and Western Asia,2000,146.77,2000,USD_Millions_2016_Value,1377
+747,Northern Africa and Western Asia,2001,60.73,2001,USD_Millions_2016_Value,1378
+747,Northern Africa and Western Asia,2002,18.74,2002,USD_Millions_2016_Value,1379
+747,Northern Africa and Western Asia,2003,1486.96,2003,USD_Millions_2016_Value,1380
+747,Northern Africa and Western Asia,2004,326.63,2004,USD_Millions_2016_Value,1381
+747,Northern Africa and Western Asia,2005,307.07,2005,USD_Millions_2016_Value,1382
+747,Northern Africa and Western Asia,2006,140.16,2006,USD_Millions_2016_Value,1383
+747,Northern Africa and Western Asia,2007,309.35,2007,USD_Millions_2016_Value,1384
+747,Northern Africa and Western Asia,2008,591.24,2008,USD_Millions_2016_Value,1385
+747,Northern Africa and Western Asia,2009,990.55,2009,USD_Millions_2016_Value,1386
+747,Northern Africa and Western Asia,2010,1932.71,2010,USD_Millions_2016_Value,1387
+747,Northern Africa and Western Asia,2011,1249.97,2011,USD_Millions_2016_Value,1388
+747,Northern Africa and Western Asia,2012,1604.76,2012,USD_Millions_2016_Value,1389
+747,Northern Africa and Western Asia,2013,917.87,2013,USD_Millions_2016_Value,1390
+747,Northern Africa and Western Asia,2014,2465.68,2014,USD_Millions_2016_Value,1391
+747,Northern Africa and Western Asia,2015,1254.89,2015,USD_Millions_2016_Value,1392
+747,Northern Africa and Western Asia,2016,3121.14,2016,USD_Millions_2016_Value,1393
+748,Eswatini,2003,9.28,2003,USD_Millions_2016_Value,1394
+748,Eswatini,2015,1,2015,USD_Millions_2016_Value,1395
+753,Eastern and South-Eastern Asia,2000,394.04,2000,USD_Millions_2016_Value,1396
+753,Eastern and South-Eastern Asia,2001,435.04,2001,USD_Millions_2016_Value,1397
+753,Eastern and South-Eastern Asia,2002,375.23,2002,USD_Millions_2016_Value,1398
+753,Eastern and South-Eastern Asia,2003,673.71,2003,USD_Millions_2016_Value,1399
+753,Eastern and South-Eastern Asia,2004,1159.2,2004,USD_Millions_2016_Value,1400
+753,Eastern and South-Eastern Asia,2005,409.84,2005,USD_Millions_2016_Value,1401
+753,Eastern and South-Eastern Asia,2006,403.64,2006,USD_Millions_2016_Value,1402
+753,Eastern and South-Eastern Asia,2007,1299.79,2007,USD_Millions_2016_Value,1403
+753,Eastern and South-Eastern Asia,2008,381.28,2008,USD_Millions_2016_Value,1404
+753,Eastern and South-Eastern Asia,2009,924.26,2009,USD_Millions_2016_Value,1405
+753,Eastern and South-Eastern Asia,2010,900.34,2010,USD_Millions_2016_Value,1406
+753,Eastern and South-Eastern Asia,2011,1506.29,2011,USD_Millions_2016_Value,1407
+753,Eastern and South-Eastern Asia,2012,391.34,2012,USD_Millions_2016_Value,1408
+753,Eastern and South-Eastern Asia,2013,2011.76,2013,USD_Millions_2016_Value,1409
+753,Eastern and South-Eastern Asia,2014,975.53,2014,USD_Millions_2016_Value,1410
+753,Eastern and South-Eastern Asia,2015,675.79,2015,USD_Millions_2016_Value,1411
+753,Eastern and South-Eastern Asia,2016,2847.1,2016,USD_Millions_2016_Value,1412
+760,Syrian Arab Republic,2010,5.22,2010,USD_Millions_2016_Value,1413
+762,Tajikistan,2002,9.31,2002,USD_Millions_2016_Value,1414
+762,Tajikistan,2003,21.15,2003,USD_Millions_2016_Value,1415
+762,Tajikistan,2005,0.54,2005,USD_Millions_2016_Value,1416
+762,Tajikistan,2006,0.52,2006,USD_Millions_2016_Value,1417
+762,Tajikistan,2007,21.91,2007,USD_Millions_2016_Value,1418
+762,Tajikistan,2008,32.79,2008,USD_Millions_2016_Value,1419
+762,Tajikistan,2009,0.14,2009,USD_Millions_2016_Value,1420
+762,Tajikistan,2010,6.45,2010,USD_Millions_2016_Value,1421
+762,Tajikistan,2011,0.85,2011,USD_Millions_2016_Value,1422
+762,Tajikistan,2012,3.54,2012,USD_Millions_2016_Value,1423
+762,Tajikistan,2013,129.1,2013,USD_Millions_2016_Value,1424
+762,Tajikistan,2014,0.41,2014,USD_Millions_2016_Value,1425
+762,Tajikistan,2015,0.18,2015,USD_Millions_2016_Value,1426
+762,Tajikistan,2016,0.09,2016,USD_Millions_2016_Value,1427
+764,Thailand,2000,0.15,2000,USD_Millions_2016_Value,1428
+764,Thailand,2001,6.41,2001,USD_Millions_2016_Value,1429
+764,Thailand,2002,10.11,2002,USD_Millions_2016_Value,1430
+764,Thailand,2003,3.48,2003,USD_Millions_2016_Value,1431
+764,Thailand,2004,1.47,2004,USD_Millions_2016_Value,1432
+764,Thailand,2006,0.09,2006,USD_Millions_2016_Value,1433
+764,Thailand,2007,0.42,2007,USD_Millions_2016_Value,1434
+764,Thailand,2008,4.37,2008,USD_Millions_2016_Value,1435
+764,Thailand,2009,1.62,2009,USD_Millions_2016_Value,1436
+764,Thailand,2010,3.98,2010,USD_Millions_2016_Value,1437
+764,Thailand,2011,271.84,2011,USD_Millions_2016_Value,1438
+764,Thailand,2012,114.59,2012,USD_Millions_2016_Value,1439
+764,Thailand,2013,52.59,2013,USD_Millions_2016_Value,1440
+764,Thailand,2014,4.23,2014,USD_Millions_2016_Value,1441
+764,Thailand,2015,53.41,2015,USD_Millions_2016_Value,1442
+764,Thailand,2016,0.4,2016,USD_Millions_2016_Value,1443
+768,Togo,2006,0.02,2006,USD_Millions_2016_Value,1444
+768,Togo,2012,0.02,2012,USD_Millions_2016_Value,1445
+768,Togo,2013,0.15,2013,USD_Millions_2016_Value,1446
+768,Togo,2014,8.6,2014,USD_Millions_2016_Value,1447
+768,Togo,2015,4.48,2015,USD_Millions_2016_Value,1448
+768,Togo,2016,0.05,2016,USD_Millions_2016_Value,1449
+772,Tokelau,2011,5.23,2011,USD_Millions_2016_Value,1450
+776,Tonga,2004,0.02,2004,USD_Millions_2016_Value,1451
+776,Tonga,2005,0.75,2005,USD_Millions_2016_Value,1452
+776,Tonga,2006,0.43,2006,USD_Millions_2016_Value,1453
+776,Tonga,2009,0,2009,USD_Millions_2016_Value,1454
+776,Tonga,2010,5.65,2010,USD_Millions_2016_Value,1455
+776,Tonga,2011,11.8,2011,USD_Millions_2016_Value,1456
+776,Tonga,2012,7.52,2012,USD_Millions_2016_Value,1457
+776,Tonga,2013,17.46,2013,USD_Millions_2016_Value,1458
+776,Tonga,2014,2.42,2014,USD_Millions_2016_Value,1459
+776,Tonga,2015,13.44,2015,USD_Millions_2016_Value,1460
+776,Tonga,2016,2.86,2016,USD_Millions_2016_Value,1461
+788,Tunisia,2000,4.21,2000,USD_Millions_2016_Value,1462
+788,Tunisia,2001,4.13,2001,USD_Millions_2016_Value,1463
+788,Tunisia,2002,5.03,2002,USD_Millions_2016_Value,1464
+788,Tunisia,2003,0.4,2003,USD_Millions_2016_Value,1465
+788,Tunisia,2004,0.27,2004,USD_Millions_2016_Value,1466
+788,Tunisia,2005,17.47,2005,USD_Millions_2016_Value,1467
+788,Tunisia,2006,23.27,2006,USD_Millions_2016_Value,1468
+788,Tunisia,2007,1.58,2007,USD_Millions_2016_Value,1469
+788,Tunisia,2008,225.08,2008,USD_Millions_2016_Value,1470
+788,Tunisia,2009,117.67,2009,USD_Millions_2016_Value,1471
+788,Tunisia,2010,124.51,2010,USD_Millions_2016_Value,1472
+788,Tunisia,2011,0.79,2011,USD_Millions_2016_Value,1473
+788,Tunisia,2012,172.84,2012,USD_Millions_2016_Value,1474
+788,Tunisia,2013,8.88,2013,USD_Millions_2016_Value,1475
+788,Tunisia,2015,8.34,2015,USD_Millions_2016_Value,1476
+788,Tunisia,2016,43.43,2016,USD_Millions_2016_Value,1477
+792,Turkey,2000,126.07,2000,USD_Millions_2016_Value,1478
+792,Turkey,2001,0.01,2001,USD_Millions_2016_Value,1479
+792,Turkey,2004,123.64,2004,USD_Millions_2016_Value,1480
+792,Turkey,2005,0.33,2005,USD_Millions_2016_Value,1481
+792,Turkey,2006,0.23,2006,USD_Millions_2016_Value,1482
+792,Turkey,2007,1.56,2007,USD_Millions_2016_Value,1483
+792,Turkey,2008,62.68,2008,USD_Millions_2016_Value,1484
+792,Turkey,2009,473.97,2009,USD_Millions_2016_Value,1485
+792,Turkey,2010,270.18,2010,USD_Millions_2016_Value,1486
+792,Turkey,2011,764.45,2011,USD_Millions_2016_Value,1487
+792,Turkey,2012,265.3,2012,USD_Millions_2016_Value,1488
+792,Turkey,2013,568.91,2013,USD_Millions_2016_Value,1489
+792,Turkey,2014,509.18,2014,USD_Millions_2016_Value,1490
+792,Turkey,2015,393.99,2015,USD_Millions_2016_Value,1491
+792,Turkey,2016,1361.23,2016,USD_Millions_2016_Value,1492
+795,Turkmenistan,2009,0.03,2009,USD_Millions_2016_Value,1493
+795,Turkmenistan,2013,5.71,2013,USD_Millions_2016_Value,1494
+795,Turkmenistan,2014,0.04,2014,USD_Millions_2016_Value,1495
+795,Turkmenistan,2015,0.12,2015,USD_Millions_2016_Value,1496
+795,Turkmenistan,2016,0.08,2016,USD_Millions_2016_Value,1497
+798,Tuvalu,2008,0.03,2008,USD_Millions_2016_Value,1498
+798,Tuvalu,2009,0.01,2009,USD_Millions_2016_Value,1499
+798,Tuvalu,2010,0.52,2010,USD_Millions_2016_Value,1500
+798,Tuvalu,2011,0.01,2011,USD_Millions_2016_Value,1501
+798,Tuvalu,2012,2.2,2012,USD_Millions_2016_Value,1502
+798,Tuvalu,2013,4.58,2013,USD_Millions_2016_Value,1503
+798,Tuvalu,2014,19.92,2014,USD_Millions_2016_Value,1504
+798,Tuvalu,2015,8.24,2015,USD_Millions_2016_Value,1505
+800,Uganda,2000,25.82,2000,USD_Millions_2016_Value,1506
+800,Uganda,2001,6.36,2001,USD_Millions_2016_Value,1507
+800,Uganda,2002,3.52,2002,USD_Millions_2016_Value,1508
+800,Uganda,2003,0.61,2003,USD_Millions_2016_Value,1509
+800,Uganda,2004,0.03,2004,USD_Millions_2016_Value,1510
+800,Uganda,2005,0.07,2005,USD_Millions_2016_Value,1511
+800,Uganda,2006,0.06,2006,USD_Millions_2016_Value,1512
+800,Uganda,2007,422.62,2007,USD_Millions_2016_Value,1513
+800,Uganda,2008,18.54,2008,USD_Millions_2016_Value,1514
+800,Uganda,2009,70.65,2009,USD_Millions_2016_Value,1515
+800,Uganda,2010,27.59,2010,USD_Millions_2016_Value,1516
+800,Uganda,2011,25.65,2011,USD_Millions_2016_Value,1517
+800,Uganda,2012,22.2,2012,USD_Millions_2016_Value,1518
+800,Uganda,2013,1405.72,2013,USD_Millions_2016_Value,1519
+800,Uganda,2014,30.57,2014,USD_Millions_2016_Value,1520
+800,Uganda,2015,535.19,2015,USD_Millions_2016_Value,1521
+800,Uganda,2016,178.09,2016,USD_Millions_2016_Value,1522
+818,Egypt,2000,10.2,2000,USD_Millions_2016_Value,1523
+818,Egypt,2001,29.68,2001,USD_Millions_2016_Value,1524
+818,Egypt,2002,0.51,2002,USD_Millions_2016_Value,1525
+818,Egypt,2003,203.91,2003,USD_Millions_2016_Value,1526
+818,Egypt,2004,45.31,2004,USD_Millions_2016_Value,1527
+818,Egypt,2005,96.32,2005,USD_Millions_2016_Value,1528
+818,Egypt,2006,0.48,2006,USD_Millions_2016_Value,1529
+818,Egypt,2007,92.8,2007,USD_Millions_2016_Value,1530
+818,Egypt,2008,85.68,2008,USD_Millions_2016_Value,1531
+818,Egypt,2009,247.2,2009,USD_Millions_2016_Value,1532
+818,Egypt,2010,992.43,2010,USD_Millions_2016_Value,1533
+818,Egypt,2011,113.31,2011,USD_Millions_2016_Value,1534
+818,Egypt,2012,14.18,2012,USD_Millions_2016_Value,1535
+818,Egypt,2013,153.23,2013,USD_Millions_2016_Value,1536
+818,Egypt,2014,0.08,2014,USD_Millions_2016_Value,1537
+818,Egypt,2015,273.19,2015,USD_Millions_2016_Value,1538
+818,Egypt,2016,303.83,2016,USD_Millions_2016_Value,1539
+834,United Republic of Tanzania,2000,0.2,2000,USD_Millions_2016_Value,1540
+834,United Republic of Tanzania,2001,2.27,2001,USD_Millions_2016_Value,1541
+834,United Republic of Tanzania,2002,1.52,2002,USD_Millions_2016_Value,1542
+834,United Republic of Tanzania,2003,3.91,2003,USD_Millions_2016_Value,1543
+834,United Republic of Tanzania,2004,0.08,2004,USD_Millions_2016_Value,1544
+834,United Republic of Tanzania,2005,0.04,2005,USD_Millions_2016_Value,1545
+834,United Republic of Tanzania,2006,0.11,2006,USD_Millions_2016_Value,1546
+834,United Republic of Tanzania,2007,19.15,2007,USD_Millions_2016_Value,1547
+834,United Republic of Tanzania,2008,58.98,2008,USD_Millions_2016_Value,1548
+834,United Republic of Tanzania,2009,0.52,2009,USD_Millions_2016_Value,1549
+834,United Republic of Tanzania,2010,8.47,2010,USD_Millions_2016_Value,1550
+834,United Republic of Tanzania,2011,8.04,2011,USD_Millions_2016_Value,1551
+834,United Republic of Tanzania,2012,3.27,2012,USD_Millions_2016_Value,1552
+834,United Republic of Tanzania,2013,162.77,2013,USD_Millions_2016_Value,1553
+834,United Republic of Tanzania,2014,43.53,2014,USD_Millions_2016_Value,1554
+834,United Republic of Tanzania,2015,35.08,2015,USD_Millions_2016_Value,1555
+834,United Republic of Tanzania,2016,145.97,2016,USD_Millions_2016_Value,1556
+854,Burkina Faso,2000,0.12,2000,USD_Millions_2016_Value,1557
+854,Burkina Faso,2001,14.51,2001,USD_Millions_2016_Value,1558
+854,Burkina Faso,2002,0.02,2002,USD_Millions_2016_Value,1559
+854,Burkina Faso,2004,5.04,2004,USD_Millions_2016_Value,1560
+854,Burkina Faso,2005,15.23,2005,USD_Millions_2016_Value,1561
+854,Burkina Faso,2007,3.41,2007,USD_Millions_2016_Value,1562
+854,Burkina Faso,2008,7.58,2008,USD_Millions_2016_Value,1563
+854,Burkina Faso,2009,0.68,2009,USD_Millions_2016_Value,1564
+854,Burkina Faso,2010,1.29,2010,USD_Millions_2016_Value,1565
+854,Burkina Faso,2011,0.03,2011,USD_Millions_2016_Value,1566
+854,Burkina Faso,2012,1.42,2012,USD_Millions_2016_Value,1567
+854,Burkina Faso,2013,30.76,2013,USD_Millions_2016_Value,1568
+854,Burkina Faso,2014,36.89,2014,USD_Millions_2016_Value,1569
+854,Burkina Faso,2015,25.14,2015,USD_Millions_2016_Value,1570
+854,Burkina Faso,2016,28.1,2016,USD_Millions_2016_Value,1571
+858,Uruguay,2001,1.26,2001,USD_Millions_2016_Value,1572
+858,Uruguay,2003,22.58,2003,USD_Millions_2016_Value,1573
+858,Uruguay,2005,0,2005,USD_Millions_2016_Value,1574
+858,Uruguay,2006,0,2006,USD_Millions_2016_Value,1575
+858,Uruguay,2007,0.84,2007,USD_Millions_2016_Value,1576
+858,Uruguay,2009,6.76,2009,USD_Millions_2016_Value,1577
+858,Uruguay,2010,1.07,2010,USD_Millions_2016_Value,1578
+858,Uruguay,2011,7.45,2011,USD_Millions_2016_Value,1579
+858,Uruguay,2012,278.91,2012,USD_Millions_2016_Value,1580
+858,Uruguay,2013,200.91,2013,USD_Millions_2016_Value,1581
+858,Uruguay,2014,166.43,2014,USD_Millions_2016_Value,1582
+858,Uruguay,2015,198.83,2015,USD_Millions_2016_Value,1583
+858,Uruguay,2016,67.03,2016,USD_Millions_2016_Value,1584
+860,Uzbekistan,2004,0.21,2004,USD_Millions_2016_Value,1585
+860,Uzbekistan,2012,90.64,2012,USD_Millions_2016_Value,1586
+860,Uzbekistan,2013,189.26,2013,USD_Millions_2016_Value,1587
+860,Uzbekistan,2015,0.26,2015,USD_Millions_2016_Value,1588
+860,Uzbekistan,2016,0.67,2016,USD_Millions_2016_Value,1589
+862,Venezuela (Bolivarian Republic of),2000,0.81,2000,USD_Millions_2016_Value,1590
+862,Venezuela (Bolivarian Republic of),2004,0.02,2004,USD_Millions_2016_Value,1591
+862,Venezuela (Bolivarian Republic of),2006,778.44,2006,USD_Millions_2016_Value,1592
+862,Venezuela (Bolivarian Republic of),2009,0.18,2009,USD_Millions_2016_Value,1593
+862,Venezuela (Bolivarian Republic of),2010,1220.25,2010,USD_Millions_2016_Value,1594
+862,Venezuela (Bolivarian Republic of),2011,336.58,2011,USD_Millions_2016_Value,1595
+862,Venezuela (Bolivarian Republic of),2012,0.01,2012,USD_Millions_2016_Value,1596
+862,Venezuela (Bolivarian Republic of),2013,0.01,2013,USD_Millions_2016_Value,1597
+862,Venezuela (Bolivarian Republic of),2014,4.19,2014,USD_Millions_2016_Value,1598
+882,Samoa,2009,0,2009,USD_Millions_2016_Value,1599
+882,Samoa,2010,0.2,2010,USD_Millions_2016_Value,1600
+882,Samoa,2013,4.52,2013,USD_Millions_2016_Value,1601
+882,Samoa,2014,31.49,2014,USD_Millions_2016_Value,1602
+882,Samoa,2015,0.01,2015,USD_Millions_2016_Value,1603
+882,Samoa,2016,0,2016,USD_Millions_2016_Value,1604
+887,Yemen,2000,1.39,2000,USD_Millions_2016_Value,1605
+887,Yemen,2001,0.03,2001,USD_Millions_2016_Value,1606
+887,Yemen,2002,0,2002,USD_Millions_2016_Value,1607
+887,Yemen,2004,0.1,2004,USD_Millions_2016_Value,1608
+887,Yemen,2005,0.13,2005,USD_Millions_2016_Value,1609
+887,Yemen,2006,0.12,2006,USD_Millions_2016_Value,1610
+887,Yemen,2007,0.11,2007,USD_Millions_2016_Value,1611
+887,Yemen,2008,0.14,2008,USD_Millions_2016_Value,1612
+887,Yemen,2009,10.94,2009,USD_Millions_2016_Value,1613
+887,Yemen,2010,0.3,2010,USD_Millions_2016_Value,1614
+887,Yemen,2012,76.4,2012,USD_Millions_2016_Value,1615
+887,Yemen,2013,0.63,2013,USD_Millions_2016_Value,1616
+887,Yemen,2014,17.95,2014,USD_Millions_2016_Value,1617
+894,Zambia,2000,0.01,2000,USD_Millions_2016_Value,1618
+894,Zambia,2004,2.46,2004,USD_Millions_2016_Value,1619
+894,Zambia,2005,9.73,2005,USD_Millions_2016_Value,1620
+894,Zambia,2006,0.09,2006,USD_Millions_2016_Value,1621
+894,Zambia,2007,0.02,2007,USD_Millions_2016_Value,1622
+894,Zambia,2008,18.35,2008,USD_Millions_2016_Value,1623
+894,Zambia,2009,0.14,2009,USD_Millions_2016_Value,1624
+894,Zambia,2010,377.64,2010,USD_Millions_2016_Value,1625
+894,Zambia,2011,71.83,2011,USD_Millions_2016_Value,1626
+894,Zambia,2012,0.01,2012,USD_Millions_2016_Value,1627
+894,Zambia,2013,1.88,2013,USD_Millions_2016_Value,1628
+894,Zambia,2014,224.2,2014,USD_Millions_2016_Value,1629
+894,Zambia,2015,1685.34,2015,USD_Millions_2016_Value,1630
+894,Zambia,2016,103.89,2016,USD_Millions_2016_Value,1631
