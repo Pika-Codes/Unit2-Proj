@@ -32,15 +32,106 @@
         <br>
         <br>
 
-        <div class="parllax"></div>
+        <div class="parallax1"></div>
 
-        <div class="text">
+        <div class="textI">
 
             <br>
-            <p>This is where all of the information on the problem will go.</p>
+
+            <button type="button" class="collapsible">The Horrors Of Climate Change</button>
+            <div class="content">
+
+                <p>
+                    Rising average temperatures do not simply mean balmier winters. Some regions will experience more extreme 
+                    heat while others may cool slightly. Flooding, drought and intense summer heat could result. Violent storms
+                    and other extreme weather events could also result from the increased energy stored in our warming 
+                    atmosphere.
+                    One of the most serious impacts of climate change is how it will affect water resources around the world. 
+                    Water is intimately tied to other resource and social issues such as food supply, health, industry, 
+                    transportation and ecosystem integrity.
+                    Climate change also threatens the health of our children and grandchildren through increased disease, 
+                    freshwater shortages, worsened smog and more. These impacts also pose incalculable economic risks that far
+                    outweigh the economic risks of taking action today.
+                    The world’s leading scientists report that to prevent dangerous levels of global warming governments should
+                    act to limit global warming to less than 2ºC by taking concerted action to reduce greenhouse gas emissions.
+                    The sooner we act to reduce greenhouse gases, the less severe impacts will be. Now is the time to 
+                    implement solutions.
+                </p>
+
+            </div>
+
+            <button type="button" class="collapsible">What We And Governments Can Do</button>
+            <div class="content">
+
+                <p>
+
+                    Here are some tips to help reduce your impact on climate change.
+                    Consider making some or all of these small changes. Together, they can really add up.
+                    A house with a furnace is like a car that idles all day. Swap your furnace for a heat pump, which works 
+                    by extracting heat from one location and transferring it to another
+                    Install a programmable thermostat
+                    Swap your gas stove for an electric stove, which will also lower indoor air pollution
+                    Unplug computers, TVs and other electronics when you’re not using them
+                    Wash clothes in cold water. Hang-dry your clothes when you can and use  dryer balls  when you can’t
+                    Look for the Energy Star label when buying new appliances
+                    Winterize your home to prevent heat from escaping and try to keep it cool in the summer without an air 
+                    conditioner
+                    Change to energy-efficient light bulbs
+                    Get a home or workplace energy audit to identify where you can make the most energy-saving gains
+                    Eat more meat-free meals
+                    Buy organic and local whenever possible
+                    Don’t waste food
+                    Grow your own
+                    And, Most importantly,
+                    Solving climate change requires us all to work together. We can’t do that without finding common ground 
+                    with those who may not share our perspective.
+                    Since people often trust peers, family members and loved ones more than they trust experts, 
+                    scientists and environmental organizations, you can talk to people about climate change in ways we can’t. 
+                    You are more likely to open people’s minds.
+                    If you do theese things, you will not only reduce your impact, you will also create enough talk for 
+                    the talk to spread, and maybe it will get into the ears of the government.
+
+                </p>
+
+            </div>
+
+            <button type="button" class="collapsible">My proposed Solution</button>
+            <div class="content">
+
+                <p>
+
+                    My propsed solution is to convince you to raise discussions about this issue. 
+                    Eventually, enough talk will happen, the parties will need to listen to us to get seats in the parliment.
+                    Then, my proposed course of action for the government is to give rebates on people instaalling solar panels
+                    or tiles on their roofs. This will encourage people to do it, and the power grid will have less of a strain 
+                    on it, leaving more room for the power plants to be replaced with sustainable sources of energy.
+
+                </p>
+
+            </div>
 
         </div>
 
     </body>
+
+    <script>
+
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+        
+        for (i = 0; i < coll.length; i++) {
+          coll[i].addEventListener("click", function() {
+                this.classList.toggle("extended");
+                var content = this.nextElementSibling;
+                if (content.style.display === "block") {
+                    content.style.display = "none";
+                }   
+                else {
+                    content.style.display = "block";
+                }
+            });
+        }
+
+        </script>
 
 </html>

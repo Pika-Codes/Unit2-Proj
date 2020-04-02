@@ -9370,7 +9370,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2002,
     "Value": 0.05,
     "Time_Detail": 2002,
@@ -9379,7 +9379,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2003,
     "Value": 0.05,
     "Time_Detail": 2003,
@@ -9388,7 +9388,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2004,
     "Value": 0.36,
     "Time_Detail": 2004,
@@ -9397,7 +9397,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2005,
     "Value": 15.57,
     "Time_Detail": 2005,
@@ -9406,7 +9406,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2006,
     "Value": 0.43,
     "Time_Detail": 2006,
@@ -9415,7 +9415,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2007,
     "Value": 14.35,
     "Time_Detail": 2007,
@@ -9424,7 +9424,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2008,
     "Value": 0.2,
     "Time_Detail": 2008,
@@ -9433,7 +9433,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2009,
     "Value": 131.06,
     "Time_Detail": 2009,
@@ -9442,7 +9442,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2010,
     "Value": 9,
     "Time_Detail": 2010,
@@ -9451,7 +9451,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2011,
     "Value": 56.79,
     "Time_Detail": 2011,
@@ -9460,7 +9460,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2012,
     "Value": 20.22,
     "Time_Detail": 2012,
@@ -9469,7 +9469,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2013,
     "Value": 62.24,
     "Time_Detail": 2013,
@@ -9478,7 +9478,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2014,
     "Value": 100.68,
     "Time_Detail": 2014,
@@ -9487,7 +9487,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2015,
     "Value": 85.86,
     "Time_Detail": 2015,
@@ -9496,7 +9496,7 @@ data = [
   },
   {
     "GeoAreaCode": 543,
-    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "GeoAreaName": "Oceania",
     "TimePeriod": 2016,
     "Value": 48.55,
     "Time_Detail": 2016,
@@ -9955,7 +9955,7 @@ data = [
   },
   {
     "GeoAreaCode": 583,
-    "GeoAreaName": "Micronesia (Federated States of)",
+    "GeoAreaName": "Micronesia",
     "TimePeriod": 2005,
     "Value": 5.21,
     "Time_Detail": 2005,
@@ -9964,7 +9964,7 @@ data = [
   },
   {
     "GeoAreaCode": 583,
-    "GeoAreaName": "Micronesia (Federated States of)",
+    "GeoAreaName": "Micronesia",
     "TimePeriod": 2007,
     "Value": 0,
     "Time_Detail": 2007,
@@ -9973,7 +9973,7 @@ data = [
   },
   {
     "GeoAreaCode": 583,
-    "GeoAreaName": "Micronesia (Federated States of)",
+    "GeoAreaName": "Micronesia",
     "TimePeriod": 2009,
     "Value": 13.72,
     "Time_Detail": 2009,
@@ -9982,7 +9982,7 @@ data = [
   },
   {
     "GeoAreaCode": 583,
-    "GeoAreaName": "Micronesia (Federated States of)",
+    "GeoAreaName": "Micronesia",
     "TimePeriod": 2012,
     "Value": 0.02,
     "Time_Detail": 2012,
@@ -9991,7 +9991,7 @@ data = [
   },
   {
     "GeoAreaCode": 583,
-    "GeoAreaName": "Micronesia (Federated States of)",
+    "GeoAreaName": "Micronesia",
     "TimePeriod": 2013,
     "Value": 5.52,
     "Time_Detail": 2013,
@@ -10000,7 +10000,7 @@ data = [
   },
   {
     "GeoAreaCode": 583,
-    "GeoAreaName": "Micronesia (Federated States of)",
+    "GeoAreaName": "Micronesia",
     "TimePeriod": 2014,
     "Value": 0.78,
     "Time_Detail": 2014,
@@ -10009,7 +10009,7 @@ data = [
   },
   {
     "GeoAreaCode": 583,
-    "GeoAreaName": "Micronesia (Federated States of)",
+    "GeoAreaName": "Micronesia",
     "TimePeriod": 2015,
     "Value": 3.91,
     "Time_Detail": 2015,
@@ -10018,7 +10018,7 @@ data = [
   },
   {
     "GeoAreaCode": 583,
-    "GeoAreaName": "Micronesia (Federated States of)",
+    "GeoAreaName": "Micronesia",
     "TimePeriod": 2016,
     "Value": 0.01,
     "Time_Detail": 2016,
